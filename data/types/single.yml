@@ -1,0 +1,23 @@
+title: Páginas Únicas
+weight: 0
+base: single
+tpl:
+  menu:
+    logo: n
+    sticky: auto
+    size: lg
+    auto: same-modals
+  callnow: auto
+  section:
+  - size: lg
+    alpha: .7
+    scroll: fix
+    div: curve-side
+    div_x: n
+    div_y: n
+    box:
+      line: y
+      caps: y
+  - color: white
+    div_x: y
+    div_y: y
