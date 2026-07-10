@@ -1,39 +1,41 @@
 name: Contacto
-menu_btn: cta
+id: contacto
+# menu_btn: cta
+size: md
 boxes:
-- title: Contacto
-  sub: ¿En qué podemos ayudarte?
-  icon: send
-  box:
+- title: Dos formas de empezar
+  sub: Primer contacto
+- box:
     cols: 2
   boxes:
-  - dots:
-    - url: https://www.facebook.com/QuantumFracture
-    - url: https://www.instagram.com/quantumfracture/
-    - url: https://www.youtube.com/channel/UCbdSYaPD-lr1kW27UJuk8Pw
-    - url: https://twitter.com/QuantumFracture
-    - url: https://www.linkedin.com/company/quantum-fracture
-    - url: https://github.com/lorensansol
-    - url: https://mastersoflol.com/collections/quantumfracture?YTC
-    when:
-    - days: Lunes a Viernes
-      hours: 9:00 - 12:30 y 14:30 - 20:00
-      full: y
+  # - when:
+  #   - days: Lunes a Viernes
+  #     hours: 9:00 - 12:30 y 14:30 - 20:00
+  #     full: y
+  - md: |
+      1. **Reservar una sesión:** <br> para quien ya quiere iniciar un proceso.
+
+      [[::calendar_today:: Reservar sesión de exploración]](/#reservar "[main]")
+
+      2. **Hablar antes:** <br> para quien necesita orientación o no sabe qué espacio encaja.
+    md_align: left
     links:
-    - type: phone
-      label: 111 222 333
+    # - type: custom
+    #   label: Reservar sesión de exploración
+    #   url: '/#reservar'
+    #   icon: calendar_today
+    #   btn: main
+    # - type: phone
+    #   label: 111 222 333
+    #   full: true
     - type: whatsapp
       label: 111 222 333
-      btn: cta
+      icon: brand:whatsapp-o
     - type: mail
-      label: info@sansoul.es
+      label: amanda@psicomycelium.com
       full: y
-    - type: address
-      label: Ronda de Levante, 1, 30008 Murcia
-      anchor: Sea Como SEO, Ronda de Levante, 1, 30008 Murcia
-    form:
-      mail: sansoul@seacomoseo.com
-    inputs:
+      btn: light
+  - inputs:
     - type: text
       name: Nombre
       icon: person
@@ -41,6 +43,7 @@ boxes:
     - type: phone
       name: Teléfono
       icon: phone
+      req: y
     - type: mail
       name: Email
       icon: mail
@@ -49,7 +52,3 @@ boxes:
       name: Mensaje
       icon: chat_bubble
       req: y
-  - geos:
-    - type: point
-      geo: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
-    rate: 1/1

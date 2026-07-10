@@ -3,10 +3,11 @@ tpl:
   bg:
     color: light
   menu:
+    sticky: auto
     logo: y
-    logo_align: center
+    logo_sticky: n
     clear: y
-    size: sm
+    size: lg
   section:
   - size: sm
   sections:

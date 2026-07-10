@@ -1,7 +1,23 @@
 menu:
-  img: /u/base/logo.svg
-  title: SanSoul
-  sub: Tema de Hugo
+  img: /u/base/logo-h.svg
+  items:
+  - label: Espacios
+    url: '/#espacios'
+  - label: Marco ético
+    url: '/#marco-etico'
+  - label: Jornadas
+    url: '/#jornadas'
+  - label: Recursos
+    url: '/#recursos'
+  - label: Contacto
+    url: '/#contacto'
+    btn: cta
+  - label: Reservar
+    url: '/#reservar'
+    btn: main
 footer:
-  div: curve-side
-  dots: []
+  div: curve-corner-op
+  dots:
+  - url: https://www.instagram.com/psico_mycelium/
+  - url: https://www.youtube.com/@psicomycelium
+  - url: https://www.tiktok.com/@psicomycelium

@@ -1,0 +1,39 @@
+title: Jornadas
+base: event
+weight: 1
+rel: y
+tpl:
+  sections:
+  - file: base-_header
+  - file: base-toc
+  - file: base-content
+  - file: jornadas-formulario
+  - file: base-address
+  - file: base-author
+  - file: base-social
+  - file: base-comments
+  - file: base-children
+  - file: base-share
+  - file: base-rel
+  list:
+    cols: 3
+    # card: y
+    ratio: 2/3
+    align: left
+    shade: n
+    icon: ''
+    icon_pos: side
+    title: hide
+    price: hide
+    md: hide
+    btn: hide
+    tags: []
+    # - type: date
+    # # - type: address
+    # - type: param
+    #   param: address.name
+    #   icon: house
+    # - type: param
+    #   param: address.locality
+    #   icon: location_on
+    # - type: tax

@@ -1,0 +1,28 @@
+name: Jornadas ➡️ Formulario
+node: div
+pt: 0
+boxes:
+- title: Reserva
+  form:
+    # id: example
+    # action: ''
+    # to: '#gracias'
+    # subject: ''
+    mail: info@psicomycelium.com
+  inputs:
+    - type: text
+      name: Nombre
+      icon: person
+      req: y
+    - type: phone
+      name: Teléfono
+      icon: phone
+      req: y
+    - type: mail
+      name: Email
+      icon: mail
+      req: y
+    - type: area
+      name: Mensaje
+      icon: chat_bubble
+      req: y

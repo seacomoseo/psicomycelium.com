@@ -1,28 +1,28 @@
 icons:
   fill: y
-  weight: 700
+  weight: 400
   grade: 0
   optical: 24
-  style: sharp
+  style: rounded
   def:
     play: svg:youtube-iframe
 fonts:
   base:
-    family: Montserrat
-    weight: 400
+    family: Inter
+    weight: 300
     bold: 0
     italic: n
     line_height: 1.25
   cursive:
-    family: Dancing Script
+    family: Lora
     weight: 400
     bold: 0
-    italic: n
+    italic: y
     line_height: 1.25
     size: 1
   title:
-    family: Montserrat
-    weight: 800
+    family: Lora
+    weight: 700
     bold: 0
     italic: n
     line_height: 1.25
@@ -30,7 +30,7 @@ fonts:
   blockquote_cursive: y
 colors:
   main:
-    color: '#bdd5ea'
+    color: '#f49a1a'
     light: '#ffffff'
     dark: '#ffffff'
     turn:
@@ -38,45 +38,45 @@ colors:
       in: y
       text: y
   alt:
-    color: '#ffffff'
-    light: '#ffffff'
-    dark: '#ffffff'
-    turn:
-      fill: y
-      in: y
-      text: y
-  cta:
-    color: '#fe5f55'
+    color: '#e85f4a'
     light: '#ffffff'
     dark: '#ffffff'
     turn:
       fill: n
       in: y
       text: y
+  cta:
+    color: '#7a3a91'
+    light: '#ffffff'
+    dark: '#ffffff'
+    turn:
+      fill: y
+      in: y
+      text: y
   base:
-    white: '#ffffff'
-    light: '#eeeeee'
+    white: '#fff9ee'
+    light: '#efe4d1'
     gray: '#767676'
-    dark: '#282525'
+    dark: '#3B174C'
     black: '#000000'
 rounded:
-  radius: 0.33
-  chamfer: y
+  radius: 1.33
+  chamfer: n
 btns:
-  pill: n
-  disc: n
+  pill: y
+  disc: y
   deep: y
   outline: n
   font:
     type: title
-    bold: n
+    bold: y
     caps: y
   swap:
     type: base
     bold: n
     caps: n
 inputs:
-  fill: n
+  fill: y
   labels: in
 shadow:
   left: 0.15

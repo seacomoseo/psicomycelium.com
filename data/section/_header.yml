@@ -1,18 +1,33 @@
 name: Cabecera
-color: main-dark
-bi: /u/base/poster.png
-scroll: soft
-full: y
+# color: main-dark
+# bi: /u/base/logo-h.svg
+# scroll: soft
+# full: y
+box:
+  cols: 2
+  # duo: 2
 boxes:
 - img: /u/base/logo.svg
-  fit: 0.125
-  fit_vs: 0.5
-- hanchor: SanSoul Hugo Theme HANCHOR
-  title: SanSoul Hugo Theme
+  # fit: 0.125
+  # fit_vs: 0.5
+  order: 2
+- anchor: Psico Mycelium - Psicología, integración y crecimiento humano
+  title: Psicología, integración y crecimiento humano
   hs: 0.2
   caps: n
-  sub: SanSoul es un tema de Hugo con alma para webs de servicios por lorensansol
+  align: left
   md: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    Un espacio de acompañamiento psicológico transpersonal para personas y profesionales que buscan comprender, cuidar e integrar procesos de transformación desde una mirada ética, humana y rigurosa.
 
-    [[::add:: Más]](#nosotros)
+    - Psicoterapia Transpersonal
+    - Preparación e Integración Psicodélica
+    - Acompañamiento en procesos con Microdosis
+    - Jornadas y comunidad
+
+    [[Reservar sesión de exploración]](#reservar "[main]")
+    [[No sé por dónde empezar]](#)
+
+    {{% bg white %}}
+    <strong>Límite claro:</strong> Psico Mycelium no proporciona, facilita ni administra sustancias psicoactivas. El acompañamiento se centra en preparación, integración y cuidado psicológico.
+    {{% / bg %}}
+

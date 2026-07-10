@@ -1,10 +1,9 @@
-name: Noticias
+name: Jornadas
 boxes:
-- title: Noticias
+- title: Jornadas
   sub: Novedades
-  icon: feed
   list:
-    type: all
+    type: event
     max: 12
   box:
     cols: 4

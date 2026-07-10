@@ -1,7 +1,7 @@
 ---
 slug: inicio
 title: Inicio
-img: /u/base/poster.png
+img: /u/base/logo-h.svg
 sum: SanSoul es el alma del tema Hugo de lorensansol con el que generar sitios web estáticos, puedes copiarlo y usarlo como quieras
 seo:
   title: null
@@ -9,49 +9,48 @@ seo:
 tpl:
   sections:
   - file: _header
-  - file: nosotros
-  - file: servicios
-  - file: proceso
-  - file: fotos
-  - file: noticias
-  - file: faq
-  - file: resenas
+  # - file: nosotros
+  # - file: servicios
+  # - file: proceso
+  # - file: fotos
+  - file: jornadas
+  # - file: faq
+  # - file: resenas
   - file: contacto
-  - file: mapa
+  # - file: mapa
 base: org
 org:
   types:
-  - LocalBusiness
   - Organization
   names:
-  - Tema SanSoul de Hugo EJEMPLO
-  - SanSoul
+  - Psico Mycelium
   desc: null
   legal: null
   nif: null
   mail: null
-  logo: /u/base/poster.svg
+  logo: /u/base/logo.svg
   imgs:
-  - /u/base/poster.png
+  - /u/base/logo-h.svg
   as:
-  - https://www.facebook.com/QuantumFracture
-  - https://www.instagram.com/quantumfracture/
-  - https://g.page/r/CQI3T3wmeAB6EBM
+  - https://www.instagram.com/psico_mycelium
+  - https://www.youtube.com/@psicomycelium
+  - https://g.page/r/CQvrkq_RK9xxEBM
   phones:
   - 123456789
   - +34 987 654 321
   address:
-    name: Sea Como SEO
+    name: Psico Mycelium
     street: Ronda de Levante, 1
     pc: '30008'
     locality: Murcia
     region: Murcia
     country: ES
     geo: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
-    url: https://g.page/r/CQI3T3wmeAB6EBM
+    url: https://g.page/r/CQvrkq_RK9xxEBM
   areas:
-  - Región de Murcia
-  - Internacional
+  - Murcia
+  - Valencia
+  - España
   - Online
   when:
   - days:
@@ -64,25 +63,31 @@ org:
       sun: n
     hours:
     - open: 9:00
-      close: 14:00
-    - open: 17:00
-      close: 20:00
-  - days:
-      sat: y
-    hours:
-    - open: 9:00
-      close: 13:00
+      close: 21:00
   prices: €€
   services:
-  - title: Diseño Web
-    desc: null
-    price: 800
-    area: Internacional
-  - title: SEO
-    desc: null
-    price: 250
-    area: Internacional
-  - title: SEM
-    desc: Descripción de ejemplo
-    area: Internacional
+  - title: Psicoterapia Transpersonal
+    # desc: null
+    # price: 0
+    # area: Online
+  - title: Preparación e Integración Psicodélica
+    # desc: null
+    # price: 0
+    # area: Online
+  - title: Acompañamiento en Procesos con Microdosis
+    # desc: null
+    # price: 0
+    # area: Online
+  - title: Tarot Evolutivo
+    # desc: null
+    # price: 0
+    # area: Online
+  - title: Para profesionales
+    # desc: null
+    # price: 0
+    # area: Online
+  - title: Jornadas, talleres y comunidad
+    # desc: null
+    # price: 0
+    # area: Online
 ---
