@@ -13,16 +13,16 @@ boxes:
     - type: text
       name: Nombre
       icon: person
-      req: y
+      req: true
     - type: phone
       name: Teléfono
       icon: phone
-      req: y
+      req: true
     - type: mail
       name: Email
       icon: mail
-      req: y
+      req: true
     - type: area
       name: Mensaje
       icon: chat_bubble
-      req: y
+      req: true

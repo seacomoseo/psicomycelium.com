@@ -2,7 +2,7 @@ name: Cabecera
 # color: main-dark
 # bi: /u/base/logo-h.svg
 # scroll: soft
-# full: y
+# full: true
 box:
   cols: 2
   # duo: 2
@@ -14,7 +14,7 @@ boxes:
 - anchor: Psico Mycelium - Psicología, integración y crecimiento humano
   title: Psicología, integración y crecimiento humano
   hs: 0.2
-  caps: n
+  caps: false
   align: left
   md: |
     Un espacio de acompañamiento psicológico transpersonal para personas y profesionales que buscan comprender, cuidar e integrar procesos de transformación desde una mirada ética, humana y rigurosa.

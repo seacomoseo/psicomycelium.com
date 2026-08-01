@@ -54,13 +54,13 @@ org:
   - Online
   when:
   - days:
-      mon: y
-      tue: y
-      wed: y
-      thu: y
-      fri: y
-      sat: n
-      sun: n
+      mon: true
+      tue: true
+      wed: true
+      thu: true
+      fri: true
+      sat: false
+      sun: false
     hours:
     - open: 9:00
       close: 21:00

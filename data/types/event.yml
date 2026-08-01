@@ -1,7 +1,7 @@
 title: Jornadas
 base: event
 weight: 1
-rel: y
+rel: true
 tpl:
   sections:
   - file: base-_header
@@ -17,10 +17,10 @@ tpl:
   - file: base-rel
   list:
     cols: 3
-    # card: y
+    # card: true
     ratio: 2/3
     align: left
-    shade: n
+    shade: false
     icon: ''
     icon_pos: side
     title: hide

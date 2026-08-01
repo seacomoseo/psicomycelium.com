@@ -4,9 +4,9 @@ tpl:
     color: light
   menu:
     sticky: auto
-    logo: y
-    logo_sticky: n
-    clear: y
+    logo: true
+    logo_sticky: false
+    clear: true
     size: lg
   section:
   - size: sm
@@ -25,13 +25,13 @@ tpl:
     cols: 3
     color: white
     icon: hide
-    shade: y
+    shade: true
     ratio: 16/9
-    inset: y
+    inset: true
     align: left
     btn: hide
     tags:
     - type: date
     - type: address
   rel:
-    slider: y
+    slider: true

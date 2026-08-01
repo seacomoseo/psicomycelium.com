@@ -7,4 +7,4 @@ boxes:
     max: 12
   box:
     cols: 4
-    slider: y
+    slider: true

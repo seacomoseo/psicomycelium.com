@@ -1,5 +1,5 @@
 icons:
-  fill: y
+  fill: true
   weight: 400
   grade: 0
   optical: 24
@@ -11,48 +11,48 @@ fonts:
     family: Inter
     weight: 300
     bold: 0
-    italic: n
+    italic: false
     line_height: 1.25
   cursive:
     family: Lora
     weight: 400
     bold: 0
-    italic: y
+    italic: true
     line_height: 1.25
     size: 1
   title:
     family: Lora
     weight: 700
     bold: 0
-    italic: n
+    italic: false
     line_height: 1.25
     size: 1
-  blockquote_cursive: y
+  blockquote_cursive: true
 colors:
   main:
     color: '#f49a1a'
     light: '#ffffff'
     dark: '#ffffff'
     turn:
-      fill: n
-      in: y
-      text: y
+      fill: false
+      in: true
+      text: true
   alt:
     color: '#e85f4a'
     light: '#ffffff'
     dark: '#ffffff'
     turn:
-      fill: n
-      in: y
-      text: y
+      fill: false
+      in: true
+      text: true
   cta:
     color: '#7a3a91'
     light: '#ffffff'
     dark: '#ffffff'
     turn:
-      fill: y
-      in: y
-      text: y
+      fill: true
+      in: true
+      text: true
   base:
     white: '#fff9ee'
     light: '#efe4d1'
@@ -61,22 +61,22 @@ colors:
     black: '#000000'
 rounded:
   radius: 1.33
-  chamfer: n
+  chamfer: false
 btns:
-  pill: y
-  disc: y
-  deep: y
-  outline: n
+  pill: true
+  disc: true
+  deep: true
+  outline: false
   font:
     type: title
-    bold: y
-    caps: y
+    bold: true
+    caps: true
   swap:
     type: base
-    bold: n
-    caps: n
+    bold: false
+    caps: false
 inputs:
-  fill: y
+  fill: true
   labels: in
 shadow:
   left: 0.15

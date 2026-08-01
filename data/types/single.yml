@@ -8,5 +8,5 @@ tpl:
     alpha: .7
     scroll: fix
     box:
-      line: y
-      caps: y
+      line: true
+      caps: true
