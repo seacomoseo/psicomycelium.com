@@ -68,11 +68,11 @@ btns:
   deep: true
   outline: false
   font:
-    type: title
+    type: base
     bold: true
     caps: false
   swap:
-    type: base
+    type: title
     bold: true
     caps: false
 inputs:

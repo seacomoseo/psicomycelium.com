@@ -15,7 +15,6 @@ boxes:
     # pd_vs: 1.5
     card: true
     rate: 1/1
-    swap: true
     lock: true
     label: Reservar
   boxes:

@@ -6,10 +6,10 @@ boxes:
   md: |
     Propuestas sociales, culturales y educativas vinculadas al espacio. **Formatos:**
 
-    [[Jornadas]](/categoria/jornadas/ "[alt swap sm]")
-    [[Talleres y encuentros]](/categoria/talleres-encuentros/ "[alt swap sm]")
-    [[Retiros]](/categoria/retiros/ "[alt swap sm]")
-    [[Webinars]](/categoria/webinars/ "[alt swap sm]")
+    [[Jornadas]](/categoria/jornadas/ "[alt sm]")
+    [[Talleres y encuentros]](/categoria/talleres-encuentros/ "[alt sm]")
+    [[Retiros]](/categoria/retiros/ "[alt sm]")
+    [[Webinars]](/categoria/webinars/ "[alt sm]")
   align: left
   list:
     type: event

@@ -17,8 +17,6 @@ boxes:
     alpha: .5
     fit: 1.2
     pd_vs: 1.5
-    form:
-      swap: true
     inputs:
     - type: text
       name: Nombre
@@ -57,7 +55,7 @@ boxes:
     pd_vs: 1.5
     boxes:
     - md: |
-        [[::brand:whatsapp-o:: Escribir por WhatsApp]](https://wa.me/34603205578 "[whatsapp swap nofollow ga4]")
+        [[::brand:whatsapp-o:: Escribir por WhatsApp]](https://wa.me/34603205578 "[whatsapp nofollow ga4]")
 
         - ::mail:: amanda@psicomycelium.com <br>
           *Principal*

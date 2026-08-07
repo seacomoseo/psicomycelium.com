@@ -16,7 +16,6 @@ boxes:
     bi: /u/fondo.webp
     alpha: .5
     label: Reservar
-    swap: true
     lock: true
   boxes:
   - sub: 30 min

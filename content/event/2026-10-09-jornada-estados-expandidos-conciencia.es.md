@@ -2,7 +2,7 @@
 slug: jornada-estados-expandidos-conciencia
 title: Estados expandidos de conciencia
 # sum: Esto es un evento de ejemplo
-img: /u/experiencias/2026-10-09-jornada-estados-expandidos-conciencia.jpg
+img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/poster.jpg
 
 date: 2026-10-09 00:00:00
 end: 2026-10-11 00:00:00
@@ -37,5 +37,5 @@ Las Jornadas tienen carácter social, cultural y educativo. No se facilitan sust
 
 **Pedir información:**
 
-[[::mail:: info@psicomycelium.com]](mailto:info@psicomycelium.com?subject=Informaci%C3%B3n%20sobre%20las%20Jornadas%20Psico%20Mycelium "[such swap nofollow]")
-[[::brand:whatsapp-o:: WhatsApp]](https://wa.me/34603205578?text=Hola%2C%20me%20gustar%C3%ADa%20pedir%20informaci%C3%B3n%20sobre%20las%20Jornadas%20Psico%20Mycelium. "[whatsapp swap nofollow]")
+[[::brand:whatsapp-o:: WhatsApp]](https://wa.me/34699190009?text=Hola%2C%20me%20gustar%C3%ADa%20pedir%20informaci%C3%B3n%20sobre%20las%20Jornadas%20Psico%20Mycelium. "[whatsapp nofollow]")
+[[::mail:: info@psicomycelium.com]](mailto:info@psicomycelium.com?subject=Informaci%C3%B3n%20sobre%20las%20Jornadas%20Psico%20Mycelium "[such nofollow]")
