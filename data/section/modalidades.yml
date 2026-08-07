@@ -1,0 +1,36 @@
+name: Modalidades y precios
+id: modalidades
+boxes:
+- sub: Modalidades y precios
+  title: Información clara para reservar
+  align: left
+  md: |
+    Las modalidades individuales y el acompañamiento con microdosis tienen estas condiciones económicas.
+  box:
+    cols: 3
+    align: left
+    color: such
+    bi: /u/fondo.webp
+    # alpha: .5
+    # pd_vs: 1.5
+    card: true
+    rate: 1/1
+    swap: true
+    lock: true
+    label: Reservar
+  boxes:
+  - title: Exploración
+    md: |
+      - 30 min: *gratuita durante lanzamiento*
+    url: https://calendly.com/psicomycelium/30min
+  - title: Psicoterapia, integración y preparación individual
+    md: |
+      - 60 min: *55 €*
+      - 4 sesiones: *180 €*
+    url: https://calendly.com/psicomycelium/primera-sesion-individual
+  - title: Microdosis
+    md: |
+      - 6-8 sesiones: *40 €/sesión*
+      - Reserva inicial: *240 €/6 sesiones* <br> Adicionales: *40 €/sesión*
+      - Sesión individual relacionada: *55 €*
+    url: https://calendly.com/psicomycelium/primera-sesion-individual

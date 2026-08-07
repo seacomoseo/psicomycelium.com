@@ -1,0 +1,21 @@
+title: Categorías
+base: page
+weight: 2
+tax_of:
+- name: event
+noindex: true
+tpl:
+  list:
+    cols: 3
+    card: false
+    color: such
+    align: center
+    ratio: 16/9
+    shade: true
+    inset: true
+    img: hide
+    icon: bookmark
+    icon_pos: top
+    md: hide
+    btn: cta
+    tags: []

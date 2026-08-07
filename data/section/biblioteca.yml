@@ -1,0 +1,25 @@
+name: Biblioteca
+id: biblioteca
+size: sm
+boxes:
+- color: such
+  bi: /u/fondo.webp
+  alpha: .5
+  pd: 3
+  align: left
+  hs: .1
+  sub: Recursos y conocimiento
+  title: Biblioteca
+  md: |
+    Espacio de divulgación con información, guías y herramientas sobre psicología, desarrollo personal y estados expandidos de conciencia.
+
+    **EN CONSTRUCCIÓN**
+    {.cancelled}
+
+    [[Psicoterapia Transpersonal]](#biblioteca "[alt swap sm]")
+    [[Estados Expandidos]](#biblioteca "[alt swap sm]")
+    [[Integración Psicodélica]](#biblioteca "[alt swap sm]")
+    [[Preparación Psicológica]](#biblioteca "[alt swap sm]")
+    [[Microdosis]](#biblioteca "[alt swap sm]")
+    [[Reducción de Riesgos]](#biblioteca "[alt swap sm]")
+    [[Trauma y sistema nervioso]](#biblioteca "[alt swap sm]")

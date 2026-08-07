@@ -1,0 +1,16 @@
+name: Marco ético
+id: marco-etico
+size: sm
+boxes:
+- color: such
+  bi: /u/fondo.webp
+  alpha: .5
+  pd_vs: 3
+  align: left
+  sub: Marco ético
+  title: Psicología primero
+  hs: .1
+  md: |
+    El cuidado psicológico, la evaluación y la responsabilidad ocupan el centro de cualquier acompañamiento.
+
+    **No se proporcionan, facilitan ni administran sustancias, ni se ofrecen indicaciones sobre su obtención, consumo, dosis o protocolos.** El trabajo se limita al acompañamiento psicológico, la preparación y la integración desde una mirada ética y segura.

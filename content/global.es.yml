@@ -1,23 +1,55 @@
 menu:
   img: /u/base/logo-h.svg
   items:
+  - label: Inicio
+    url: '/#inicio'
   - label: Espacios
     url: '/#espacios'
-  - label: Marco ético
-    url: '/#marco-etico'
-  - label: Jornadas
-    url: '/#jornadas'
-  - label: Recursos
-    url: '/#recursos'
+  - label: Experiencias
+    url: '/#experiencias'
+  - label: Biblioteca
+    url: '/#biblioteca'
+  - label: Amanda
+    url: '/#amanda'
+  - label: Reservar
+    url: '/#reservas'
+    btn: cta
   - label: Contacto
     url: '/#contacto'
-    btn: cta
-  - label: Reservar
-    url: '/#reservar'
-    btn: main
+callnows:
+- type: whatsapp
+  label: +34 603 20 55 78
+  icon: brand:whatsapp-o
 footer:
-  div: curve-corner-op
-  dots:
-  - url: https://www.instagram.com/psico_mycelium/
-  - url: https://www.youtube.com/@psicomycelium
-  - url: https://www.tiktok.com/@psicomycelium
+  pt: 5
+  fade: cta-dark
+  fade_to: disc
+  md: hide
+  box:
+    cols: 4
+    gap_vs: 1.5
+    align: left
+  boxes:
+  - md: |
+      ![](/u/base/logo-h-mono.svg)
+
+      Psicología, integración y cuidado
+    dots:
+    - url: https://www.instagram.com/psico_mycelium/
+    - url: https://www.tiktok.com/@psico_mycelium
+    - url: https://www.youtube.com/@psicomycelium
+  - md: |
+      - ::none:: {{< internal-link index >}}
+      - ::none:: {{< internal-link legal >}}
+      - ::none:: {{< internal-link privacy >}}
+      - ::none:: {{< internal-link cookies >}}
+      - ::none:: {{< i18n web_design >}} [seacomoseo.com](https://seacomoseo.com/ "[homefollow]")
+  - fit: 2
+    md: |
+      Acompañamiento psicológico, divulgación y espacios de aprendizaje con una mirada ética, humana y rigurosa
+
+      - ::keyboard_double_arrow_left:: No se proporcionan, facilitan ni administran sustancias, ni se indican su obtención o consumo ::keyboard_double_arrow_right::
+      {.small}
+
+      - ::mail:: amanda@psicomycelium.com
+      - ::phone:: [+34 603 20 55 78](tel:+34603205578 "[nofollow ga4]")

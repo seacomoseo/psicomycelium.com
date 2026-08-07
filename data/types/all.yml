@@ -2,12 +2,16 @@ title: Todas
 tpl:
   bg:
     color: light
+    # bi: /u/fondo.webp
+    scroll: fix
+    alpha: .5
   menu:
     sticky: auto
     logo: true
     logo_sticky: false
     clear: true
     size: lg
+    color: light
   section:
   - size: sm
   sections:

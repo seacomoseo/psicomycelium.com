@@ -1,13 +1,13 @@
-title: Jornadas
+title: Experiencias
 base: event
-weight: 1
+weight: 3
 rel: true
 tpl:
   sections:
   - file: base-_hero
   - file: base-toc
   - file: base-content
-  - file: jornadas-formulario
+  - file: experiencias-formulario
   - file: base-address
   - file: base-author
   - file: base-social

@@ -1,3 +1,128 @@
+@use "../themes/sansoul/assets/css/variables";
+@use "../themes/sansoul/assets/css/mixins";
+// General
+.sub {
+  text-transform: uppercase;
+  letter-spacing: .16em;
+  font-size: 66%;
+}
+.box__title:not(.hide) + .box__sub {
+  order: -1;
+  margin: 0 0 calc(-0.5 * var(--box-gap));
+}
+.btn.light:not(:hover,:focus,:active) {
+  color: var(--sub);
+}
+.whatsapp {
+  --base: #128c7e;
+  --hover: #25d366;
+}
+.logo__img {
+  filter: drop-shadow(variables.$shadow);
+}
+.small {
+  font-size: 80%;
+}
+
+$bg-alt: true;
+@if $bg-alt {
+  // Fondo
+  body {
+    --bg-side-width: calc(100vh * 280 / 1448);
+    > .bg-color {
+      &::before,
+      &::after {
+        content: '';
+        position: fixed;
+        width: var(--bg-side-width);
+        height: 100%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        pointer-events: none;
+        z-index: 0;
+        opacity: .2;
+        // @media (max-width: 870px) {
+        //   opacity: .2;
+        // }
+      }
+      &::before {
+        background-image: url('/u/fondo-left.avif');
+        background-position: left center;
+      }
+      &::after {
+        background-image: url('/u/fondo-right.avif');
+        background-position: right center;
+        right: 0;
+      }
+    }
+  }
+
+  // Separador
+  section:not(.section--hero) {
+    --sep-image: url('/u/separador-2.avif');
+    --sep-h: 479;
+    --sep-height: min(var(--sep-width) * 479 / 2400, 12em);
+    @include mixins.fluid-size(--sep-side-space, 1, 0.25, 1.75);
+    --sep-side-width: calc(var(--bg-side-width) * var(--sep-side-space));
+    --sep-sides-width: calc(var(--sep-side-width) * 2);
+    --sep-width: calc(100vw - var(--sep-sides-width));
+    --sep-height: min(var(--sep-width) * var(--sep-h) / 2400, 12em);
+    --pt-div: var(--sep-height);
+    &::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      width: 100%;
+      height: var(--sep-height);
+      // left: var(--sep-side-width);
+      // width: var(--sep-width);
+      background-image: var(--sep-image);
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: contain;
+      pointer-events: none;
+      // opacity: .3;
+      z-index: 0;
+    }
+    &:nth-child(2n) {
+      --sep-image: url('/u/separador.avif');
+      --sep-h: 219;
+      --sep-side-space: 0;
+    }
+  }
+
+  // Footer
+  :root {
+    --bg-footer-height: calc(100vw * 547 / 2000);
+  }
+  #footer {
+    // --pt: 5em;
+    &::before {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      top: calc(var(--bg-footer-height) * -.95);
+      width: 100%;
+      height: var(--bg-footer-height);
+      background-image: url('/u/footer.avif');
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center bottom;
+      pointer-events: none;
+      --mask-image: linear-gradient(#000 calc(var(--bg-footer-height) * .95), transparent);
+      -webkit-mask-image: var(--mask-image);
+      mask-image: var(--mask-image);
+      z-index: 0;
+    }
+    .bg-color {
+      --fade: radial-gradient(ellipse at 54% 0%, #2a6178, #481c75 32%, #321d61 65%);
+    }
+  }
+  main > .section:last-child {
+    --pb-div: calc(var(--bg-footer-height) * .6);
+  }
+}
+
 // Header 
 @mixin show-from($delay) {
   animation: show-from .5s (.25 + .125s * $delay) both;
@@ -5,8 +130,25 @@
 #body-home #hero {
   overflow: hidden;
   .img        { @include show-from(0); --show-from: scale(3); }
-  .box__title { @include show-from(1); }
-  .sub        { @include show-from(2); }
+  .sub        { @include show-from(1); }
+  .box__title { @include show-from(2); }
   .md p       { @include show-from(3); }
   .md .btns   { @include show-from(4); }
+  .md .small  { @include show-from(5); }
+}
+
+#contacto {
+  .btns {
+    margin-top: .5em;
+  }
+}
+
+.cancelled {
+  color: var(--cta-in);
+  background-color: tomato;
+  position: absolute;
+  bottom: 15%;
+  right: 10%;
+  rotate: -13deg;
+  z-index: 1;
 }

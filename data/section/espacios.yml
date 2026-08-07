@@ -1,0 +1,54 @@
+name: Espacios
+id: espacios
+boxes:
+- title: Nuestros espacios de acompañamiento
+  sub: Espacios de acompañamiento
+  align: left
+  md: |
+    Propuestas diferenciadas para cuidar procesos psicológicos, explorar experiencias y sostener aprendizajes con seguridad y criterio.
+  box:
+    cols: 3
+    color: such
+    img: /u/fondo.webp
+    card: true
+    swap: true
+  boxes:
+  - title: Psicoterapia Transpersonal
+    hn: h3
+    align: left
+    md: |
+      Acompañamiento psicológico para trabajar lo que estás viviendo desde una mirada amplia, cercana y centrada en tu proceso.
+    url: /#exploracion
+    label: Explorar este espacio
+  - title: Preparación e Integración Psicodélica
+    hn: h3
+    align: left
+    md: |
+      Acompañamiento psicológico antes y después de experiencias psicodélicas o estados expandidos de conciencia, sin promover ni facilitar sustancias.
+    url: /#exploracion
+    label: Explorar este espacio
+  - title: Acompañamiento Psicológico en Procesos con Microdosis
+    hn: h3
+    align: left
+    md: |
+      Centrado en el cuidado psicológico, la evaluación y la integración de procesos relacionados con microdosis.
+
+      *No incluye indicaciones de obtención, consumo ni dosificación.*
+    url: /#exploracion
+    label: Explorar este espacio
+  - title: Tarot Evolutivo
+    hn: h3
+    align: left
+    md: |
+      Herramienta simbólica de autoconocimiento y reflexión para abrir preguntas y observar perspectivas.
+
+      *No ofrece predicción ni diagnóstico, y no sustituye a la psicoterapia.*
+    url: /#contacto
+    label: Consultar este espacio
+  - title: Formación, mentoría y supervisión para profesionales
+    hn: h3
+    align: left
+    md: |
+      Conversaciones y acompañamiento para profesionales que desean compartir preguntas, práctica y reflexión sobre estos ámbitos.
+    url: /#contacto
+    label: Hablar sobre profesionales

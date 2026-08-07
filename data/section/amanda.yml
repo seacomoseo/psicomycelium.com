@@ -1,0 +1,23 @@
+name: Amanda
+id: amanda
+box:
+  align: left
+boxes:
+- sub: La persona detrás del espacio
+  title: Amanda
+  box:
+    cols: 2
+    gap: 5
+    gap_vs: 3
+    align_y: center
+  boxes:
+  - img: /u/fondo.webp
+    fit: .8
+  - title: Un enfoque psicológico, transpersonal y cercano
+    md: |
+      Amanda impulsa Psico Mycelium y cuida el desarrollo de un espacio de acompañamiento, divulgación y encuentro.
+
+      Su enfoque pone en el centro la escucha, la reflexión y el ritmo de cada proceso, atendiendo a la relación entre psicología, conciencia y naturaleza.
+    hn: h3
+    hs: .01
+    fit: 1.2

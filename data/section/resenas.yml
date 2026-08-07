@@ -1,45 +1,57 @@
 name: Reseñas
 boxes:
 - title: Reseñas
-  sub: ¿Qué dicen de nosotros?
-  icon: reviews
+  sub: Dicen de mi...
 - review:
     cols: 3
-    color: white
+    color: such
     slider: true
     time: 8
+    icon: keyboard_double_arrow_left
+    icon_right: keyboard_double_arrow_right
   reviews:
-  - title: Lorem I.
-    sub: Beatae Vitae
-    img: https://images.unsplash.com/photo-1628157588553-5eeea00af15c?fit=crop&w=144&q=60
+
+  - title: Jaime M.
     md: |
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem.
+      Excelente experiencia de acompañamiento y crecimiento. Tanto mi familia como yo hemos participado, gran servicio.
 
-      Accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab.
-
-      Illo inventore veritatis et quasi architecto beatae vitae dicta sunt.
-
-      Explicabo.
-  - title: Sequi N.
-    sub: Ratione Voluptatem
-    img: https://images.unsplash.com/photo-1519699047748-de8e457a634e?fit=crop&w=144&q=60
+  - title: Paula D.
     md: |
-      Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut.
+      Amanda acompaña procesos, da luz a las sombras, es integrativa y pareciera que lleva un recorrido de varias vidas haciendo todo lo que hace para reunir todo el saber que reúne. Ella me ha aportado con mucho amor y sabiduría y la recomendaría a todas las personas que están abiertas a entender su salud mental desde muchos puntos de vista diferentes. Gracias por tu sensibilidad y enseñanzas Amanda.
 
-      Fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem.
-
-      Sequi nesciunt.
-  - title: Quaerat V.
-    sub: Magnam Aliquam
-    img: https://images.unsplash.com/photo-1620293023555-272e1a661b26?fit=crop&w=144&q=60
+  - title: Daniel Z.
     md: |
-      Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet,.
+      La cosa que más destaco de Amanda es que el amor, la comprensión y el entendimiento están siempre presentes en las sesiones.
 
-      Consectetur, adipisci velit, sed quia non numquam eius modi tempora.
+      Es cierto que en los procesos difíciles solemos dejarnos llevar por la capa superficial de las emociones, en el primer mensaje que nos dejan, lo que nos lleva al sufrimiento. Amanda me ha permitido explorar mis emociones para saber qué es lo que profundamente me quieren comunicar. A no esconder, a no evitar, sino a acompañar con amor, a escuchar con atención y, sobre todo, a ser consecuente con aquello que nos enseña la vida.
 
-      Incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+      Mi proceso con ella está siendo hermoso, estoy inmensamente agradecido con la perspectiva que me brinda y, sobre todo, porque me lo deja descubrir a mí, no me genera dependencia, sino todo lo contrario: independencia a la hora de mirar mis sombras para poder entenderlas mejor y saber qué es lo que necesitan. Me ha hecho darme cuenta de que cuando entiendes que la humildad y la atención entran por la puerta, todas las partes lo agradecen y el equilibrio se va logrando poco a poco, mirando decididamente hacia dentro y venerando el amor como principal metodología para hacer cualquier cosa.
+
+      Gracias Amanda.
+
+  - title: Andre D.
+    md: |
+      Psico Mycelium ♥️ Un espacio realmente dedicado con mucho amor y presencia, donde nos permite ser y transitar nuestras dudas, miedos y etapas para volver a ese equilibrio que tanto anhelamos. Gracias Amanda por tanta dedicación y cariño, por dar al mundo un respiro de esperanza y de sostén, por aquietar las aguas turbulentas y guiarnos con tu magnífico ser. 🙏🙏🤍🤍✨✨♥️
+
+  - title: Mari S.
+    md: |
+      En lo personal una excelente terapeuta. Ofrece apoyo guiado y ayudas, para la mejora del proceso de adaptación emocional. Siempre la recomiendo a personas que de verdad lo necesitan. Añado que es una persona con una personalidad encantadora y eso ayuda a entrar en confianza.
+
+  - title: Luis D.
+    md: |
+      Conocí a Amanda hace ya cerca de tres años gracias a una persona de confianza, y sinceramente creo que tuve muchísima suerte de encontrarla.
+
+      Creo que una de las cosas más difíciles cuando buscas ayuda psicológica es encontrar a alguien con quien realmente conectes. Al final estás hablando de abrirte, de contar cosas muy personales y de sentirte completamente cómodo delante de otra persona, y eso no es nada fácil hacerlo si no te transmite confianza. Con Amanda pasó de una manera totalmente natural. Desde el principio consiguió que me sintiera cómodo, sin sentirme juzgado y sin tener que hacer ningún esfuerzo para hablar de cosas que llevaba muchos años guardándome.
+
+      Lo que más me llamó la atención fue que enseguida te das cuenta de que esto no es simplemente su trabajo. Es su vocación. Se nota en cómo te escucha, en cómo te habla, en cómo te acompaña y en el interés que pone en ayudarte de verdad. Eso, para mí, marca una diferencia enorme.
+
+      Gracias a su ayuda conseguí desbloquear y superar problemas y traumas que llevaba arrastrando prácticamente toda mi vida. Tengo 36 años y nunca había conseguido avanzar de esa manera, ni siquiera después de haber pasado por otros profesionales. Evidentemente el trabajo también tiene que hacerlo uno mismo, pero con su guía, en apenas tres meses conseguí un cambio que jamás habría imaginado y encontré una tranquilidad que hacía muchísimos años que no tenía.
+
+      A día de hoy le tengo un cariño y un agradecimiento enormes, no solo por todo lo que hizo por mí, sino por la forma en la que vive su profesión y por la calidad humana que tiene.
+
+      De hecho, la confianza que me dio fue tan grande que también acabaron pasando por sus manos varios miembros de mi familia y amigos cuando lo necesitaron. Y , salieron con la misma sensación que tuve yo, la de haber encontrado a una profesional excepcional y, sobre todo, a una grandísima persona.
+
+      Ojalá mucha más gente trabaje con la misma vocación, implicación y humanidad con la que trabaja Amanda. Solo puedo darle las gracias y recomendarla con toda la tranquilidad del mundo.
+
 - md: |
-    ¡Hay más aquí! ¡Añade la tuya!
-    {.sub}
-
-    [[::star:: Google]](https://g.page/r/CQvrkq_RK9xxEBM/review "[nofollow]")
+    [[Ver más reseñas en Google]](https://g.page/r/CQvrkq_RK9xxEBM/review "[swap nofollow]")

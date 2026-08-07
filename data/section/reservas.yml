@@ -1,0 +1,32 @@
+name: Reservas
+id: reservas
+box:
+  gap: 4
+  gap_vs: 2
+boxes:
+- sub: Reservas
+  title: Dos rutas para reservar
+  md: Elige la duración que corresponde a tu momento actual.
+  align: left
+  box:
+    cols: 2
+    gap: 4
+    pd_vs: 1.5
+    color: such
+    bi: /u/fondo.webp
+    alpha: .5
+    label: Reservar
+    swap: true
+    lock: true
+  boxes:
+  - sub: 30 min
+    title: Sesión de exploración
+    md: Para dudas y una primera conversación antes de decidir si quieres continuar.
+    url: https://calendly.com/psicomycelium/30min
+  - sub: 60 min
+    title: Primera sesión individual
+    md: Para comenzar un proceso individual de psicoterapia, preparación o integración.
+    url: https://calendly.com/psicomycelium/primera-sesion-individual
+
+- md: |
+    También puedes [preguntarme](#contacto) antes de reservar

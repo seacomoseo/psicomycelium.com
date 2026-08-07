@@ -1,54 +1,73 @@
 name: Contacto
 id: contacto
-# menu_btn: cta
-size: md
 boxes:
-- title: Dos formas de empezar
-  sub: Primer contacto
-- box:
+- sub: Contacto
+  title: Escribe a Psico Mycelium
+  hs: .015
+  align: left
+  box:
     cols: 2
+    gap_vs: 0
+    group_radius: true
+    hide_radius: true
+    grow: true
   boxes:
-  # - when:
-  #   - days: Lunes a Viernes
-  #     hours: 9:00 - 12:30 y 14:30 - 20:00
-  #     full: true
-  - md: |
-      1. **Reservar una sesión:** <br> para quien ya quiere iniciar un proceso.
-
-      [[::calendar_today:: Reservar sesión de exploración]](/#reservar "[main]")
-
-      2. **Hablar antes:** <br> para quien necesita orientación o no sabe qué espacio encaja.
-    md_align: left
-    links:
-    # - type: custom
-    #   label: Reservar sesión de exploración
-    #   url: '/#reservar'
-    #   icon: calendar_today
-    #   btn: main
-    # - type: phone
-    #   label: 111 222 333
-    #   full: true
-    - type: whatsapp
-      label: 111 222 333
-      icon: brand:whatsapp-o
-    - type: mail
-      label: amanda@psicomycelium.com
-      full: true
-      btn: light
-  - inputs:
+  - color: such
+    bi: /u/fondo.webp
+    alpha: .5
+    fit: 1.2
+    pd_vs: 1.5
+    form:
+      swap: true
+    inputs:
     - type: text
       name: Nombre
       icon: person
-      req: true
-    - type: phone
-      name: Teléfono
-      icon: phone
       req: true
     - type: mail
       name: Email
       icon: mail
       req: true
+    - type: phone
+      name: Teléfono
+      icon: phone
+    - type: select
+      name: Motivo
+      label: Motivo de consulta
+      icon: help
+      items:
+      - label: Psicoterapia Transpersonal
+        key: Psicoterapia Transpersonal
+      - label: Preparación e Integración Psicodélica
+        key: Preparación e Integración Psicodélica
+      - label: Microdosis
+        key: Microdosis
+      - label: Tarot Evolutivo
+        key: Tarot Evolutivo
+      - label: Profesionales
+        key: Profesionales
+      - label: Experiencias / Jornadas
+        key: Experiencias
     - type: area
       name: Mensaje
       icon: chat_bubble
       req: true
+  - color: dark
+    fit: .8
+    pd_vs: 1.5
+    boxes:
+    - md: |
+        [[::brand:whatsapp-o:: Escribir por WhatsApp]](https://wa.me/34603205578 "[whatsapp swap nofollow ga4]")
+
+        - ::mail:: amanda@psicomycelium.com <br>
+          *Principal*
+        - ::mail:: info@psicomycelium.com <br>
+          *Experiencias*
+        - ::phone:: [+34 603 20 55 78](tel:+34603205578 "[nofollow ga4]")
+    - dots:
+      - url: https://www.instagram.com/psico_mycelium/
+        label: Instagram
+      - url: https://www.tiktok.com/@psico_mycelium
+        label: TikTok
+      - url: https://www.youtube.com/@psicomycelium
+        label: YouTube

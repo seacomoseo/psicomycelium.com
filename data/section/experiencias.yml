@@ -1,0 +1,19 @@
+name: Experiencias
+id: experiencias
+boxes:
+- sub: Encuentros y aprendizaje
+  title: Experiencias
+  md: |
+    Propuestas sociales, culturales y educativas vinculadas al espacio. **Formatos:**
+
+    [[Jornadas]](/categoria/jornadas/ "[alt swap sm]")
+    [[Talleres y encuentros]](/categoria/talleres-encuentros/ "[alt swap sm]")
+    [[Retiros]](/categoria/retiros/ "[alt swap sm]")
+    [[Webinars]](/categoria/webinars/ "[alt swap sm]")
+  align: left
+  list:
+    type: event
+    max: 12
+  box:
+    cols: 4
+    slider: true

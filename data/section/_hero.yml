@@ -1,33 +1,31 @@
 name: Hero
-# color: main-dark
-# bi: /u/base/logo-h.svg
-# scroll: soft
-# full: true
+id: inicio
+pt: 3
+full: true
 box:
   cols: 2
-  # duo: 2
+  gap: 5
+  gap_vs: 2
+  align_y: center
 boxes:
 - img: /u/base/logo.svg
-  # fit: 0.125
-  # fit_vs: 0.5
   order: 2
-- anchor: Psico Mycelium - Psicología, integración y crecimiento humano
-  title: Psicología, integración y crecimiento humano
-  hs: 0.2
-  caps: false
-  align: left
+  fit: .9
+  fit_vs: .7
+- sub: Psicología · integración · cuidado
+  title: Psicología para comprender, cuidar e integrar tus procesos
   md: |
-    Un espacio de acompañamiento psicológico transpersonal para personas y profesionales que buscan comprender, cuidar e integrar procesos de transformación desde una mirada ética, humana y rigurosa.
+    Acompañamiento psicológico transpersonal, online en toda España y presencial en Levante y Murcia; cercano, ético y riguroso.
 
-    - Psicoterapia Transpersonal
-    - Preparación e Integración Psicodélica
-    - Acompañamiento en procesos con Microdosis
-    - Jornadas y comunidad
+    [[Explorar espacios]](#espacios "[swap]")
+    [[Conocer Psico Mycelium]](#sobre "[light swap]")
 
-    [[Reservar sesión de exploración]](#reservar "[main]")
-    [[No sé por dónde empezar]](#)
+    <!--
+    Una red para integrar, cuidar y dar sentido.
+    {.sub}
+    -->
 
-    {{% bg white %}}
-    <strong>Límite claro:</strong> Psico Mycelium no proporciona, facilita ni administra sustancias psicoactivas. El acompañamiento se centra en preparación, integración y cuidado psicológico.
-    {{% / bg %}}
-
+    - ::keyboard_double_arrow_left:: Este espacio no proporciona, facilita ni administra sustancias, ni indica cómo obtenerlas o consumirlas. ::keyboard_double_arrow_right::
+    {.small}
+  align: left
+  fit: 1.1

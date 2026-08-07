@@ -10,14 +10,14 @@ fonts:
   base:
     family: Inter
     weight: 300
-    bold: 0
+    bold: 700
     italic: false
     line_height: 1.25
   cursive:
-    family: Lora
-    weight: 400
+    family: Inter
+    weight: 700
     bold: 0
-    italic: true
+    italic: false
     line_height: 1.25
     size: 1
   title:
@@ -38,7 +38,7 @@ colors:
       in: true
       text: true
   alt:
-    color: '#e85f4a'
+    color: '#59621b' #e85f4a
     light: '#ffffff'
     dark: '#ffffff'
     turn:
@@ -70,10 +70,10 @@ btns:
   font:
     type: title
     bold: true
-    caps: true
+    caps: false
   swap:
     type: base
-    bold: false
+    bold: true
     caps: false
 inputs:
   fill: true
@@ -81,6 +81,6 @@ inputs:
 shadow:
   left: 0.15
   top: 0.15
-  blur: 0
+  blur: 0.5
   color: black
   alpha: 0.85
