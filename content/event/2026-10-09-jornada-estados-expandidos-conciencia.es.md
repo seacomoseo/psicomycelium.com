@@ -444,7 +444,9 @@ invitados:
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/espacio-psycare-colectivo-la-nave.jpg
     md: |
       Colectivo de militancia psicodélica que crea espacios de cuidado y acompañamiento en contextos festivos y comunitarios, situando los cuidados en el centro y promoviendo el uso responsable.
-  - title: BabaYaga Ferments
+  - id: invitado-babayaga-ferments
+    url: '#invitado-babayaga-ferments'
+    title: BabaYaga Ferments
     sub: Bebidas fermentadas artesanales NoLo
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/babayaga-ferments.jpg
     md: |
