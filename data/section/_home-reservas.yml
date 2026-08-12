@@ -9,7 +9,7 @@ boxes:
   md: Elige la duración que corresponde a tu momento actual.
   align: left
   box:
-    cols: 2
+    cols: 2.01
     gap: 4
     pd_vs: 1.5
     color: such

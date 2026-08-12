@@ -1,0 +1,59 @@
+name: Inscripción
+if: inscripcion
+
+box:
+  gap_vs: 4
+  align: left
+boxes:
+- get:
+  - from: inscripcion.title
+    to: title
+  - from: inscripcion.sub
+    to: sub
+  - from: inscripcion.md
+    to: md
+  - from: inscripcion.boxes
+    to: boxes
+  box:
+    cols: 0
+    gap_vs: 2
+    color: light
+    bi: /u/fondo.webp
+    alpha: .5
+    pd_vs: 2
+    align: center
+    icon_size: 2
+    hs: 5
+    label: Ver más
+- get:
+  - from: formulario.inputs
+    to: inputs
+  form:
+    mail: info@psicomycelium.com
+    subject: Nueva inscripción · {{ get title }} · {{ year }}
+    label: Confirmar Inscripción
+    consent: Entiendo que la aportación se abonará en efectivo a la llegada y me comprometo a avisar si no puedo asistir.
+# - url: '#formulario'
+#   label: Formulario de Inscripción
+
+# modals:
+# - id: formulario
+#   get:
+#   - from: formulario.title
+#     to: title
+#   - from: formulario.sub
+#     to: sub
+#   - from: formulario.inputs
+#     to: inputs
+#   form:
+#     mail: info@psicomycelium.com
+#     subject: Nueva inscripción · {{ get title }} · {{ year }}
+#     label: Confirmar Inscripción
+#     consent: Entiendo que la aportación se abonará en efectivo a la llegada y me comprometo a avisar si no puedo asistir.
+# modal:
+#   color: light
+#   bi: /u/fondo.webp
+#   alpha: .5
+#   pd: 3
+#   ratio: 1/1
+#   align: left

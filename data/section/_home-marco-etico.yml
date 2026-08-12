@@ -5,6 +5,7 @@ boxes:
 - color: such
   bi: /u/fondo.webp
   alpha: .5
+  pd: 3
   pd_vs: 3
   align: left
   sub: Marco ético

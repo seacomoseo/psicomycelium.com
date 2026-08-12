@@ -1,0 +1,39 @@
+name: Espacio y Comunidad
+if: espacio
+
+boxes:
+- get:
+  - from: espacio.title
+    to: title
+  - from: espacio.sub
+    to: sub
+  - from: espacio.md
+    to: md
+  - from: espacio.boxes
+    to: boxes
+  remap:
+  - from: boxes.*.id
+  - from: boxes.*.md
+  align: left
+  box:
+    cols: 3
+    cols_vs: 2
+    bi: /u/fondo.webp
+    align: center
+    icon_size: 2
+    hs: 6
+    label: Ver más
+
+get:
+- from: espacio.boxes
+  to: modals
+remap:
+- from: modals.*.url
+modal:
+  color: light
+  bi: /u/fondo.webp
+  alpha: .5
+  pd: 3
+  pd_vs: 2
+  icon_pos: top
+  icon_size: 2

@@ -11,23 +11,26 @@ boxes:
     align: left
     color: such
     bi: /u/fondo.webp
-    # alpha: .5
+    alpha: .3
     # pd_vs: 1.5
-    card: true
+    # card: true
     rate: 1/1
     lock: true
     label: Reservar
   boxes:
   - title: Exploración
+    img: /u/modalidades/exploracion.webp
     md: |
       - 30 min: *gratuita durante lanzamiento*
     url: https://calendly.com/psicomycelium/30min
   - title: Psicoterapia, integración y preparación individual
+    img: /u/modalidades/sesion.webp
     md: |
       - 60 min: *55 €*
       - 4 sesiones: *180 €*
     url: https://calendly.com/psicomycelium/primera-sesion-individual
   - title: Microdosis
+    img: /u/modalidades/microdosis.webp
     md: |
       - 6-8 sesiones: *40 €/sesión*
       - Reserva inicial: *240 €/6 sesiones* <br> Adicionales: *40 €/sesión*

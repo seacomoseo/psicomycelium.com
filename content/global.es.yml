@@ -2,7 +2,7 @@ menu:
   img: /u/base/logo-h.svg
   items:
   - label: Inicio
-    url: '/#inicio'
+    url: '/'
   - label: Espacios
     url: '/#espacios'
   - label: Experiencias

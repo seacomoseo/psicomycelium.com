@@ -6,7 +6,7 @@ boxes:
   hs: .015
   align: left
   box:
-    cols: 2
+    cols: 2.01
     gap_vs: 0
     group_radius: true
     hide_radius: true

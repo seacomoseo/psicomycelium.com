@@ -1,0 +1,11 @@
+name: Qué son
+if: que_son
+boxes:
+- get:
+  - from: que_son.title
+    to: title
+  - from: que_son.sub
+    to: sub
+  - from: que_son.md
+    to: md
+  align: left

@@ -8,11 +8,13 @@ boxes:
     Propuestas diferenciadas para cuidar procesos psicológicos, explorar experiencias y sostener aprendizajes con seguridad y criterio.
   box:
     cols: 3
-    color: such
-    img: /u/fondo.webp
-    card: true
+    color: light
+    bi: /u/fondo.webp
+    alpha: .3
+    # card: true
   boxes:
   - title: Psicoterapia Transpersonal
+    img: /u/espacios/psicoterapia-transpersonal.webp
     hn: h3
     align: left
     md: |
@@ -20,6 +22,7 @@ boxes:
     url: /#exploracion
     label: Explorar este espacio
   - title: Preparación e Integración Psicodélica
+    img: /u/espacios/integracion-psicodelica.webp
     hn: h3
     align: left
     md: |
@@ -27,6 +30,7 @@ boxes:
     url: /#exploracion
     label: Explorar este espacio
   - title: Acompañamiento Psicológico en Procesos con Microdosis
+    img: /u/espacios/microdosis.webp
     hn: h3
     align: left
     md: |
@@ -36,6 +40,7 @@ boxes:
     url: /#exploracion
     label: Explorar este espacio
   - title: Tarot Evolutivo
+    img: /u/espacios/tarot-evolutivo.webp
     hn: h3
     align: left
     md: |
@@ -45,6 +50,7 @@ boxes:
     url: /#contacto
     label: Consultar este espacio
   - title: Formación, mentoría y supervisión para profesionales
+    img: /u/espacios/profesionales.webp
     hn: h3
     align: left
     md: |

@@ -1,0 +1,40 @@
+name: Artistas
+if: artistas
+
+boxes:
+- get:
+  - from: artistas.title
+    to: title
+  - from: artistas.sub
+    to: sub
+  - from: artistas.md
+    to: md
+  - from: artistas.boxes
+    to: boxes
+  remap:
+  - from: boxes.*.id
+  - from: boxes.*.md
+  align: left
+  box:
+    cols: 2.01
+    cols_vs: 1.2
+    slider: true
+    align: center
+    hs: 6
+    card: true
+    btn: hide
+    # label: Ver más
+
+get:
+- from: artistas.boxes
+  to: modals
+remap:
+- from: modals.*.url
+modal:
+  size: xs
+  color: light
+  bi: /u/fondo.webp
+  alpha: .5
+  pd: 3
+  pd_vs: 2
+  ratio: 1/1

@@ -6,19 +6,20 @@ boxes:
 - sub: Sobre Psico Mycelium
   title: Psico Mycelium
   box:
-    cols: 2
+    cols: 2.01
     gap: 5
     gap_vs: 3
-    align_y: center
   boxes:
-  - img: /u/fondo.webp
-    fit: .8
+  - bi: /u/sobre.webp
+    # ratio: 3/4
+    # fit: .8
   - title: Acompañamiento, divulgación, formación y comunidad
     md: |
       Psico Mycelium articula un espacio de acompañamiento, divulgación, formación y comunidad alrededor de la psicología, la conciencia y la naturaleza.
 
       La propuesta combina una mirada transpersonal con pensamiento crítico, cuidado y respeto por la experiencia de cada persona.
+    align_y: center
     hn: h3
     hs: .01
     hs_vs: .02
-    fit: 1.2
+    # fit: 1.2

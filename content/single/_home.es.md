@@ -7,19 +7,21 @@ seo:
   title: "Psico Mycelium · Psicología, integración y cuidado"
   desc: "Psico Mycelium: acompañamiento psicológico transpersonal, preparación e integración psicodélica y acompañamiento psicológico en procesos con microdosis."
 tpl:
+  menu:
+    logo: false
   sections:
-  - file: _hero
-  - file: exploracion
-  - file: espacios
-  - file: modalidades
-  - file: sobre
-  - file: experiencias
-  - file: biblioteca
-  - file: amanda
-  - file: resenas
-  - file: marco-etico
-  - file: reservas
-  - file: contacto
+  - file: _home-_hero
+  - file: _home-exploracion
+  - file: _home-espacios
+  - file: _home-modalidades
+  - file: _home-sobre
+  - file: _home-experiencias
+  - file: _home-biblioteca
+  - file: _home-amanda
+  - file: _home-resenas
+  - file: _home-marco-etico
+  - file: _home-reservas
+  - file: _home-contacto
 base: org
 org:
   types:

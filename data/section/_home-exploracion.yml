@@ -6,7 +6,7 @@ box:
   gap_vs: 2
   align_y: center
 boxes:
-- img: /u/fondo.webp
+- img: /u/modalidades/exploracion.webp
   ratio: 16/9
   fit: .9
   order: 2

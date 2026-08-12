@@ -10,6 +10,15 @@
   order: -1;
   margin: 0 0 calc(-0.5 * var(--box-gap));
 }
+.box__icon--top,
+.img {
+  &:has(+ .box__title:not(.hide) + .box__sub) {
+    order: -2;
+  }
+}
+.bg-card {
+  order: -3;
+}
 .btn.light:not(:hover,:focus,:active) {
   color: var(--sub);
 }
@@ -22,6 +31,13 @@
 }
 .small {
   font-size: 80%;
+}
+
+.box__title span {
+  color: var(--cta);
+}
+.box__sub span {
+  color: var(--main);
 }
 
 $bg-alt: true;

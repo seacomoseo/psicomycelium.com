@@ -1,0 +1,8 @@
+name: Voces del encuentro
+if: final
+
+boxes:
+- get:
+  - from: final
+    to: md
+  align: left
