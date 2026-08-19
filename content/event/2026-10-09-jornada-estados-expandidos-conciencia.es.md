@@ -22,7 +22,6 @@ artists:
 - name: Javier Aymat Cañedo-Argüelles
 - name: Mario Navarro
 - name: Tantric Love Music
-- name: Marina
 - name: Jade Beats
 - name: Arpe Panda Sound
 - name: Inoé
@@ -214,10 +213,6 @@ voces:
     title: Arosa J.Q.
     sub: "<span>Ponencia</span> <br> Metanoia: la transformación psicológica profunda, rápida y duradera"
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/arosa-jq.jpg
-    desc: |
-      **Ponencia:** *Metanoia: la transformación psicológica profunda, rápida y duradera. Psicodélicos y más allá.*
-      
-      Psicólogo transpersonal y divulgador. Fundador de la Asociación Ensua.
     md: |
       **¿Cómo pueden algunas experiencias marcar un antes y un después en nuestras vidas?**
 
@@ -230,17 +225,14 @@ voces:
       **Sobre el ponente:**
 
       Psicólogo transpersonal y divulgador. Ponente invitado en varias jornadas nacionales sobre psicodélicos y organizador del Encuentro Anual de Espiritualidad y Neurociencia. Fundador de la Asociación Ensua, entidad sin ánimo de lucro destinada a divulgar y promover el cultivo de la sabiduría y fomentar una espiritualidad crítica y madura.
-    # label: Ver Ponencia y Bio
+
+      [[::brand:instagram:: @ensua_org]](https://www.instagram.com/ensua_org)
 
   - id: voz-tote
     url: '#voz-tote'
     title: Tote Escobedo
     sub: "<span>Ponencia</span> <br> La Ciencia Tradicional del Amazonas"
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/tote-escobedo.jpg
-    desc: |
-      **Ponencia:** *La Ciencia Tradicional del Amazonas.*
-      
-      Aproximación a la tradición vegetalista amazónica y al uso ritual de la ayahuasca desde el respeto y la responsabilidad.
     md: |
       **Una aproximación a la tradición vegetalista amazónica y al uso ritual de la ayahuasca**
 
@@ -249,17 +241,14 @@ voces:
       **Sobre el ponente:**
 
       Inició su camino con la medicina amazónica en 1999. Tras su primer viaje a la Amazonía peruana, realizó un aprendizaje de diez años en la selva con Don Cristóbal Solón Tello Lozano ("Maestro de Maestros"). Desde hace más de 20 años acompaña ceremonias en distintos lugares del mundo con disciplina y compromiso por la tradición.
-    # label: Ver Ponencia y Bio
+
+      [[::brand:instagram:: @elcantosagrado]](https://www.instagram.com/elcantosagrado)
 
   - id: voz-leon
     url: '#voz-leon'
     title: Leon
     sub: "<span>Ponencia</span> <br> LSD y la búsqueda de Dios"
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/leon.jpg
-    desc: |
-      **Ponencia:** *LSD y la búsqueda de Dios.*
-      
-      Fundador de Microdosing Integration. Exploración sobre conciencia, espiritualidad y el viaje de lo invisible al cuerpo.
     md: |
       **Relación entre conciencia, espiritualidad y trascendencia**
 
@@ -270,17 +259,14 @@ voces:
       **Sobre el ponente:**
 
       Fundador de Microdosing Integration. Formado en Terapia Transpersonal con más de 20 años de práctica meditativa. Ha acompañado cientos de procesos de preparación, integración y retiros desde un enfoque ético y humano.
-    # label: Ver Ponencia y Bio
+
+      [[::brand:instagram:: @leon.PENDIENTE]](https://www.instagram.com/leon.PENDIENTE)
 
   - id: voz-aina
     url: '#voz-aina'
     title: Aina
     sub: "<span>Taller</span> <br> En cuerpo y alma"
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/aina.jpg
-    desc: |
-      **Taller vivencial:** *En cuerpo y alma.*
-      
-      Graduada en Teatro Físico, intérprete y bailarina. Un espacio para habitar nuestro cuerpo a través de la danza y el movimiento.
     md: |
       **Habitar el contenedor que somos**
 
@@ -289,17 +275,14 @@ voces:
       **Sobre la facilitadora:**
 
       Graduada en Teatro Físico por la ESAD de Murcia (2025), intérprete, bailarina y creadora escénica. Ha trabajado en festivales internacionales y forma parte del equipo de producción de La Mecànica y co-creadora del Col·lectiu Ca Nostra.
-    # label: Ver Taller y Bio
+
+      [[::brand:instagram:: @aina_____mor]](https://www.instagram.com/aina_____mor)
 
   - id: voz-marina-gil
     url: '#voz-marina-gil'
     title: Marina Gil
     sub: "<span>Taller</span> <br> Viaje Somático Breathwork: SOMA Breath"
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/marina-gil.jpg
-    desc: |
-      **Taller vivencial:** *Viaje Somático Breathwork: SOMA Breath.*
-      
-      Movimiento somático, respiración consciente y música para regular el sistema nervioso y acceder a estados profundos de conciencia.
     md: |
       **Respiración consciente, movimiento somático y música**
 
@@ -308,17 +291,14 @@ voces:
       **Sobre la facilitadora:**
 
       Tras dejar su trayectoria como científica, vivió y se formó durante cinco años en Asia en yoga, breathwork y trabajo somático. Su enfoque integra cuerpo y respiración desde una mirada cercana y libre de dogmas.
-    # label: Ver Taller y Bio
+
+      [[::brand:instagram:: @marinasomatics]](https://www.instagram.com/marinasomatics)
 
   - id: voz-oscar
     url: '#voz-oscar'
     title: Oscar
     sub: "<span>Taller</span> <br> Jurema: preparación del extracto y reflexión sobre la medicina"
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/oscar.jpg
-    desc: |
-      **Taller vivencial:** *Jurema: preparación del extracto y reflexión sobre la medicina.*
-      
-      Preparación respetuosa del extracto de Jurema y reflexión sobre su tradición ancestral.
     md: |
       **Preparación práctica y reflexión sobre la medicina**
 
@@ -327,30 +307,20 @@ voces:
       **Sobre el facilitador:**
 
       Apasionado por los saberes ancestrales con más de 7 años recorriendo el camino de las medicinas tradicionales. Dedica su labor a preservar y transmitir el conocimiento y legado cultural de la Jurema.
-    # label: Ver Taller y Bio
 
   - id: voz-elsa
     url: '#voz-elsa'
     title: Elsa Navarra
     sub: "Ponente Invitada a la Mesa Redonda"
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/elsa-navarra.jpg
-    desc: |
-      **Mesa Redonda:** *Renacimiento psicodélico: ¿qué cultura estamos construyendo?*
-      
-      Militancia transfeminista, comunitaria y acompañamiento psicodélico.
     md: |
       Proviene de la militancia transfeminista y comunitaria y del ámbito terapéutico. Acompaña procesos psicodélicos tejiendo puentes entre visiones tradicionales y contemporáneas para fortalecer la salud comunitaria.
-    # label: Ver Perfil
 
   - id: voz-chiara-eric
     url: '#voz-chiara-eric'
     title: Eric Haas y Chiara Vitali
     sub: "<span>Taller</span> <br> Del Viaje a la Vida: Integración Somática de Estados Expandidos"
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/chiara-vitali-eric-haas.jpg
-    desc: |
-      **Taller de Integración:** *Del Viaje a la Vida: Integración Somática.*
-      
-      Terapeutas especializados en integración psicodélica, cuerpo, IFS y regulación del sistema nervioso.
     md: |
       **Transformar una experiencia extraordinaria en un cambio real y sostenible**
 
@@ -359,17 +329,14 @@ voces:
       **Sobre los facilitadores:**
 
       Terapeutas especializados en terapia psicodélica y enfoque holístico (cuerpo, mente y alma). Acompañan procesos individuales, de pareja y grupales para regular el sistema nervioso y cultivar mayor armonía.
-    # label: Ver Taller y Bio
+
+      [[::link:: www.primalnature.eu]](https://www.primalnature.eu)
 
   - id: voz-javier
     url: '#voz-javier'
     title: Javier Aymat Cañedo-Argüelles
     sub: "<span>Taller</span> <br> Escribiendo desde el otro lado: La escritura como brújula y aterrizaje"
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/javier-aymat.jpg
-    desc: |
-      **Taller de Integración:** *Escribiendo desde el otro lado: La escritura como brújula y aterrizaje.*
-      
-      Terapeuta Gestalt y periodista. La escritura expresiva para preparar e integrar viajes con sustancias.
     md: |
       **La escritura expresiva como herramienta de integración**
 
@@ -378,17 +345,14 @@ voces:
       **Sobre el facilitador:**
 
       Terapeuta Gestalt diplomado por la EMTG, periodista y especialista en Escritura Expresiva y acompañamiento en estados expandidos de conciencia.
-    # label: Ver Taller y Bio
+
+      [[::brand:instagram:: @javieraymat]](https://www.instagram.com/javieraymat)
 
   - id: voz-mario-navarro
     url: '#voz-mario-navarro'
     title: Mario Navarro
     sub: "<span>Taller</span> <br> Bajar la montaña — la integración como parte del viaje"
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/mario-navarro.jpg
-    desc: |
-      **Taller de Integración:** *Bajar la montaña — la integración como parte del viaje.*
-      
-      Médico, formado en medicina integrativa y psiconeuroinmunología. Creador de Neurosoma y fundador de Mediconsciencia.
     md: |
       **La experiencia no termina cuando termina la experiencia**
 
@@ -401,7 +365,8 @@ voces:
       **Sobre el facilitador:**
 
       Es médico, formado en medicina integrativa y psiconeuroinmunología, con máster en medicina de urgencias y medicina de montaña. Dirige *Mediconsciencia*, proyecto desde el que acompaña procesos de salud que integran ciencia, cuerpo y consciencia. Su formación atraviesa la microbiota y la nutrición clínica, la posturología, las técnicas de liberación emocional y fascial, el mindfulness y el Kriya Yoga. Creador de *Neurosoma*. Trabaja desde la convicción de que el cuerpo y la mente nunca estuvieron separados.
-    # label: Ver Taller y Bio
+
+      [[::brand:instagram:: @mediconsciencia]](https://www.instagram.com/mediconsciencia)
 
 
 artistas:
@@ -415,6 +380,9 @@ artistas:
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/tantric-love-music.jpg
     md: |
       Las voces de Erika y Jou junto a sus guitarras, flautas, Shruti Box, tambores chamánicos, gong y Handpan te ayudarán a conectar y vibrar alto en un viaje sonoro meditativo al interior del alma.
+
+      [[::brand:instagram:: @tantriclovemusic]](https://www.instagram.com/tantriclovemusic)
+      [[::brand:instagram:: @sanarteconciencia]](https://www.instagram.com/sanarteconciencia)
   - id: artista-marina-gil
     url: '#artista-marina-gil'
     title: Marina Gil
@@ -422,13 +390,17 @@ artistas:
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/marina-gil.jpg
     md: |
       Experiencia guiada de 20 minutos para elevar la energía grupal a través del sonido AUM, la voz, el ritmo y la respiración, preparando cuerpo y mente para la noche.
+
+      [[::brand:instagram:: @marinasomatics]](https://www.instagram.com/marinasomatics)
   - id: artista-jade-beats
     url: '#artista-jade-beats'
     title: Jade
     sub: Jade Beats
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/jade-beats.jpg
     md: |
-      Conexión con el pulso de la tierra a través de texturas orgánicas y electrónica. Olas de intensidad, descensos contemplativos, expansión y sensorialidad (`@jade.beats_`).
+      Conexión con el pulso de la tierra a través de texturas orgánicas y electrónica. Olas de intensidad, descensos contemplativos, expansión y sensorialidad.
+
+      [[::brand:instagram:: @jade.beats_]](https://www.instagram.com/jade.beats_)
   - id: artista-sergio-arpe-panda-sound
     url: '#artista-sergio-arpe-panda-sound'
     title: Sergio
@@ -436,6 +408,8 @@ artistas:
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/sergio-arpe-panda-sound.jpg
     md: |
       Constructor, selector y operador del colectivo de Reggae y Sound System *Panda Soundsystem*. Sesiones desde el roots hasta el stepper más moderno con dubplates conscientes.
+
+      [[::brand:instagram:: @arpe_psound]](https://www.instagram.com/arpe_psound)
   - id: artista-inoe-psyntuario
     url: '#artista-inoe-psyntuario'
     title: Inoé
@@ -443,6 +417,8 @@ artistas:
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/inoe-psyntuario.jpg
     md: |
       Facilitador y DJ. Entrelaza pulsos rítmicos enraizados con texturas atmosféricas envolventes, concibiendo la música como un santuario sagrado y ritual vivo.
+
+      [[::brand:instagram:: @inoefs]](https://www.instagram.com/inoefs)
   - id: artista-xemi-pluma-roja
     url: '#artista-xemi-pluma-roja'
     title: Xemi
@@ -450,6 +426,8 @@ artistas:
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/xemi-pluma-roja.jpg
     md: |
       Proyecto musical guiado por Xemi. Inspirado en el movimiento libre y la experiencia directa, combinando paisajes sonoros para transitar desde la calma hasta la expansión.
+
+      [[::brand:instagram:: @plumaroja_experience]](https://www.instagram.com/plumaroja_experience)
 
 invitados:
   title: Invitados Mágicos
@@ -469,6 +447,8 @@ invitados:
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/babayaga-ferments.jpg
     md: |
       Obrador artesanal ubicado en Jérica (Castellón) creado por Artur, tecnólogo alimentario. Elaboración de bebidas NoLo (sin alcohol / baja graduación) con ingredientes ecológicos y locales.
+
+      [[::brand:instagram:: @babayagaferments]](https://www.instagram.com/babayagaferments)
   - id: invitado-pau
     url: '#invitado-pau'
     title: Pau
@@ -476,6 +456,8 @@ invitados:
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/pau.jpg
     md: |
       Lleva más de 10 años haciendo música (rock, reggae, rumba y música medicina). Para él, la música y el baile sanan, ofreciendo su propuesta para sanar juntxs desde la buena vibra.
+
+      [[::brand:instagram:: @pauvizcarro]](https://www.instagram.com/pauvizcarro)
   - id: invitado-paula
     url: '#invitado-paula'
     title: Paula
@@ -483,6 +465,8 @@ invitados:
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/paula.jpg
     md: |
       Filmmaker apasionada por brindar altavoz a proyectos con alma, utilizando la cámara como herramienta de transformación y creación visual.
+
+      [[::brand:instagram:: @tripitufa]](https://www.instagram.com/tripitufa)
 
 
 espacio:

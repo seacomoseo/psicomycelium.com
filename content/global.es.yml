@@ -3,17 +3,17 @@ menu:
   items:
   - label: Inicio
     url: '/'
-  - label: Espacios
-    url: '/#espacios'
+  # - label: Espacios
+  #   url: '/#espacios'
   - label: Experiencias
     url: '/#experiencias'
-  - label: Biblioteca
-    url: '/#biblioteca'
-  - label: Amanda
-    url: '/#amanda'
-  - label: Reservar
-    url: '/#reservas'
-    btn: cta
+  # - label: Biblioteca
+  #   url: '/#biblioteca'
+  # - label: Amanda
+  #   url: '/#amanda'
+  # - label: Reservar
+  #   url: '/#reservas'
+  #   btn: cta
   - label: Contacto
     url: '/#contacto'
 callnows:

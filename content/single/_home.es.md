@@ -11,16 +11,16 @@ tpl:
     logo: false
   sections:
   - file: _home-_hero
-  - file: _home-exploracion
-  - file: _home-espacios
-  - file: _home-modalidades
-  - file: _home-sobre
+  # - file: _home-exploracion
+  # - file: _home-espacios
+  # - file: _home-modalidades
+  # - file: _home-sobre
   - file: _home-experiencias
-  - file: _home-biblioteca
-  - file: _home-amanda
-  - file: _home-resenas
-  - file: _home-marco-etico
-  - file: _home-reservas
+  # - file: _home-biblioteca
+  # - file: _home-amanda
+  # - file: _home-resenas
+  # - file: _home-marco-etico
+  # - file: _home-reservas
   - file: _home-contacto
 base: org
 org:

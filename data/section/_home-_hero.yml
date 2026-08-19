@@ -16,15 +16,18 @@ boxes:
   md: |
     Acompañamiento psicológico transpersonal, online en toda España y presencial en Levante y Murcia; cercano, ético y riguroso.
 
+    <!--
     [[Explorar espacios]](#espacios)
     [[Conocer Psico Mycelium]](#sobre "[light]")
 
-    <!--
     Una red para integrar, cuidar y dar sentido.
     {.sub}
-    -->
 
     - ::keyboard_double_arrow_left:: Este espacio no proporciona, facilita ni administra sustancias, ni indica cómo obtenerlas o consumirlas. ::keyboard_double_arrow_right::
     {.small}
+    -->
+
+    **EN CONSTRUCCIÓN**
+    {.cancelled}
   align: left
   fit: 1.1

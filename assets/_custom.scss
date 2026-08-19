@@ -162,11 +162,19 @@ $bg-alt: true;
 .cancelled {
   color: var(--cta-in);
   background-color: tomato;
-  position: absolute;
-  bottom: 15%;
-  right: 10%;
+  // position: absolute;
+  // bottom: 15%;
+  // right: 10%;
   rotate: -13deg;
   z-index: 1;
+  
+  font-size: 1.5em;
+  @media (min-width: variables.$viewport-xl + 1) {
+    font-size: 1.8em;
+    position: absolute;
+    bottom: -55%;
+    right: -10%;
+  }
 }
 
 #footer {
