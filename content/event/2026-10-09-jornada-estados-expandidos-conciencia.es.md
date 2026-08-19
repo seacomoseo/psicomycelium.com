@@ -2,7 +2,7 @@
 slug: jornada-estados-expandidos-conciencia
 title: Jornadas Psico Mycelium · Estados Expandidos de Conciencia
 sum: Un espacio donde la ciencia, la sabiduría ancestral y la experiencia dialogan para ampliar nuestra comprensión de la conciencia.
-img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/poster.jpg
+img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/poster.webp
 
 date: 2026-10-09 00:00:00
 end: 2026-10-11 00:00:00
@@ -45,6 +45,9 @@ seo:
   noindex: false
 
 
+h1: Un espacio donde la ciencia, la sabiduría ancestral y la experiencia dialogan para ampliar nuestra comprensión de la conciencia
+
+
 que_son:
   title: ¿Qué son las Jornadas?
   sub: Ciencia, Psicología, Naturaleza y Comunidad
@@ -55,7 +58,7 @@ que_son:
 
     Ciencia, psicología, arte, experiencia psiconáutica, sabidurías ancestrales y proyectos afines se encuentran para compartir conocimientos, investigaciones, experiencias y prácticas desde una perspectiva ética, interdisciplinar y comunitaria.
 
-    Inspiradas en el **micelio** —la red viva que conecta y sostiene diferentes formas de vida—, estas jornadas ponen en el centro el valor de la comunidad. Creemos en los espacios donde las conexiones continúan creciendo más allá del encuentro y donde el intercambio entre personas fortalece una red viva de aprendizaje, cuidado y colaboración.
+    Inspiradas en el **micelio** "la red viva que conecta y sostiene diferentes formas de vida", estas jornadas ponen en el centro el valor de la comunidad. Creemos en los espacios donde las conexiones continúan creciendo más allá del encuentro y donde el intercambio entre personas fortalece una red viva de aprendizaje, cuidado y colaboración.
 
 
 mapa_viaje:
@@ -73,112 +76,133 @@ mapa_viaje:
     url: '#mapa-viaje-viernes'
     icon: spa
     sub: Abrirse
-    title: MADERA <br> <span>Viernes</span>
+    title: VIERNES <br> <span>Madera</span>
     md: |
-      > Toda transformación comienza con una apertura.
+      "Toda transformación comienza con una apertura"
+      {.h4}
 
       La **Madera** representa el nacimiento de todo proceso. Es curiosidad, creatividad, crecimiento y apertura hacia nuevas posibilidades. Crearemos un espacio de confianza y de comunidad que sostendrá el resto del viaje.
 
-      - **16:00** — Llegada al bosque y asentamiento
-      - **19:00** — Círculo de bienvenida
-      - **20:00** — Cena
-      - **22:00** — Concierto de bienvenida: **VIAJE PRESENCIA** *(Música medicina y mantras con Erika y Jou)*
+      - ::radio_button_checked:: **16:00** · Llegada al bosque y asentamiento
+      - ::radio_button_checked:: **19:00** · Círculo de bienvenida
+      - ::radio_button_checked:: **20:00** · Cena
+      - ::radio_button_checked:: **22:00** · Concierto de bienvenida: **Viaje Presencia** (Erika y Jou)
 
   - id: mapa-viaje-sabado-manana
     url: '#mapa-viaje-sabado-manana'
     icon: psychology
     sub: Comprender
-    title: METAL <br> <span>Sábado Mañana</span>
+    title: SÁBADO MAÑANA <br> <span>Metal</span>
     md: |
-      > Toda apertura necesita una comprensión.
+      "Toda apertura necesita una comprensión"
+      {.h4}
 
       El **Metal** representa la claridad y el discernimiento. Antes de explorar necesitamos un mapa que nos ayude a comprender el territorio. Durante la mañana construiremos ese marco desde la neurociencia, la psicología, la filosofía, la ética y el diálogo entre distintas tradiciones.
 
-      - **08:30** — Chi Kung · *El camino del Psiconauta*
-      - **09:30** — Desayuno
-      - **11:00** — Presentación oficial de las Jornadas
-      - **12:30** — Ponencias paralelas:
-        - **Metanoia:** *Psicodélicos y más allá* (Arosa J.Q.)
-        - **La Ciencia Tradicional del Amazonas** (Tote Escobedo)
-        - **LSD:** *La búsqueda de Dios* (Leon)
+      - ::radio_button_checked:: **08:30** · **Chi Kung:** El camino del Psiconauta (Fran Rivero)
+      - ::radio_button_checked:: **09:30** · Desayuno
+      - ::radio_button_checked:: **11:00** · Presentación de las Jornadas
+      - ::radio_button_checked:: **12:30** · Ponencias simultáneas:
+        - ::radio_button_unchecked:: **Metanoia:** Psicodélicos y más allá (Arosa J.Q.)
+        - ::radio_button_unchecked:: **La Ciencia Tradicional del Amazonas** (Tote Escobedo)
+        - ::radio_button_unchecked:: **LSD:** La búsqueda de Dios (Leon)
 
   - id: mapa-viaje-sabado-tarde
     url: '#mapa-viaje-sabado-tarde'
     icon: self_improvement
     sub: Encarnar
-    title: TIERRA <br> <span>Sábado Tarde</span>
+    title: SÁBADO TARDE <br> <span>Tierra</span>
     md: |
-      > Toda comprensión necesita una experiencia; toda experiencia necesita ser asimilada.
+      "Toda comprensión necesita una experiencia; toda experiencia necesita ser asimilada"
+      {.h4}
 
       La **Tierra** representa el equilibrio, el sostén y la capacidad de transformar el conocimiento en algo vivo. Llevaremos las ideas al cuerpo y a la práctica, y finalizaremos la tarde con una mesa redonda para compartir, contrastar y digerir colectivamente los aprendizajes.
 
-      - **14:30** — Comida
-      - **16:30** — Talleres vivenciales:
-        * *En cuerpo y alma* (Aina)
-        * *Viaje Somático Breathwork: SOMA Breath* (Marina Gil)
-        * *Jurema: preparación del extracto y reflexión sobre la medicina* (Oscar)
-      - **19:00** — **Mesa Redonda:** *Renacimiento psicodélico: ¿qué cultura estamos construyendo?*
+      - ::radio_button_checked:: **14:30** · Comida
+      - ::radio_button_checked:: **16:30** · Talleres vivenciales:
+        - ::radio_button_unchecked:: **En cuerpo y alma** (Aina)
+        - ::radio_button_unchecked:: **Viaje Somático Breathwork: SOMA Breath** (Marina Gil)
+        - ::radio_button_unchecked:: **Jurema: preparación del extracto y reflexión sobre la medicina** (Oscar)
+      - ::radio_button_checked:: **19:00** · **Mesa Redonda: Renacimiento psicodélico: ¿qué cultura estamos construyendo?** (Arosa J.Q., León y Elsa Navarra)
 
   - id: mapa-viaje-sabado-noche
     url: '#mapa-viaje-sabado-noche'
     icon: local_fire_department
     sub: Compartir
-    title: FUEGO <br> <span>Sábado Noche</span>
+    title: SÁBADO NOCHE <br> <span>Fuego</span>
     md: |
-      > Toda experiencia encuentra una nueva dimensión cuando puede compartirse.
+      "Toda experiencia encuentra una nueva dimensión cuando puede compartirse"
+      {.h4}
 
       El **Fuego** representa la expansión, la alegría de vivir y el amor. Cuando la comunidad se reúne, la vida se expresa. La música, la danza y la celebración nos recuerdan que la transformación también sucede en el encuentro y la auténtica conexión.
 
-      - **21:00** — Cena
-      - **23:00** — **EL LABORATORIO: "VIBRACIONES DEL MICELIO"**
-        Experiencia inmersiva sonoro-meditativa. Ritual colectivo con presentación, despegue vibracional (meditación AUM) y la sesión de 4 artistas sonoros.
+      - ::radio_button_checked:: **21:00** · Cena
+      - ::radio_button_checked:: **23:00** · **El Laboratorio: "Vibraciones del Micelio"**
+        Experiencia inmersiva donde cada artista aporta su esencia para dar vida a un viaje de paisajes sonoros, emoción y vibración. Un ritual colectivo que invita a recordar, sentir y expandir la conciencia a través de la música:
+          - ::radio_button_unchecked:: Presentación.
+          - ::radio_button_unchecked:: Despegue vibracional: meditación AUM.
+          - ::radio_button_unchecked:: Cuatro artistas nos acompañarán a través de distintos paisajes sonoros.
+
 
   - id: mapa-viaje-domingo
     url: '#mapa-viaje-domingo'
     icon: water_drop
     sub: Integrar
-    title: AGUA <br> <span>Domingo</span>
+    title: DOMINGO <br> <span>Agua</span>
     md: |
-      > Toda experiencia necesita integrarse para seguir transformando la vida.
+      "Toda experiencia necesita integrarse para seguir transformando la vida"
+      {.h4}
 
       El **Agua** representa la profundidad, la escucha y la sabiduría que aparece cuando damos tiempo a que una experiencia madure. Exploraremos herramientas y modelos para la integración de los estados ampliados de conciencia y cómo trasladar sus aprendizajes a la vida cotidiana.
 
-      - **09:30** — Desayuno
-      - **11:30** — Talleres de integración:
-        * *Del Viaje a la Vida: Integración Somática de Estados Expandidos de Conciencia* (Eric Haas y Chiara Vitali)
-        * *Escribiendo desde el otro lado: La escritura como brújula y aterrizaje* (Javier Aymat)
-        * *Bajar la montaña: la orientación como parte del viaje* (Mario Navarro)
-      - **14:30** — Comida
-      - **16:00** — **Jardín de la Conciencia:** Espacio libre comunitario de acompañamientos, masajes, tarot, astrología y prácticas corporales
-      - **18:00** — **Celebración de cierre**
+      - ::radio_button_checked:: **09:30** · Desayuno
+      - ::radio_button_checked:: **11:30** · Talleres de integración:
+        - ::radio_button_unchecked::  **Del Viaje a la Vida: Integración Somática de Estados Expandidos de Conciencia** (Eric Haas y Chiara Vitali)
+        - ::radio_button_unchecked::  **Escribiendo desde el otro lado: La escritura como brújula y aterrizaje** (Javier Aymat)
+        - ::radio_button_unchecked::  **Bajar la montaña: la orientación como parte del viaje** (Mario Navarro)
+      - ::radio_button_checked:: **14:30** · Comida
+      - ::radio_button_checked:: **16:00** · **Jardín de la Conciencia:** Espacio libre comunitario de acompañamientos, masajes, tarot, astrología y prácticas corporales
+      - ::radio_button_checked:: **18:00** · **Celebración de cierre**
 
 
 organizacion:
   title: Quienes Cuidan este Encuentro
   sub: Organización y facilitación del espacio
   boxes:
-  - id: amanda-arguelles
-    url: '#amanda-arguelles'
+  - id: organizacion-amanda-arguelles
+    url: '#organizacion-amanda-arguelles'
     title: Amanda Argüelles
-    sub: Psicóloga transpersonal & Organización
+    sub: Psicóloga transpersonal
     img: /u/amanda-arguelles.jpg
     md: |
       Psicóloga transpersonal, acompaña procesos de transformación personal desde una mirada que integra la psicología, el cuerpo y los estados expandidos de conciencia. Su visión nace de una profunda curiosidad por comprender la experiencia humana y crear espacios donde la ciencia, la magia y las sabidurías ancestrales dialoguen con respeto.
-  - id: xemi-pluma
-    url: '#xemi-pluma-roja'
-    title: Xemi (Pluma Roja)
-    sub: Facilitador & Co-creador
+
+      [[::brand:instagram:: @psico_mycellium]](https://www.instagram.com/psico_mycellium)
+  - id: organizacion-xemi
+    url: '#organizacion-xemi'
+    title: Xemi
+    sub: Facilitador de experiencias inmersivas
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/xemi-pluma-roja.jpg
     md: |
       Facilitador de experiencias que crean espacios de encuentro desde la autenticidad. A través de la música, la naturaleza y las experiencias compartidas, acompaña procesos que fomentan la presencia, la creatividad y la conexión humana.
-  - id: fran-rivero
-    url: '#fran-rivero'
+
+      [[::brand:instagram:: @plumaroja_experience]](https://www.instagram.com/plumaroja_experience)
+  - id: organizacion-fran-rivero
+    url: '#organizacion-fran-rivero'
     title: Fran Rivero
     sub: Psicólogo transpersonal e investigador
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/fran-rivero.jpg
     md: |
       Explora la conciencia desde el diálogo entre la ciencia, los estados ampliados de conciencia y las tradiciones contemplativas. Inspirado por la medicina ancestral y psicodélica y la filosofía taoísta (Tai Chi, Kung Fu, Chi Kung y meditación).
 
+      [[::brand:instagram:: @la.botica.de.la.paka]](https://www.instagram.com/la.botica.de.la.paka)
+  - id: organizacion-amaya
+    url: '#organizacion-amaya'
+    title: Amaya
+    sub: Educadora y mediadora intercultural
+    img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/amaya.jpg
+    md: |
+      Psiconauta y azafata de viajes hacia la consciencia, en su vida integra el autoconocimiento junto con una educación alternativa y una comunicación intercultural que permita tender puentes de entendimiento y cuidado entre todas las personas de cualquier edad y cultura.
 
 voces:
   title: Las Voces del Encuentro
@@ -315,12 +339,6 @@ voces:
       
       Militancia transfeminista, comunitaria y acompañamiento psicodélico.
     md: |
-      **Mesa Redonda: Renacimiento psicodélico: ¿qué cultura estamos construyendo?**
-
-      Los psicodélicos están transformando la salud mental y la espiritualidad en occidente. Reflexionaremos sobre si estamos preparados, los retos de consumir experiencias en una cultura del bienestar inmediato, y la importancia de la comunidad y los cuidados.
-
-      **Sobre la ponente:**
-
       Proviene de la militancia transfeminista y comunitaria y del ámbito terapéutico. Acompaña procesos psicodélicos tejiendo puentes entre visiones tradicionales y contemporáneas para fortalecer la salud comunitaria.
     # label: Ver Perfil
 
@@ -392,29 +410,29 @@ artistas:
   boxes:
   - id: artista-tantric-love-music
     url: '#artista-tantric-love-music'
-    title: Tantric Love Music
-    sub: Música medicina y mantras
+    title: Erika y Jou
+    sub: Tantric Love Music
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/tantric-love-music.jpg
     md: |
       Las voces de Erika y Jou junto a sus guitarras, flautas, Shruti Box, tambores chamánicos, gong y Handpan te ayudarán a conectar y vibrar alto en un viaje sonoro meditativo al interior del alma.
-  - id: artista-marina
-    url: '#artista-marina'
-    title: Marina
-    sub: Despegue vibracional · Meditación AUM
-    img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/marina.jpg
+  - id: artista-marina-gil
+    url: '#artista-marina-gil'
+    title: Marina Gil
+    sub: Marina Somatics
+    img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/marina-gil.jpg
     md: |
       Experiencia guiada de 20 minutos para elevar la energía grupal a través del sonido AUM, la voz, el ritmo y la respiración, preparando cuerpo y mente para la noche.
   - id: artista-jade-beats
     url: '#artista-jade-beats'
-    title: Jade Beats
-    sub: Artista multidisciplinar y DJ
+    title: Jade
+    sub: Jade Beats
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/jade-beats.jpg
     md: |
       Conexión con el pulso de la tierra a través de texturas orgánicas y electrónica. Olas de intensidad, descensos contemplativos, expansión y sensorialidad (`@jade.beats_`).
   - id: artista-sergio-arpe-panda-sound
     url: '#artista-sergio-arpe-panda-sound'
-    title: Arpe Panda Sound
-    sub: Panda Soundsystem (Zaragoza)
+    title: Sergio
+    sub: Arpe Panda Sound
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/sergio-arpe-panda-sound.jpg
     md: |
       Constructor, selector y operador del colectivo de Reggae y Sound System *Panda Soundsystem*. Sesiones desde el roots hasta el stepper más moderno con dubplates conscientes.
@@ -427,8 +445,8 @@ artistas:
       Facilitador y DJ. Entrelaza pulsos rítmicos enraizados con texturas atmosféricas envolventes, concibiendo la música como un santuario sagrado y ritual vivo.
   - id: artista-xemi-pluma-roja
     url: '#artista-xemi-pluma-roja'
-    title: Pluma Roja
-    sub: Viaje emocional y movimiento libre
+    title: Xemi
+    sub: Pluma Roja
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/xemi-pluma-roja.jpg
     md: |
       Proyecto musical guiado por Xemi. Inspirado en el movimiento libre y la experiencia directa, combinando paisajes sonoros para transitar desde la calma hasta la expansión.
@@ -488,8 +506,40 @@ espacio:
     icon: nutrition
     md: |
       Las comidas también forman parte del viaje. Puedes elegir entre:
-      - **Menú vegetariano opcional (40 €):** Incluye todas las comidas del encuentro (viernes cena a domingo comida).
-      - **Cocina compartida:** Traer tu propia comida y hacer uso de las cocinas habilitadas.
+      - ::radio_button_checked:: **Cocina compartida:** Traer tu propia comida y hacer uso de las cocinas habilitadas.
+      - ::radio_button_checked:: **Menú vegetariano opcional:** Incluye todas las comidas del encuentro (viernes cena a domingo comida).
+      
+      ### Menú
+
+      - ::radio_button_checked:: **Cena viernes:**
+        - ::radio_button_unchecked:: Crema de calabaza.
+        - ::radio_button_unchecked:: Tortitas de calabacin con queso
+      - ::radio_button_checked:: **Desayuno sábado:**
+        - ::radio_button_unchecked:: Café
+        - ::radio_button_unchecked:: Infusiones
+        - ::radio_button_unchecked:: Leche de avena y soja
+        - ::radio_button_unchecked:: Yogurt con avena y cereales 
+        - ::radio_button_unchecked:: Tostadas con mantequilla, mermeladas, tomate rayado, 
+      - ::radio_button_checked:: **Comida sábado:**
+        - ::radio_button_unchecked:: Ensalada Americana
+        - ::radio_button_unchecked:: Tabulehg 
+        - ::radio_button_unchecked:: Pasta fresca con salvia
+        - ::radio_button_unchecked:: Curri de verduras
+      - ::radio_button_checked:: **Cena sábado:**
+        - ::radio_button_unchecked:: Sopa Tailandesa 
+        - ::radio_button_unchecked:: Patatas de la vera
+      - ::radio_button_checked:: **Desayuno domingo:**
+        - ::radio_button_unchecked:: Café
+        - ::radio_button_unchecked:: Infusiones
+        - ::radio_button_unchecked:: Leche de avena y soja
+        - ::radio_button_unchecked:: Yogurt con avena y cereales 
+        - ::radio_button_unchecked:: Tostadas con mantequilla, mermeladas, tomate rallado 
+      - ::radio_button_checked:: **Comida Domingo:**
+        - ::radio_button_unchecked:: Paella verduras
+        - ::radio_button_unchecked:: Pakoras indues
+        - ::radio_button_unchecked:: Ensalada brocoli y coliflor
+        - ::radio_button_unchecked:: Pate griego de pimientos
+      {.align-left}
   - id: mercado-vivo
     url: '#mercado-vivo'
     title: Mercado Vivo
@@ -511,6 +561,16 @@ espacio:
       - **Participación libre:** Todas las actividades son voluntarias.
       - **Mascotas:** Recomendamos dejar a los compañeros perrunos en casa; si asisten, deben estar bajo responsabilidad y no acceder a talleres ni comedores.
       - **Compromiso:** Inscripción sin pago previo (pago en efectivo a la llegada). Si no puedes asistir, avísanos con antelación para liberar la plaza.
+  - id: compromiso-reserva
+    url: '#compromiso-reserva'
+    title: Compromiso con la reserva
+    icon: folded_hands
+    md: |
+      La inscripción a las jornadas no requiere ningún pago previo. La aportación se realizará en efectivo a la llegada.
+
+      Por ello, te pedimos que, si finalmente no puedes asistir después de haber reservado tu plaza, nos lo comuniques con la mayor antelación posible. De esta forma podremos ofrecer tu lugar a otra persona que desee participar y facilitar una mejor organización del encuentro.
+
+      Agradecemos mucho este pequeño gesto de cuidado y responsabilidad hacia la comunidad y hacia todas las personas que hacen posible estas jornadas. 
 
 
 inscripcion:
@@ -524,16 +584,29 @@ inscripcion:
     icon: local_activity
     price: 60 €
     md: |
-      - **Acceso completo:** A todas las actividades, ponencias, talleres y conciertos durante los 3 días.
-      - **Pernocta incluida:** Acceso y estancia en la zona de acampada o furgoneta/camper.
-      * *No incluye habitación ni menú vegetariano.*
+      - ::check:: **Acceso completo:** A todas las actividades, ponencias, talleres y conciertos durante los 3 días.
+      - ::check:: **Pernocta incluida:** Acceso y estancia en la zona de acampada o furgoneta/camper.
+      - ::close:: *No incluye habitación ni menú vegetariano.*
+      {.compare}
   - title: Entrada + Alojamiento
     icon: cottage
     price: 90 €
     md: |
-      - **Acceso completo:** A todas las actividades durante los 3 días.
-      - **Alojamiento:** 2 noches en habitación compartida (plazas limitadas a 20 personas por orden de inscripción).
-      * *No incluye menú vegetariano.*
+      - ::check:: **Acceso completo:** A todas las actividades durante los 3 días.
+      - ::check:: **Alojamiento:** 2 noches en habitación compartida (plazas limitadas a 20 personas por orden de inscripción).
+      - ::close:: *No incluye menú vegetariano.*
+      {.compare}
+  - title: Menú vegetariano
+    icon: nutrition
+    price: 40 €
+    md: |
+      Si seleccionas esta opción en el formulario se te enviará el contacto para realizar la reserva al finalizar inscripción.
+
+      (opcional)
+      {.sub}
+
+      [[Ver Menú]](#nutrir-la-red)
+
 
 formulario:
   title: Formulario de Inscripción
@@ -644,7 +717,7 @@ formulario:
       key: Bajar_la_montana
 
   - type: h4
-    label: 4\. Mercado Vivo y Necesidades
+    label: 4\. Mercado Vivo
   - type: check
     name: Mercado Vivo Participar
     label: Quiero participar en el Mercado Vivo con mi proyecto artesanal/artístico
@@ -662,11 +735,21 @@ formulario:
     icon: box
     req: false
     show_if: Mercado Vivo Participar
+
+  - type: h4
+    label: 5\. Necesidades
   - type: area
     name: Necesidades_Alergias_Observaciones
     label: Alergias, intolerancias, accesibilidad u observaciones
     icon: medical_services
     req: false
+
+  - type: h4
+    label: 6\. Grupo de WhatsApp
+  - type: check
+    name: Grupo WhatsApp
+    label: Acepto ser añadid@ al grupo de WhatsApp del encuentro con el fin de recibir información relacionada con la organización, horarios, comunicaciones importantes y UBICACION de las Jornadas. Podré abandonar el grupo en cualquier momento. (RECOMENDABLE)
+    full: true
 
 final: |
   **Pedir información directa:**

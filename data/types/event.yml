@@ -4,7 +4,7 @@ weight: 3
 rel: true
 tpl:
   sections:
-  - file: base-_hero
+  - file: experiencias-_hero
   - file: base-toc
   - file: base-content
   - file: experiencias-que-son

@@ -1,9 +1,6 @@
 name: Inscripción
 if: inscripcion
 
-box:
-  gap_vs: 4
-  align: left
 boxes:
 - get:
   - from: inscripcion.title
@@ -14,9 +11,12 @@ boxes:
     to: md
   - from: inscripcion.boxes
     to: boxes
+  align: center
   box:
-    cols: 0
+    cols: 2.01
+    cols_vs: 1.2
     gap_vs: 2
+    slider: true
     color: light
     bi: /u/fondo.webp
     alpha: .3

@@ -1,0 +1,39 @@
+name: Base ➡️ Hero
+node: header
+box:
+  gap_vs: 2
+#   align: left
+boxes:
+- get:
+  - from: title
+    to: hanchor
+  - from: h1
+    to: title
+  hs: 6
+- if: cancelled
+  md: |
+    =={{< i18n cancelled >}}==
+    {.cancelled}
+- if: img
+  node: div
+  get:
+  - to: img
+  - to: vid
+  - from: title
+    to: alt
+  - from: seo.title
+    to: alt
+  - from: img
+    to: url
+  - from: img
+    to: url
+  - to: ratio
+  btn: hide
+# - tags:
+#   - type: type
+#   # - type: date
+#   # - type: address
+#   - type: tax
+#     tax: all
+- url: '#inscripcion'
+  label: Reservar plaza
