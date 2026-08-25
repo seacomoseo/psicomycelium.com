@@ -29,10 +29,10 @@ boxes:
   - from: formulario.inputs
     to: inputs
   form:
-    mail: info@psicomycelium.com
+    mail: lorensansol@gmail.com # info@psicomycelium.com
     subject: Nueva inscripción · {{ get title }} · {{ year }}
     label: Confirmar Inscripción
-    consent: Entiendo que la aportación se abonará en efectivo a la llegada y me comprometo a avisar si no puedo asistir.
+    action: https://script.google.com/macros/s/AKfycbyqE_VW7p-EVpAWmxMzCqRnMxn66I_VspmPd07lTARXhFiIhnlAZGpywykv59gy5MREqQ/exec
 # - url: '#formulario'
 #   label: Formulario de Inscripción
 

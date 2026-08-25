@@ -53,18 +53,22 @@ que_son:
   md: |
     **Psico Mycelium** es una experiencia inmersiva, social, cultural y educativa abierta a todas las personas interesadas en explorar y comprender los psicodélicos y los estados expandidos de conciencia.
 
-    Un encuentro donde diferentes miradas dialogan en torno a los estados expandidos de conciencia a través de **conferencias, talleres, mesas de diálogo, experiencias inmersivas y propuestas artísticas**.
+    Un encuentro donde diferentes miradas dialogan en torno a los estados expandidos de conciencia a través de **conferencias, talleres, mesas redondas, experiencias inmersivas y propuestas artísticas**.
 
     Ciencia, psicología, arte, experiencia psiconáutica, sabidurías ancestrales y proyectos afines se encuentran para compartir conocimientos, investigaciones, experiencias y prácticas desde una perspectiva ética, interdisciplinar y comunitaria.
 
-    Inspiradas en el **micelio** "la red viva que conecta y sostiene diferentes formas de vida", estas jornadas ponen en el centro el valor de la comunidad. Creemos en los espacios donde las conexiones continúan creciendo más allá del encuentro y donde el intercambio entre personas fortalece una red viva de aprendizaje, cuidado y colaboración.
+    Inspiradas en el **micelio** “la red viva que conecta y sostiene diferentes formas de vida” estas jornadas ponen en el centro el valor de la comunidad. Creemos en los espacios donde las conexiones continúan creciendo más allá del encuentro y donde el intercambio entre personas fortalece una red viva de aprendizaje, cuidado y colaboración.
 
 
 mapa_viaje:
   title: El Mapa del Viaje
   sub: Un viaje siguiendo el ritmo de la vida (Wu Xing)
   md: |
-    Toda transformación necesita su tiempo. Una semilla permanece bajo la tierra antes de brotar. Un río encuentra su cauce sin esfuerzo. Las estaciones se suceden sin prisa. Nosotros también formamos parte de ese mismo movimiento.
+    Toda transformación necesita su tiempo.
+
+    Una semilla permanece bajo la tierra antes de brotar. Un río encuentra su cauce sin esfuerzo. Las estaciones se suceden sin prisa.
+
+    Nosotros también formamos parte de ese mismo movimiento.
 
     Los estados ampliados de conciencia pueden abrir nuevas formas de percibirnos a nosotros mismos y al mundo. Pero la experiencia, por sí sola, no transforma. Lo que realmente transforma es la forma en que la comprendemos, la vivimos y la integramos.
 
@@ -82,7 +86,7 @@ mapa_viaje:
 
       La **Madera** representa el nacimiento de todo proceso. Es curiosidad, creatividad, crecimiento y apertura hacia nuevas posibilidades. Crearemos un espacio de confianza y de comunidad que sostendrá el resto del viaje.
 
-      - ::radio_button_checked:: **16:00** · Llegada al bosque y asentamiento
+      - ::radio_button_checked:: **16:00** · Llegada al bosque
       - ::radio_button_checked:: **19:00** · Círculo de bienvenida
       - ::radio_button_checked:: **20:00** · Cena
       - ::radio_button_checked:: **22:00** · Concierto de bienvenida: **Viaje Presencia** (Erika y Jou)
@@ -115,7 +119,7 @@ mapa_viaje:
       "Toda comprensión necesita una experiencia; toda experiencia necesita ser asimilada"
       {.h4}
 
-      La **Tierra** representa el equilibrio, el sostén y la capacidad de transformar el conocimiento en algo vivo. Llevaremos las ideas al cuerpo y a la práctica, y finalizaremos la tarde con una mesa redonda para compartir, contrastar y digerir colectivamente los aprendizajes.
+      La **Tierra** representa el equilibrio, el sostén y la capacidad de transformar el conocimiento en algo vivo. Llevaremos las ideas al cuerpo y a la práctica y finalizaremos la tarde con una mesa redonda para compartir, contrastar y digerir colectivamente los aprendizajes del día.
 
       - ::radio_button_checked:: **14:30** · Comida
       - ::radio_button_checked:: **16:30** · Talleres vivenciales:
@@ -133,10 +137,10 @@ mapa_viaje:
       "Toda experiencia encuentra una nueva dimensión cuando puede compartirse"
       {.h4}
 
-      El **Fuego** representa la expansión, la alegría de vivir y el amor. Cuando la comunidad se reúne, la vida se expresa. La música, la danza y la celebración nos recuerdan que la transformación también sucede en el encuentro y la auténtica conexión.
+      El **Fuego** representa la expansión, la alegría de vivir y el amor. Cuando la comunidad se reúne, la vida se expresa. La música, la danza y la celebración nos recuerdan que la transformación también sucede en el encuentro y la auténtica conexión con los demás.
 
       - ::radio_button_checked:: **21:00** · Cena
-      - ::radio_button_checked:: **23:00** · **El Laboratorio: "Vibraciones del Micelio"**
+      - ::radio_button_checked:: **23:00** · **El Laboratorio: “Vibraciones del Micelio”**
         Experiencia inmersiva donde cada artista aporta su esencia para dar vida a un viaje de paisajes sonoros, emoción y vibración. Un ritual colectivo que invita a recordar, sentir y expandir la conciencia a través de la música:
           - ::radio_button_unchecked:: Presentación.
           - ::radio_button_unchecked:: Despegue vibracional: meditación AUM.
@@ -158,9 +162,9 @@ mapa_viaje:
       - ::radio_button_checked:: **11:30** · Talleres de integración:
         - ::radio_button_unchecked::  **Del Viaje a la Vida: Integración Somática de Estados Expandidos de Conciencia** (Eric Haas y Chiara Vitali)
         - ::radio_button_unchecked::  **Escribiendo desde el otro lado: La escritura como brújula y aterrizaje** (Javier Aymat)
-        - ::radio_button_unchecked::  **Bajar la montaña: la orientación como parte del viaje** (Mario Navarro)
+        - ::radio_button_unchecked::  **Bajar la montaña — la integración como parte del viaje** (Mario Navarro)
       - ::radio_button_checked:: **14:30** · Comida
-      - ::radio_button_checked:: **16:00** · **Jardín de la Conciencia:** Espacio libre comunitario de acompañamientos, masajes, tarot, astrología y prácticas corporales
+      - ::radio_button_checked:: **16:00** · **Jardín de la Conciencia:** Espacio libre de terapias, acompañamientos, masajes, prácticas corporales, tarot, astrología y otras propuestas ofrecidas por la comunidad
       - ::radio_button_checked:: **18:00** · **Celebración de cierre**
 
 
@@ -174,7 +178,9 @@ organizacion:
     sub: Psicóloga transpersonal
     img: /u/amanda-arguelles.jpg
     md: |
-      Psicóloga transpersonal, acompaña procesos de transformación personal desde una mirada que integra la psicología, el cuerpo y los estados expandidos de conciencia. Su visión nace de una profunda curiosidad por comprender la experiencia humana y crear espacios donde la ciencia, la magia y las sabidurías ancestrales dialoguen con respeto.
+      Psicóloga transpersonal, acompaña procesos de transformación personal desde la psicología, el cuerpo y los estados expandidos de conciencia. Formada en psicoterapia asistida con psicodélicos y preparación e integración de experiencias psicodélicas.
+
+      Su mirada nace de una profunda curiosidad por comprender la experiencia humana y crear espacios donde la ciencia, la magia y las sabidurías ancestrales puedan dialogar desde el respeto.
 
       [[::brand:instagram:: @psico_mycellium]](https://www.instagram.com/psico_mycellium)
   - id: organizacion-xemi
@@ -192,9 +198,10 @@ organizacion:
     sub: Psicólogo transpersonal e investigador
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/fran-rivero.jpg
     md: |
-      Explora la conciencia desde el diálogo entre la ciencia, los estados ampliados de conciencia y las tradiciones contemplativas. Inspirado por la medicina ancestral y psicodélica y la filosofía taoísta (Tai Chi, Kung Fu, Chi Kung y meditación).
+      Psicólogo transpersonal e investigador. Explora la conciencia desde el diálogo entre la ciencia, los estados ampliados de conciencia y las tradiciones contemplativas. Su camino está profundamente inspirado por la medicina ancestral y psicodélica, así como por la filosofía taoísta, que cultiva a través del Tai Chi, el Kung Fu, el Chi Kung y la meditación.
 
       [[::brand:instagram:: @la.botica.de.la.paka]](https://www.instagram.com/la.botica.de.la.paka)
+
   - id: organizacion-amaya
     url: '#organizacion-amaya'
     title: Amaya
@@ -205,26 +212,30 @@ organizacion:
 
 voces:
   title: Las Voces del Encuentro
-  sub: Ponencias, talleres y mesas de diálogo
+  sub: Ponencias, talleres y mesas redondas
   boxes:
 
   - id: voz-arosa
     url: '#voz-arosa'
     title: Arosa J.Q.
-    sub: "<span>Ponencia</span> <br> Metanoia: la transformación psicológica profunda, rápida y duradera"
+    sub: "<span>Ponencia</span> <br> Metanoia: la transformación psicológica profunda, rápida y duradera. Psicodélicos y más allá."
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/arosa-jq.jpg
     md: |
       **¿Cómo pueden algunas experiencias marcar un antes y un después en nuestras vidas?**
 
-      Los psicodélicos a menudo provocan cambios radicales en creencias, identidad, valores y propósito; pero también lo hacen muchas otras vivencias intensas, como los eventos traumáticos, las crisis vitales o las experiencias cercanas a la muerte. ¿Hay acaso un proceso o mecanismo común detrás de todo esto? Abordaremos desde la psicología y la neurociencia la transformación psicológica profunda, rápida y duradera: la metanoia.
+      Los psicodélicos a menudo provocan cambios radicales en creencias, identidad, valores y propósito; pero también lo hacen muchas otras vivencias intensas, como los eventos traumáticos, las crisis vitales o las experiencias cercanas a la muerte.
 
-      *Esta ponencia es fruto de una investigación académica en curso.*
+      ¿Hay acaso un proceso o mecanismo común detrás de todo esto?
 
-      *Además formará parte de la mesa redonda sobre cuidados y reducción de riesgos.*
+      Abordaremos desde la psicología y la neurociencia un tema más fundamental que el de los psicodélicos: la transformación psicológica profunda, rápida y duradera – la metanoia.
+
+      *Esta ponencia es fruto de una investigación académica actualmente en curso.*
+
+      Además de esta ponencia, formará parte de la mesa redonda: **Renacimiento psicodélico: ¿Qué cultura estamos construyendo?**
 
       **Sobre el ponente:**
 
-      Psicólogo transpersonal y divulgador. Ponente invitado en varias jornadas nacionales sobre psicodélicos y organizador del Encuentro Anual de Espiritualidad y Neurociencia. Fundador de la Asociación Ensua, entidad sin ánimo de lucro destinada a divulgar y promover el cultivo de la sabiduría y fomentar una espiritualidad crítica y madura.
+      Psicólogo transpersonal y divulgador. Ponente invitado en varias jornadas nacionales sobre psicodélicos y organizador del Encuentro Anual de Espiritualidad y Neurociencia. Fundador de Asociación Ensua, una entidad sin ánimo de lucro destinada a divulgar y promover el cultivo de la sabiduría y fomentar una espiritualidad crítica y madura.
 
       [[::brand:instagram:: @ensua_org]](https://www.instagram.com/ensua_org)
 
@@ -234,33 +245,39 @@ voces:
     sub: "<span>Ponencia</span> <br> La Ciencia Tradicional del Amazonas"
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/tote-escobedo.jpg
     md: |
-      **Una aproximación a la tradición vegetalista amazónica y al uso ritual de la ayahuasca**
+      **Una aproximación a la tradición vegetalista amazónica y al uso ritual de la ayahuasca desde la perspectiva de la medicina ancestral.**
 
-      Tote compartirá los principios de la Ciencia Vegetalista Amazónica, el proceso de formación de un curandero, la preparación para una ceremonia y algunos de los riesgos y desafíos del mundo chamánico. Una invitación a comprender esta tradición desde el respeto, la responsabilidad y el contexto cultural del que nace.
+      A través de su propia experiencia y recorrido de aprendizaje, Tote compartirá los principios de la Ciencia Vegetalista Amazónica, el proceso de formación de un curandero, la preparación para una ceremonia y algunos de los riesgos y desafíos que existen dentro del mundo chamánico. Una invitación a comprender esta tradición desde el respeto, la responsabilidad y el contexto cultural del que nace.
 
       **Sobre el ponente:**
 
-      Inició su camino con la medicina amazónica en 1999. Tras su primer viaje a la Amazonía peruana, realizó un aprendizaje de diez años en la selva con Don Cristóbal Solón Tello Lozano ("Maestro de Maestros"). Desde hace más de 20 años acompaña ceremonias en distintos lugares del mundo con disciplina y compromiso por la tradición.
+      Inició su camino con la medicina amazónica en 1999, tras atravesar una profunda crisis existencial y varios años de adicción que le llevaron a una depresión. Su primera ceremonia de ayahuasca en España marcó un antes y un después, impulsándole a viajar a la Amazonía peruana para conocer a los maestros de esta tradición y realizar su primer proceso de dieta.
+
+      Más adelante, una experiencia vivida durante una ceremonia le llevó a buscar a Don Cristóbal Solón Tello Lozano, reconocido como "Maestro de Maestros", con quien inició un aprendizaje de diez años en la selva peruana dentro de la Ciencia Vegetalista Amazónica. Permaneció a su lado hasta su fallecimiento en 2010.
+
+      Actualmente vive junto a Tania, hija de su maestro, y desde hace más de veinte años acompaña ceremonias en distintos lugares del mundo, compartiendo este camino desde el respeto por la tradición, la disciplina y el compromiso que requiere esta práctica.
 
       [[::brand:instagram:: @elcantosagrado]](https://www.instagram.com/elcantosagrado)
 
   - id: voz-leon
     url: '#voz-leon'
     title: Leon
-    sub: "<span>Ponencia</span> <br> LSD y la búsqueda de Dios"
+    sub: "<span>Ponencia</span> <br> LSD y la búsqueda De Dios"
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/leon.jpg
     md: |
-      **Relación entre conciencia, espiritualidad y trascendencia**
+      Una invitación a explorar la relación entre conciencia, espiritualidad y trascendencia a través de una mirada abierta e integradora. La sesión comenzará con una práctica inspirada en el budismo y en el mantra del Sutra del Corazón del conocimiento transcendente, creando un espacio de silencio y presencia desde el que adentrarnos en las grandes preguntas de la existencia.
 
-      La sesión comenzará con una práctica inspirada en el budismo y el Sutra del Corazón del conocimiento trascendente. Reflexionaremos sobre el lugar singular que el LSD ha ocupado en la búsqueda espiritual y su vínculo con la experiencia de lo sagrado. Inspirándonos en el trabajo de Stanislav Grof, recorreremos el viaje desde el vacío sin forma hasta la manifestación del mundo. Concluirá con un espacio de preguntas y diálogo.
-
-      *Además formará parte de la mesa redonda.*
+      A partir de ahí, reflexionaremos sobre el lugar singular que el LSD ha ocupado en la búsqueda espiritual de muchas personas, diferenciándolo de otras tradiciones psicodélicas y explorando su vínculo con la experiencia de lo sagrado y de la dimensión del alma. Inspirándonos en el trabajo de Stanislav Grof, recorreremos simbólicamente el viaje desde el vacío y la conciencia sin forma hasta la manifestación del mundo, comprendiendo cómo lo invisible toma cuerpo en la experiencia humana. La conferencia concluirá con un espacio de diálogo y preguntas para compartir vivencias, perspectivas e inquietudes en un encuentro de aproximadamente dos horas.
 
       **Sobre el ponente:**
 
-      Fundador de Microdosing Integration. Formado en Terapia Transpersonal con más de 20 años de práctica meditativa. Ha acompañado cientos de procesos de preparación, integración y retiros desde un enfoque ético y humano.
+      Fundador de Microdosing Integration, un proyecto dedicado a la preparación, el acompañamiento y la integración de experiencias en estados expandidos de conciencia, tanto en procesos de microdosis como de macrodosis.
 
-      [[::brand:instagram:: @leon.PENDIENTE]](https://www.instagram.com/leon.PENDIENTE)
+      Formado en Terapia Transpersonal y especializado en integración, ha acompañado cientos de procesos individuales, guiado retiros e impartido formaciones para profesionales y personas interesadas en el desarrollo personal y la expansión de la conciencia.
+
+      Con más de veinte años de práctica meditativa y una amplia trayectoria acompañando procesos de transformación, su trabajo integra la psicología transpersonal, la experiencia contemplativa y un enfoque ético, humano y responsable en el acompañamiento de estados expandidos de conciencia.
+
+      [[::brand:instagram:: @microdosingintegration]](https://www.instagram.com/microdosingintegration)
 
   - id: voz-aina
     url: '#voz-aina'
@@ -270,11 +287,13 @@ voces:
     md: |
       **Habitar el contenedor que somos**
 
-      Nuestro cuerpo contiene todas y cada una de las cosas que nos suceden y sucedieron. *En cuerpo y alma* será una oportunidad para convivir con ello a través del movimiento, la danza, la propiocepción y la meditación activa. Recordar que la danza puede ser un canal de vuelta a tu propio hogar: tu cuerpo y tu alma.
+      Nuestro cuerpo contiene todas y cada una de las cosas que nos suceden y sucedieron. La posibilidad de habitarnos está siempre, pero muchas veces no estamos disponibles para sostener todo lo que contenemos. *En cuerpo y alma* será una oportunidad para jugar a convivir con todo ello a través del movimiento, la danza, la propiocepción y la meditación activa. Un espacio tiempo compartido donde recordar que llevamos la casa a cuestas, que en cualquier momento podemos sentirnos refugiadas y la danza puede ser un canal de vuelta a tu propio hogar: tu cuerpo y tu alma.
 
       **Sobre la facilitadora:**
 
-      Graduada en Teatro Físico por la ESAD de Murcia (2025), intérprete, bailarina y creadora escénica. Ha trabajado en festivales internacionales y forma parte del equipo de producción de La Mecànica y co-creadora del Col·lectiu Ca Nostra.
+      Graduada en Teatro Físico por la Escuela Superior de Arte Dramático de Murcia (2025), es intérprete, bailarina y creadora escénica. Ha participado en festivales internacionales con *Federico entre los dientes*, de Sonia Murcia Molina, como música, intérprete y bailarina, y ha formado parte del Proyecto GoOD de la compañía Otra Danza.
+
+      Ha trabajado como actriz y profesora de teatro y danza, y actualmente forma parte del equipo de producción de La Mecànica. Es co-creadora del Col·lectiu Ca Nostra, con la pieza *Fiança*, y continúa desarrollando su práctica en danza contemporánea.
 
       [[::brand:instagram:: @aina_____mor]](https://www.instagram.com/aina_____mor)
 
@@ -286,11 +305,17 @@ voces:
     md: |
       **Respiración consciente, movimiento somático y música**
 
-      Se combinan movimiento suave, respiración consciente rítmica (SOMA Breath) y retención de aire con música para relajar el sistema nervioso, liberar tensiones y acceder a estados profundos de conciencia asociados a la intuición y la reprogramación de patrones.
+      En este taller se combinan movimiento somático suave, respiración consciente (SOMA Breath) y música para relajar el cuerpo, soltar tensión y el sistema nervioso.
+
+      A través de la respiración rítmica, la retención de aire y el sonido, se facilita la conexión con el subconsciente y el cuerpo, permitiendo acceder a estados profundos y alterados de consciencia asociados a la meditación, la intuición y la exploración interna.
+
+      Estos estados ayudan a liberar bloqueos, reprogramar patrones y favorecer la integración de cuerpo, mente y alma.
 
       **Sobre la facilitadora:**
 
-      Tras dejar su trayectoria como científica, vivió y se formó durante cinco años en Asia en yoga, breathwork y trabajo somático. Su enfoque integra cuerpo y respiración desde una mirada cercana y libre de dogmas.
+      Tras dejar su trayectoria como científica, Marina emprendió un camino de transformación que la llevó a vivir y formarse durante cinco años en Asia, profundizando en disciplinas como el yoga, el breathwork y el trabajo somático.
+
+      Su enfoque integra cuerpo, respiración y conciencia como herramientas para favorecer la regulación del sistema nervioso, el autoconocimiento y la reconexión con la sabiduría interna, desde una mirada cercana, accesible y libre de dogmas.
 
       [[::brand:instagram:: @marinasomatics]](https://www.instagram.com/marinasomatics)
 
@@ -300,13 +325,13 @@ voces:
     sub: "<span>Taller</span> <br> Jurema: preparación del extracto y reflexión sobre la medicina"
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/oscar.jpg
     md: |
-      **Preparación práctica y reflexión sobre la medicina**
-
-      Un taller práctico en el que aprenderemos un método sencillo para la preparación del extracto de Jurema, seguido de un espacio de reflexión sobre su tradición y cómo relacionarnos con ella desde el conocimiento, el respeto y la humildad.
+      Un taller práctico en el que aprenderemos un método sencillo para la preparación del extracto de Jurema. A partir de esta experiencia, abriremos un espacio de reflexión sobre esta planta, su tradición y las diferentes formas de relacionarnos con ella desde el respeto, el conocimiento y la responsabilidad.
 
       **Sobre el facilitador:**
 
-      Apasionado por los saberes ancestrales con más de 7 años recorriendo el camino de las medicinas tradicionales. Dedica su labor a preservar y transmitir el conocimiento y legado cultural de la Jurema.
+      Apasionado por el estudio de las tradiciones y los saberes ancestrales, lleva más de siete años recorriendo el camino de las medicinas tradicionales y, desde hace tres, acompañando procesos desde una presencia cercana y respetuosa.
+
+      La Jurema se ha convertido en una de las grandes maestras de su camino. Desde una profunda conexión con su espíritu y su tradición, dedica parte de su labor a preservar y transmitir el conocimiento sobre esta medicina, compartiendo su preparación y el legado cultural que la acompaña para que pueda seguir floreciendo con respeto, conciencia y humildad.
 
   - id: voz-elsa
     url: '#voz-elsa'
@@ -314,21 +339,31 @@ voces:
     sub: "Ponente Invitada a la Mesa Redonda"
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/elsa-navarra.jpg
     md: |
-      Proviene de la militancia transfeminista y comunitaria y del ámbito terapéutico. Acompaña procesos psicodélicos tejiendo puentes entre visiones tradicionales y contemporáneas para fortalecer la salud comunitaria.
+      Proviene de la militancia transfeminista y comunitaria, así como del ámbito terapéutico. Desde hace varios años recorre el camino de la medicina desde el activismo y el acompañamiento psicodélico.
+
+      Su propósito es tejer puentes entre las formas tradicionales y contemporáneas de comprender y utilizar las sustancias, contribuyendo a la construcción de saberes que fortalecen la salud comunitaria.
+
+      Formará parte de la mesa redonda: **Renacimiento psicodélico: ¿Qué cultura estamos construyendo?**
 
   - id: voz-chiara-eric
     url: '#voz-chiara-eric'
     title: Eric Haas y Chiara Vitali
-    sub: "<span>Taller</span> <br> Del Viaje a la Vida: Integración Somática de Estados Expandidos"
+    sub: "<span>Taller</span> <br> Del Viaje a la Vida: Integración Somática de Estados Expandidos de Conciencia"
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/chiara-vitali-eric-haas.jpg
     md: |
       **Transformar una experiencia extraordinaria en un cambio real y sostenible**
 
-      A través de la conciencia corporal, el movimiento consciente, la escritura terapéutica, el modelo *Internal Family Systems (IFS)* y dinámicas grupales, exploraremos cómo dar sentido a lo vivido e incorporarlo a la vida cotidiana.
+      Los estados expandidos de conciencia pueden abrir nuevas perspectivas, revelar emociones profundas o despertar una intensa sensación de conexión. Sin embargo, el verdadero proceso comienza cuando la experiencia termina.
+
+      Este taller propone un espacio de integración donde cuerpo, mente y sistema nervioso trabajan juntos para dar sentido a lo vivido. A través de la conciencia corporal, el movimiento consciente, la escritura terapéutica, el modelo *Internal Family Systems (IFS)* y dinámicas grupales, exploraremos cómo escuchar aquello que la experiencia vino a mostrarnos y cómo incorporarlo a nuestra vida cotidiana.
 
       **Sobre los facilitadores:**
 
-      Terapeutas especializados en terapia psicodélica y enfoque holístico (cuerpo, mente y alma). Acompañan procesos individuales, de pareja y grupales para regular el sistema nervioso y cultivar mayor armonía.
+      Se dedican al acompañamiento de personas en sus procesos vitales, ofreciendo una terapia con enfoque holístico que integra diferentes herramientas según las necesidades y el momento de cada persona.
+
+      Desde la comprensión de que el ser humano es un conjunto de cuerpo, mente y alma, facilitan procesos orientados a encontrar equilibrio en cada una de estas dimensiones. Su trabajo incluye prácticas para habitar el cuerpo, regular el sistema nervioso, abrazar las emociones, navegar la conciencia y cultivar una mayor armonía en la vida cotidiana.
+
+      Están especializados en terapia psicodélica, acompañando procesos individuales, de pareja y grupales.
 
       [[::link:: www.primalnature.eu]](https://www.primalnature.eu)
 
@@ -338,13 +373,19 @@ voces:
     sub: "<span>Taller</span> <br> Escribiendo desde el otro lado: La escritura como brújula y aterrizaje"
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/javier-aymat.jpg
     md: |
-      **La escritura expresiva como herramienta de integración**
+      La escritura expresiva y creativa puede convertirse en una herramienta de gran valor tanto para la preparación como para la integración de los viajes con sustancias. Así como escribir un sueño nos permite recordar, comprender y descubrir nuevos matices de su significado, escribir después de una experiencia ayuda a fijar aquello que emerge del inconsciente antes de que se desvanezca con el tiempo.
 
-      Escribir después de una experiencia ayuda a fijar lo que emerge del inconsciente antes de que se desvanezca. Este taller propone la escritura como brújula de intención previa y aterrizaje posterior. No se requiere experiencia previa en escritura.
+      Este taller propone la escritura como una brújula para dar forma a las intenciones antes del viaje y como un espacio de aterrizaje para integrar lo vivido después. A través de diferentes dinámicas de escritura expresiva, exploraremos el lenguaje simbólico como una vía para acceder a aspectos profundos de nosotros mismos, atravesar resistencias y permitir que la experiencia siga desplegándose más allá del propio viaje.
+
+      No hay que tener experiencia escribiendo; solo la disposición a dejarse ser, fluir y disfrutar creando.
 
       **Sobre el facilitador:**
 
-      Terapeuta Gestalt diplomado por la EMTG, periodista y especialista en Escritura Expresiva y acompañamiento en estados expandidos de conciencia.
+      Considera que su mejor carta de presentación no son sus títulos, sino haber aprendido a poner sus propias vivencias al servicio del acompañamiento a otras personas.
+
+      Acompaña procesos desde la Terapia Gestalt, la Escritura Expresiva —en formato individual, grupal, presencial y online— y el acompañamiento en estados expandidos de conciencia, integrando estas herramientas como caminos de transformación personal.
+
+      Es terapeuta Gestalt titulado por la Escuela Madrileña de Terapia Gestalt (EMTG) y cuenta con formación en Trastorno por Estrés Postraumático (TEPT) por violencia y abuso (Centro Terapéutico Landa), Círculos de Escritura Expresiva para profesionales (Marisé Barreiro) y Bioenergética (Carácter en el cuerpo, Centro Raíz Terapia). Además, es licenciado en Periodismo.
 
       [[::brand:instagram:: @javieraymat]](https://www.instagram.com/javieraymat)
 
@@ -358,13 +399,13 @@ voces:
 
       Hay algo que casi nadie prepara: la vuelta. Ver no es lo mismo que cambiar, y el insight más luminoso se apaga en tres semanas si no encuentra un cuerpo, una rutina y un lenguaje donde aterrizar.
 
-      En dos horas trabajamos las dos mitades del descenso: la ciencia (qué ocurre en el cerebro y en el cuerpo durante la ventana de neuroplasticidad posterior, y por qué integrar es un proceso corporal antes que intelectual) y la práctica, con herramientas somáticas y de respiración para escuchar lo que el cuerpo sigue sosteniendo, un mapa sencillo para ordenar el material vivido y criterios claros para saber cuándo algo pide acompañamiento profesional.
+      En dos horas trabajamos las dos mitades del descenso: la ciencia —qué ocurre en el cerebro y en el cuerpo durante la ventana de neuroplasticidad posterior, y por qué integrar es un proceso corporal antes que intelectual— y la práctica, con herramientas somáticas y de respiración para escuchar lo que el cuerpo sigue sosteniendo, un mapa sencillo para ordenar el material vivido y criterios claros para saber cuándo algo pide acompañamiento profesional.
 
       Para quienes han vuelto de estados no ordinarios de consciencia (por la respiración, la meditación, la vida misma o el uso de sustancias) y para quienes acompañan a otros en ese regreso.
 
       **Sobre el facilitador:**
 
-      Es médico, formado en medicina integrativa y psiconeuroinmunología, con máster en medicina de urgencias y medicina de montaña. Dirige *Mediconsciencia*, proyecto desde el que acompaña procesos de salud que integran ciencia, cuerpo y consciencia. Su formación atraviesa la microbiota y la nutrición clínica, la posturología, las técnicas de liberación emocional y fascial, el mindfulness y el Kriya Yoga. Creador de *Neurosoma*. Trabaja desde la convicción de que el cuerpo y la mente nunca estuvieron separados.
+      Es médico, formado en medicina integrativa y psiconeuroinmunología, con máster en medicina de urgencias y medicina de montaña. Dirige *Mediconsciencia*, proyecto desde el que acompaña procesos de salud que integran ciencia, cuerpo y consciencia. Su formación atraviesa la microbiota y la nutrición clínica, la posturología, las técnicas de liberación emocional y fascial, el mindfulness y el Kriya Yoga. Con toda su experiencia crea *Neurosoma*, una práctica que enseña desde hace años y que fue determinante en su propio proceso. Trabaja desde una convicción simple: el cuerpo y la mente nunca estuvieron separados, y cuidarse —con curiosidad, con juego, con mirada de niño— puede ser la aventura más divertida de una vida.
 
       [[::brand:instagram:: @mediconsciencia]](https://www.instagram.com/mediconsciencia)
 
@@ -379,7 +420,9 @@ artistas:
     sub: Tantric Love Music
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/tantric-love-music.jpg
     md: |
-      Las voces de Erika y Jou junto a sus guitarras, flautas, Shruti Box, tambores chamánicos, gong y Handpan te ayudarán a conectar y vibrar alto en un viaje sonoro meditativo al interior del alma.
+      Las voces de Erika y Jou junto a sus guitarras, Flautas, ShrutiBox, Tambores chamánicos, Gong o Hand Pan, te ayudarán a reconectar tus 7 chakras y vibrar alto 💫
+
+      Música en vivo para experimentar un viaje sonoro meditativo al interior de tu alma.
 
       [[::brand:instagram:: @tantriclovemusic]](https://www.instagram.com/tantriclovemusic)
       [[::brand:instagram:: @sanarteconciencia]](https://www.instagram.com/sanarteconciencia)
@@ -389,7 +432,7 @@ artistas:
     sub: Marina Somatics
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/marina-gil.jpg
     md: |
-      Experiencia guiada de 20 minutos para elevar la energía grupal a través del sonido AUM, la voz, el ritmo y la respiración, preparando cuerpo y mente para la noche.
+      Abrimos el espacio a la danza. Experiencia guiada donde elevaremos la energía grupal a través de la meditación sonora de AUM, conectaremos el canal central energético del cuerpo al ritmo, la voz, la vibración interna y la respiración. Preparamos el cuerpo y la mente para el despegue en esta elevación y expansión de conciencia.
 
       [[::brand:instagram:: @marinasomatics]](https://www.instagram.com/marinasomatics)
   - id: artista-jade-beats
@@ -398,7 +441,11 @@ artistas:
     sub: Jade Beats
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/jade-beats.jpg
     md: |
-      Conexión con el pulso de la tierra a través de texturas orgánicas y electrónica. Olas de intensidad, descensos contemplativos, expansión y sensorialidad.
+      Artista multidisciplinar y Dj.
+
+      En sus sesiones busca conectar con el pulso de la tierra a través de texturas sonoras orgánicas y la electrónica.
+
+      En cada sesión nos invita a redescubrir nuestras emociones y sensorialidad. Olas de intensidad, descensos contemplativos, expansión, incertidumbre, des(conexión).
 
       [[::brand:instagram:: @jade.beats_]](https://www.instagram.com/jade.beats_)
   - id: artista-sergio-arpe-panda-sound
@@ -407,7 +454,7 @@ artistas:
     sub: Arpe Panda Sound
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/sergio-arpe-panda-sound.jpg
     md: |
-      Constructor, selector y operador del colectivo de Reggae y Sound System *Panda Soundsystem*. Sesiones desde el roots hasta el stepper más moderno con dubplates conscientes.
+      Constructor, selector y operador del colectivo de Sound system de reggae Panda Soundsystem 🐼, colectivo Zaragozano nacido con el objetivo de promover la música Jamaicana y sus derivados, con sesiones que van desde el roots hasta el estepper más moderno, cargadas de dubplates que te hacen vibrar de manera consciente.
 
       [[::brand:instagram:: @arpe_psound]](https://www.instagram.com/arpe_psound)
   - id: artista-inoe-psyntuario
@@ -416,7 +463,11 @@ artistas:
     sub: Psyntuario
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/inoe-psyntuario.jpg
     md: |
-      Facilitador y DJ. Entrelaza pulsos rítmicos enraizados con texturas atmosféricas envolventes, concibiendo la música como un santuario sagrado y ritual vivo.
+      Facilitador y DJ con una trayectoria profundamente vinculada a la exploración de los estados expandidos de conciencia.
+
+      Bajo el proyecto Psyntuario, concibe la música como un espacio de ceremonia y santuario sagrado. Su propuesta utiliza el sonido como guía vehicular y ritual vivo para sostener experiencias profundas, acompañar procesos internos y conectar con la belleza de la vida.
+
+      Su selección entrelaza el enraizamiento de los pulsos rítmicos con texturas atmosféricas envolventes y elementos melódicos. Así, teje paisajes que equilibran la energía expansiva y emocional del baile y la contención del recogimiento en un refugio íntimo y seguro.
 
       [[::brand:instagram:: @inoefs]](https://www.instagram.com/inoefs)
   - id: artista-xemi-pluma-roja
@@ -425,7 +476,9 @@ artistas:
     sub: Pluma Roja
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/xemi-pluma-roja.jpg
     md: |
-      Proyecto musical guiado por Xemi. Inspirado en el movimiento libre y la experiencia directa, combinando paisajes sonoros para transitar desde la calma hasta la expansión.
+      Proyecto de exploración a través de la música y la experiencia directa. Sus sesiones están inspiradas en el movimiento libre y en el viaje emocional, combinando diferentes paisajes sonoros para acompañar a las personas desde la calma hasta la expansión.
+
+      Cada sesión busca crear un espacio seguro donde dejar de interpretar un personaje y permitirse sentir, expresar y habitar el momento presente.
 
       [[::brand:instagram:: @plumaroja_experience]](https://www.instagram.com/plumaroja_experience)
 
@@ -439,14 +492,20 @@ invitados:
     sub: Cuidado y reducción de riesgos
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/espacio-psycare-colectivo-la-nave.jpg
     md: |
-      Colectivo de militancia psicodélica que crea espacios de cuidado y acompañamiento en contextos festivos y comunitarios, situando los cuidados en el centro y promoviendo el uso responsable.
+      Colectivo de militancia psicodélica que crea espacios de cuidado y acompañamiento psicodélico en fiestas, festivales, raves y otros contextos que sitúan los cuidados en el centro y promueven un uso responsable de las sustancias.
   - id: invitado-babayaga-ferments
     url: '#invitado-babayaga-ferments'
     title: BabaYaga Ferments
     sub: Bebidas fermentadas artesanales NoLo
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/babayaga-ferments.jpg
     md: |
-      Obrador artesanal ubicado en Jérica (Castellón) creado por Artur, tecnólogo alimentario. Elaboración de bebidas NoLo (sin alcohol / baja graduación) con ingredientes ecológicos y locales.
+      Artur es el creador de BabaYaga Ferments. Tras formarse como tecnólogo alimentario y descubrir el fascinante mundo de la fermentación, cumplió el sueño de crear su propio obrador artesanal de bebidas fermentadas.
+
+      Desde BabaYaga Ferments se dedican a la innovación y al desarrollo de bebidas NoLo (sin alcohol o de baja graduación alcohólica), elaboradas con ingredientes ecológicos, locales y de temporada, apoyando a productores cercanos y tejiendo una red de colaboración en el territorio.
+
+      Buscan crear bebidas con personalidad propia, donde cada ingrediente aporte aroma, carácter y complejidad, jugando con el equilibrio entre sus elementos para dar lugar a combinaciones sorprendentes y únicas.
+
+      Su obrador está ubicado en Jérica, un pequeño pueblo del interior de Castellón. Desde el entorno rural afrontan los retos propios de este contexto, demostrando que la innovación, la creatividad y los proyectos con identidad propia también nacen y crecen lejos de los grandes núcleos urbanos.
 
       [[::brand:instagram:: @babayagaferments]](https://www.instagram.com/babayagaferments)
   - id: invitado-pau
@@ -455,7 +514,9 @@ invitados:
     sub: Música medicina & Sanación sonora
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/pau.jpg
     md: |
-      Lleva más de 10 años haciendo música (rock, reggae, rumba y música medicina). Para él, la música y el baile sanan, ofreciendo su propuesta para sanar juntxs desde la buena vibra.
+      Lleva más de 10 años haciendo música. Empezó como rockero y, con el tiempo, fue transitando por otros estilos como el reggae, la rumba y la música medicina.
+
+      Para él, la música es medicina. Independientemente del estilo, cree que la música y el baile sanan, y eso es lo que quiere ofrecer: música, baile y buena vibra para sanar juntxs.
 
       [[::brand:instagram:: @pauvizcarro]](https://www.instagram.com/pauvizcarro)
   - id: invitado-paula
@@ -464,7 +525,7 @@ invitados:
     sub: Filmmaker
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/paula.jpg
     md: |
-      Filmmaker apasionada por brindar altavoz a proyectos con alma, utilizando la cámara como herramienta de transformación y creación visual.
+      Pauli es Filmmaker. Su pasión es brindarle altavoz a los proyectos con alma. Utilizar la cámara como herramienta de transformación.
 
       [[::brand:instagram:: @tripitufa]](https://www.instagram.com/tripitufa)
 
@@ -473,25 +534,32 @@ espacio:
   title: El Corazón del Encuentro
   sub: Entorno natural, cuidados y espacio comunitario
   boxes:
-  - id: el-espacio-y-la-red
-    url: '#el-espacio-y-la-red'
-    title: El Espacio y la Red
+  - id: el-entorno
+    url: '#el-entorno'
+    title: El entorno
     icon: forest
     md: |
-      El entorno forma parte de la experiencia:
-      - ::forest:: **Bosque y zonas naturales:** Amplias áreas verdes.
-      - ::cottage:: **Salas:** Espacios para conferencias y talleres.
-      - ::camping:: **Acampada y Campers:** Zona habilitada para tiendas y furgonetas.
-      - ::bed:: **Habitaciones compartidas:** Plazas limitadas.
-      - ::restaurant:: **Cocina compartida:** Zona para preparar alimentos y comedores.
+      El entorno forma parte de la experiencia.
+
+      El espacio dispone de:
+      - ::forest:: **Bosque y amplias zonas naturales.**
+      - ::cottage:: **Espacios para conferencias y talleres.**
+      - ::camping:: **Zona de acampada.**
+      - ::camping:: **Espacio para furgonetas y campers.**
+      - ::bed:: **Habitaciones compartidas (plazas limitadas).**
+      - ::shower:: **Duchas, baños y puntos de agua.**
+      - ::restaurant:: **Zona de cocina compartida.**
+      - ::groups:: **Espacios comunes para descansar, conversar y compartir.**
   - id: nutrir-la-red
     url: '#nutrir-la-red'
     title: Nutrir la Red
     icon: nutrition
     md: |
-      Las comidas también forman parte del viaje. Puedes elegir entre:
-      - ::radio_button_checked:: **Cocina compartida:** Traer tu propia comida y hacer uso de las cocinas habilitadas.
-      - ::radio_button_checked:: **Menú vegetariano opcional:** Incluye todas las comidas del encuentro (viernes cena a domingo comida).
+      Las comidas también forman parte del viaje.
+
+      Durante las jornadas podrás elegir entre:
+      - ::radio_button_checked:: **Traer tu propia comida** y utilizar las cocinas compartidas habilitadas durante el encuentro.
+      - ::radio_button_checked:: **Reservar un menú vegetariano** a través del formulario (precio no incluido en las entradas).
       
       ### Menú
 
@@ -529,22 +597,68 @@ espacio:
     title: Mercado Vivo
     icon: storefront
     md: |
-      Espacio dedicado a artesanos, artistas y pequeñas iniciativas independientes (arte, botánica, artesanía y proyectos). Si deseas exponer tu proyecto, indícalo en el formulario de inscripción.
+      "Modelamos la arcilla para hacer una vasija, pero es el vacío de su interior lo que la hace útil."
+      {.h4}
+
+      — @@Laozi, *Tao Te Ching*@@
+
+      Mercado Vivo es un espacio dedicado a artesanos, artistas, pequeñas iniciativas y proyectos.
+
+      Encontrarás:
+      - ::palette:: **Arte e ilustración.**
+      - ::texture:: **Artesanía.**
+      - ::local_florist:: **Productos botánicos y naturales.**
+      - ::local_cafe:: **Elaboraciones artesanales.**
+      - ::auto_awesome:: **Proyectos independientes.**
+
+      Si sientes el deseo de compartir tus dones, tu artesanía o un proyecto que forme parte de tu camino, encontrarás un espacio donde inscribirte en el formulario.
   - id: el-jardin-de-la-conciencia
     url: '#el-jardin-de-la-conciencia'
     title: El Jardín de la Conciencia
     icon: self_improvement
     md: |
-      Espacio libre comunitario donde profesionales y terapeutas comparten masajes, terapias corporales, tarot, astrología, prácticas contemplativas y acompañamiento personal.
+      "El privilegio de toda una vida es llegar a ser quien realmente eres."
+      {.h4}
+
+      — @@Carl G. Jung@@
+
+      Ningún jardín florece de una sola manera.
+
+      El Jardín de la Conciencia es un espacio comunitario donde personas, terapeutas, profesionales y proyectos comparten sus dones para acompañar procesos de cuidado, bienestar y autoconocimiento.
+
+      Encontrarás:
+      - ::self_improvement:: **Masajes y terapias corporales.**
+      - ::medical_services:: **Profesionales de la salud.**
+      - ::auto_awesome:: **Astrología y otras herramientas de exploración simbólica.**
+      - ::style:: **Tarot.**
+      - ::spa:: **Terapias complementarias.**
+      - ::volunteer_activism:: **Acompañamiento personal.**
+      - ::self_improvement:: **Prácticas contemplativas y de desarrollo personal.**
+      - ::more_horiz:: **Y otras propuestas que seguirán floreciendo.**
   - id: cuidando-el-viaje
     url: '#cuidando-el-viaje'
     title: Cuidando el Viaje
     icon: volunteer_activism
     md: |
-      - **Sin sustancias:** Durante las jornadas no se proporcionarán ni facilitarán sustancias psicoactivas.
-      - **Participación libre:** Todas las actividades son voluntarias.
-      - **Mascotas:** Recomendamos dejar a los compañeros perrunos en casa; si asisten, deben estar bajo responsabilidad y no acceder a talleres ni comedores.
-      - **Compromiso:** Inscripción sin pago previo (pago en efectivo a la llegada). Si no puedes asistir, avísanos con antelación para liberar la plaza.
+      Psico Mycelium es un espacio de encuentro, aprendizaje y comunidad. Te invitamos a tener presentes estos pequeños cuidados:
+
+      - ::🍄:: **Durante las jornadas no se proporcionarán ni facilitarán sustancias psicoactivas.** Cada persona es responsable de su propio proceso y de las decisiones que tome.
+      - ::photo_camera:: **Queremos guardar un recuerdo de este encuentro.** Durante las jornadas realizaremos fotografías y vídeos. Si prefieres no aparecer en ellos, solo tienes que indicárnoslo en el formulario de inscripción.
+      - ::local_florist:: **No hay una única forma de vivir la experiencia.** Todas las actividades son voluntarias. Escucha tu cuerpo y participa desde el lugar que necesites.
+      - ::volunteer_activism:: **Si necesitas algún tipo de adaptación**, ya sea por motivos físicos, psicológicos, médicos o de accesibilidad, cuéntanoslo durante la inscripción o al llegar.
+      - ::pets:: **También cuidamos a quienes caminan sobre cuatro patas.** Siempre que sea posible, os invitamos a dejar a vuestros compañeros perrunos en casa. Si finalmente os acompañan, deberán permanecer bajo vuestra responsabilidad y no podrán acceder a los espacios de talleres ni a las zonas comunes durante las comidas.
+
+      ### Habitar el encuentro
+
+      Os invitamos a compartir este encuentro desde unos principios sencillos:
+
+      - ::local_florist:: **Respeto**, hacia uno mismo, los demás, el entorno y las diferentes formas de comprender la experiencia.
+      - ::diversity_2:: **Diversidad**, acogiendo cada historia, cada recorrido, cada cultura y cada mirada con curiosidad y apertura. Este es un espacio libre de cualquier tipo de violencia.
+      - ::diversity_1:: **Bienestar colectivo**, entendiendo que cada una de nuestras acciones contribuye al clima que creamos entre todos, todas y todes.
+
+      Como el micelio sostiene silenciosamente la vida del bosque, cada gesto de cuidado fortalece la comunidad que estamos creando.
+
+      Gracias por formar parte de ella y por ayudarnos a cuidar este encuentro y a tejer, entre todas las personas, un espacio de respeto, presencia y comunidad.
   - id: compromiso-reserva
     url: '#compromiso-reserva'
     title: Compromiso con la reserva
@@ -561,24 +675,27 @@ inscripcion:
   title: Inscripción a las Jornadas
   sub: Reserva tu plaza para las Jornadas Psico Mycelium 2026
   md: |
-    Selecciona la modalidad de entrada que mejor se adapte a ti y completa el formulario. **La aportación se realiza en efectivo a la llegada**, pero la reserva previa es imprescindible para asegurar tu plaza y la correcta organización del encuentro.
+    La inscripción a las jornadas no requiere ningún pago previo. La aportación se realizará en efectivo a la llegada.
+
+    Por ello, te pedimos que, si finalmente no puedes asistir después de haber reservado tu plaza, nos lo comuniques con la mayor antelación posible. De esta forma podremos ofrecer tu lugar a otra persona que desee participar y facilitar una mejor organización del encuentro.
   label: Formulario de Inscripción
   boxes:
   - title: Entrada General
     icon: local_activity
     price: 60 €
     md: |
-      - ::check:: **Acceso completo:** A todas las actividades, ponencias, talleres y conciertos durante los 3 días.
-      - ::check:: **Pernocta incluida:** Acceso y estancia en la zona de acampada o furgoneta/camper.
-      - ::close:: *No incluye habitación ni menú vegetariano.*
+      - ::check:: Acceso a todas las actividades durante los tres días.
+      - ::check:: Acceso y pernocta en la zona de camping y caravanas.
+      - ::close:: *No incluye alojamiento en habitación ni comidas.*
       {.compare}
   - title: Entrada + Alojamiento
     icon: cottage
     price: 100 €
     md: |
-      - ::check:: **Acceso completo:** A todas las actividades durante los 3 días.
-      - ::check:: **Alojamiento:** 2 noches en habitación compartida (plazas limitadas a 20 personas por orden de inscripción).
-      - ::close:: *No incluye menú vegetariano.*
+      - ::check:: Acceso a todas las actividades durante los tres días.
+      - ::check:: Dos noches de alojamiento en habitación compartida.
+      - ::close:: *No incluye alojamiento en habitación ni comidas.*
+      - ::warning:: Las plazas son limitadas y se asignan por orden de inscripción.
       {.compare}
   - title: Menú vegetariano
     icon: nutrition
@@ -647,82 +764,101 @@ formulario:
       key: Alojamiento 100
   - type: check
     name: Menú Vegetariano
-    label: Deseo reservar el Menú Vegetariano completo (40 € opcional)
+    label: Menú vegetariano (opcional) · 40 €
     full: true
 
 
   - type: h4
-    label: 3\. Reserva Preferente de Talleres
+    label: 3\. Reserva de Talleres
   - type: md
     md: |
-      Para garantizar un aforo equilibrado en las salas, selecciona el taller de tu preferencia para cada bloque:
+      Selecciona un taller para cada bloque:
     full: true
   - type: select
     name: Taller_Sabado_Manana
-    label: Ponencias Sábado Mañana (12:30h)
+    label: Sábado Mañana
     icon: clock_loader_20
     req: true
     full: true
     items:
-    - label: Metanoia — Arosa J.Q.
+    - label: "Metanoia: Psicodélicos y más allá — Arosa J.Q."
       key: Metanoia
     - label: La Ciencia Tradicional del Amazonas — Tote Escobedo
       key: Amazonas
-    - label: LSD y la búsqueda de Dios — Leon
+    - label: "LSD: la búsqueda De Dios — Leon"
       key: LSD
 
   - type: select
     name: Taller_Sabado_Tarde
-    label: Talleres Vivenciales Sábado Tarde (16:30h)
+    label: Sábado Tarde
     icon: clock_loader_60
     req: true
     full: true
     items:
     - label: En cuerpo y alma — Aina
       key: En_cuerpo_y_alma
-    - label: Viaje Somático Breathwork (SOMA Breath) — Marina Gil
+    - label: "Viaje Somático Breathwork: SOMA Breath — Marina Gil"
       key: Soma_Breath
-    - label: "Jurema: preparación del extracto — Oscar"
+    - label: "Jurema: preparación del extracto y reflexión sobre la medicina — Oscar"
       key: Jurema
 
   - type: select
     name: Taller_Domingo_Manana
-    label: Talleres de Integración Domingo Mañana (11:30h)
+    label: Domingo Mañana
     icon: clock_loader_10
     req: true
     full: true
     items:
-    - label: Del Viaje a la Vida (Integración Somática) — Eric Haas y Chiara Vitali
+    - label: "Del Viaje a la Vida: Integración Somática de Estados Expandidos de Conciencia — Eric Haas y Chiara Vitali"
       key: Del_Viaje_a_la_Vida
-    - label: Escribiendo desde el otro lado (Escritura Expresiva) — Javier Aymat
+    - label: "Escribiendo desde el otro lado: La escritura como brújula y aterrizaje — Javier Aymat"
       key: Escritura_Expresiva
-    - label: "Bajar la montaña: la orientación como parte del viaje — Mario Navarro"
+    - label: "Bajar la montaña — la integración como parte del viaje — Mario Navarro"
       key: Bajar_la_montana
 
   - type: h4
     label: 4\. Mercado Vivo
   - type: check
     name: Mercado Vivo Participar
-    label: Quiero participar en el Mercado Vivo con mi proyecto artesanal/artístico
+    label: Quiero participar en el Mercado Vivo con mi proyecto o artesanía
     full: true
   - type: text
     name: Mercado_Vivo_Nombre_Proyecto
-    label: Nombre de tu proyecto / artesanía
+    label: Nombre del proyecto
     icon: storefront
     req: false
     show_if: Mercado Vivo Participar
+    req_if: Mercado Vivo Participar
   - type: area
     name: Mercado_Vivo_Descripcion
-    label: Breve descripción de los productos o arte que expondrás
+    label: Breve descripción
     icon: box
     req: false
+    show_if: Mercado Vivo Participar
+    req_if: Mercado Vivo Participar
+  - type: text
+    name: Mercado_Vivo_Redes_Sociales
+    label: Redes Sociales
+    icon: chat_bubble
+    req: false
+    show_if: Mercado Vivo Participar
+  - type: text
+    name: Mercado_Vivo_Pagina_Web
+    label: Página Web
+    icon: web_traffic
+    req: false
+    show_if: Mercado Vivo Participar
+  - type: md
+    md: |
+      Cada participante deberá traer su propia mesa y todo el material necesario para montar su espacio.
+    full: true
     show_if: Mercado Vivo Participar
 
   - type: h4
     label: 5\. Necesidades
   - type: area
     name: Necesidades_Alergias_Observaciones
-    label: Alergias, intolerancias, accesibilidad u observaciones
+    label: Alergias, intolerancias, necesidades de movilidad o accesibilidad y observaciones
     icon: medical_services
     req: false
 
@@ -733,7 +869,22 @@ formulario:
     label: Acepto ser añadid@ al grupo de WhatsApp del encuentro con el fin de recibir información relacionada con la organización, horarios, comunicaciones importantes y UBICACION de las Jornadas. Podré abandonar el grupo en cualquier momento. (RECOMENDABLE)
     full: true
 
+  - type: h4
+    label: 7\. Aceptación de condiciones
+  - type: check
+    name: Aceptación de condiciones
+    label: Acepto las condiciones de participación y la información sobre cuidados, imágenes, accesibilidad y convivencia de las Jornadas.
+    full: true
+    req: true
+  - type: check
+    name: Aportación y Asistencia
+    label: Entiendo que la aportación se abonará en efectivo a la llegada y me comprometo a avisar si no puedo asistir.
+    full: true
+    req: true
+
 final: |
+  *Psico Mycelium · Ciencia · Psicología · Naturaleza · Comunidad*
+
   **Pedir información directa:**
 
   [[::brand:whatsapp-o:: WhatsApp]](https://wa.me/34699190009?text=Hola%2C%20me%20gustar%C3%ADa%20pedir%20informaci%C3%B3n%20sobre%20las%20Jornadas%20Psico%20Mycelium. "[whatsapp nofollow]")
