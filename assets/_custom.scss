@@ -172,7 +172,8 @@ $bg-alt: true;
   @media (min-width: variables.$viewport-xl + 1) {
     font-size: 1.8em;
     position: absolute;
-    bottom: -55%;
+    bottom: 0%;
+    // bottom: -55%;
     right: -10%;
   }
 }

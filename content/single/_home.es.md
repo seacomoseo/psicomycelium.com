@@ -11,7 +11,7 @@ tpl:
     logo: false
   sections:
   - file: _home-_hero
-  # - file: _home-exploracion
+  - file: _home-exploracion
   # - file: _home-espacios
   # - file: _home-modalidades
   # - file: _home-sobre
