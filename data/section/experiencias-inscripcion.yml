@@ -32,7 +32,7 @@ boxes:
     mail: lorensansol@gmail.com # info@psicomycelium.com
     subject: Nueva inscripción · {{ get title }} · {{ year }}
     label: Confirmar Inscripción
-    action: https://script.google.com/macros/s/AKfycbyqE_VW7p-EVpAWmxMzCqRnMxn66I_VspmPd07lTARXhFiIhnlAZGpywykv59gy5MREqQ/exec
+    # action: https://script.google.com/macros/s/AKfycbygyCHoOiNq5oklSkqDbgGVcBoNoGZGhyYfgj4nwJc9ynu4I1tC9HJCtioFG3oSUAbN/exec
 # - url: '#formulario'
 #   label: Formulario de Inscripción
 

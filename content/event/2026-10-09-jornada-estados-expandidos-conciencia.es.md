@@ -62,7 +62,7 @@ que_son:
 
 mapa_viaje:
   title: El Mapa del Viaje
-  sub: Un viaje siguiendo el ritmo de la vida (Wu Xing)
+  sub: Un viaje siguiendo el ritmo de la vida
   md: |
     Toda transformación necesita su tiempo.
 
