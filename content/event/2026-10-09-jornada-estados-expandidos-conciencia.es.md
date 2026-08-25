@@ -181,7 +181,7 @@ organizacion:
     url: '#organizacion-xemi'
     title: Xemi
     sub: Facilitador de experiencias inmersivas
-    img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/xemi-pluma-roja.jpg
+    img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/xemi.jpg
     md: |
       Facilitador de experiencias que crean espacios de encuentro desde la autenticidad. A través de la música, la naturaleza y las experiencias compartidas, acompaña procesos que fomentan la presencia, la creatividad y la conexión humana.
 
@@ -431,7 +431,7 @@ artistas:
 
 invitados:
   title: Invitados Mágicos
-  sub: Red de cuidados, fermentos, arte y proyectos afines
+  sub: Personas y Proyectos que forman parte del Micelio
   boxes:
   - id: invitado-espacio-psycare-colectivo-la-nave
     url: '#invitado-espacio-psycare-colectivo-la-nave'
@@ -574,7 +574,7 @@ inscripcion:
       {.compare}
   - title: Entrada + Alojamiento
     icon: cottage
-    price: 90 €
+    price: 100 €
     md: |
       - ::check:: **Acceso completo:** A todas las actividades durante los 3 días.
       - ::check:: **Alojamiento:** 2 noches en habitación compartida (plazas limitadas a 20 personas por orden de inscripción).
@@ -643,12 +643,11 @@ formulario:
       key: General 60 Acampada
     - label: Entrada General (60 €) — En furgoneta / camper propia
       key: General 60 Camper
-    - label: Entrada + Alojamiento (90 €) — En habitación · Plazas limitadas
-      key: Alojamiento 90
+    - label: Entrada + Alojamiento (100 €) — En habitación · Plazas limitadas
+      key: Alojamiento 100
   - type: check
     name: Menú Vegetariano
     label: Deseo reservar el Menú Vegetariano completo (40 € opcional)
-    req: false
     full: true
 
 
@@ -705,7 +704,6 @@ formulario:
   - type: check
     name: Mercado Vivo Participar
     label: Quiero participar en el Mercado Vivo con mi proyecto artesanal/artístico
-    req: true
     full: true
   - type: text
     name: Mercado_Vivo_Nombre_Proyecto
