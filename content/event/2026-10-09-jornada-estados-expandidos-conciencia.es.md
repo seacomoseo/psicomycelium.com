@@ -775,7 +775,7 @@ formulario:
       Selecciona un taller para cada bloque:
     full: true
   - type: select
-    name: Taller_Sabado_Manana
+    name: Taller Sábado Mañana
     label: Sábado Mañana
     icon: clock_loader_20
     req: true
@@ -789,32 +789,32 @@ formulario:
       key: LSD
 
   - type: select
-    name: Taller_Sabado_Tarde
+    name: Taller Sábado Tarde
     label: Sábado Tarde
     icon: clock_loader_60
     req: true
     full: true
     items:
     - label: En cuerpo y alma — Aina
-      key: En_cuerpo_y_alma
+      key: En cuerpo y alma
     - label: "Viaje Somático Breathwork: SOMA Breath — Marina Gil"
-      key: Soma_Breath
+      key: Soma Breath
     - label: "Jurema: preparación del extracto y reflexión sobre la medicina — Oscar"
       key: Jurema
 
   - type: select
-    name: Taller_Domingo_Manana
+    name: Taller Domingo Mañana
     label: Domingo Mañana
     icon: clock_loader_10
     req: true
     full: true
     items:
     - label: "Del Viaje a la Vida: Integración Somática de Estados Expandidos de Conciencia — Eric Haas y Chiara Vitali"
-      key: Del_Viaje_a_la_Vida
+      key: Del Viaje a la Vida
     - label: "Escribiendo desde el otro lado: La escritura como brújula y aterrizaje — Javier Aymat"
-      key: Escritura_Expresiva
+      key: Escritura Expresiva
     - label: "Bajar la montaña — la integración como parte del viaje — Mario Navarro"
-      key: Bajar_la_montana
+      key: Bajar la montaña
 
   - type: h4
     label: 4\. Mercado Vivo
@@ -823,27 +823,27 @@ formulario:
     label: Quiero participar en el Mercado Vivo con mi proyecto o artesanía
     full: true
   - type: text
-    name: Mercado_Vivo_Nombre_Proyecto
+    name: Mercado Vivo Nombre Proyecto
     label: Nombre del proyecto
     icon: storefront
     req: false
     show_if: Mercado Vivo Participar
     req_if: Mercado Vivo Participar
   - type: area
-    name: Mercado_Vivo_Descripcion
+    name: Mercado Vivo Descripción
     label: Breve descripción
     icon: box
     req: false
     show_if: Mercado Vivo Participar
     req_if: Mercado Vivo Participar
   - type: text
-    name: Mercado_Vivo_Redes_Sociales
+    name: Mercado Vivo Redes Sociales
     label: Redes Sociales
     icon: chat_bubble
     req: false
     show_if: Mercado Vivo Participar
   - type: text
-    name: Mercado_Vivo_Pagina_Web
+    name: Mercado Vivo Web
     label: Página Web
     icon: web_traffic
     req: false
@@ -857,7 +857,7 @@ formulario:
   - type: h4
     label: 5\. Necesidades
   - type: area
-    name: Necesidades_Alergias_Observaciones
+    name: Necesidades Observaciones
     label: Alergias, intolerancias, necesidades de movilidad o accesibilidad y observaciones
     icon: medical_services
     req: false
