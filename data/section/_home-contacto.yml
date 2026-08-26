@@ -17,6 +17,8 @@ boxes:
     alpha: .5
     fit: 1.2
     pd_vs: 1.5
+    form:
+      action: https://script.google.com/macros/s/AKfycbwdnwLr0ga7SuqUe1pyqVjNz25PseYxJt5bUJOTf8bBzdoCCyPGU42cvAXFVrJoCI9oPw/exec
     inputs:
     - type: text
       name: Nombre

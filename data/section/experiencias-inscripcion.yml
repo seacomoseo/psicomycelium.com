@@ -32,7 +32,7 @@ boxes:
     mail: info@psicomycelium.com
     subject: Nueva inscripción · {{ get title }} · {{ year }}
     label: Confirmar Inscripción
-    # action: https://script.google.com/macros/s/AKfycbygyCHoOiNq5oklSkqDbgGVcBoNoGZGhyYfgj4nwJc9ynu4I1tC9HJCtioFG3oSUAbN/exec
+    action: https://script.google.com/macros/s/AKfycbwdnwLr0ga7SuqUe1pyqVjNz25PseYxJt5bUJOTf8bBzdoCCyPGU42cvAXFVrJoCI9oPw/exec
 # - url: '#formulario'
 #   label: Formulario de Inscripción
 
