@@ -57,7 +57,7 @@ que_son:
 
     Ciencia, psicología, arte, experiencia psiconáutica, sabidurías ancestrales y proyectos afines se encuentran para compartir conocimientos, investigaciones, experiencias y prácticas desde una perspectiva ética, interdisciplinar y comunitaria.
 
-    Inspiradas en el **micelio** “la red viva que conecta y sostiene diferentes formas de vida” estas jornadas ponen en el centro el valor de la comunidad. Creemos en los espacios donde las conexiones continúan creciendo más allá del encuentro y donde el intercambio entre personas fortalece una red viva de aprendizaje, cuidado y colaboración.
+    Inspiradas en el micelio, la red viva que conecta y sostiene diferentes formas de vida, estas jornadas ponen en el centro el valor de la comunidad. Creemos en los espacios donde las conexiones continúan creciendo más allá del encuentro y donde el intercambio entre personas fortalece una red viva de aprendizaje, cuidado y colaboración.
 
 
 mapa_viaje:
@@ -164,8 +164,8 @@ mapa_viaje:
         - ::radio_button_unchecked::  **Escribiendo desde el otro lado: La escritura como brújula y aterrizaje** (Javier Aymat)
         - ::radio_button_unchecked::  **Bajar la montaña — la integración como parte del viaje** (Mario Navarro)
       - ::radio_button_checked:: **14:30** · Comida
-      - ::radio_button_checked:: **16:00** · **Jardín de la Conciencia:** Espacio libre de terapias, acompañamientos, masajes, prácticas corporales, tarot, astrología y otras propuestas ofrecidas por la comunidad
       - ::radio_button_checked:: **18:00** · **Celebración de cierre**
+      <!-- - ::radio_button_checked:: **16:00** · **Jardín de la Conciencia:** Espacio libre de terapias, acompañamientos, masajes, prácticas corporales, tarot, astrología y otras propuestas ofrecidas por la comunidad -->
 
 
 organizacion:
@@ -604,36 +604,37 @@ espacio:
       Mercado Vivo es un espacio dedicado a artesanos, artistas, pequeñas iniciativas y proyectos.
 
       Encontrarás:
-      - ::palette:: **Arte e ilustración.**
-      - ::texture:: **Artesanía.**
-      - ::local_florist:: **Productos botánicos y naturales.**
-      - ::local_cafe:: **Elaboraciones artesanales.**
-      - ::auto_awesome:: **Proyectos independientes.**
+      - ::palette:: **Arte e ilustración**.
+      - ::texture:: **Artesanía**.
+      - ::local_florist:: **Productos botánicos y naturales**.
+      - ::local_cafe:: **Elaboraciones artesanales**.
+      - ::auto_awesome:: **Proyectos independientes**.
+      - ::heart_smile:: **Terapias**.
 
       Si sientes el deseo de compartir tus dones, tu artesanía o un proyecto que forme parte de tu camino, encontrarás un espacio donde inscribirte en el formulario.
-  - id: el-jardin-de-la-conciencia
-    url: '#el-jardin-de-la-conciencia'
-    title: El Jardín de la Conciencia
-    icon: self_improvement
-    md: |
-      "El privilegio de toda una vida es llegar a ser quien realmente eres."
-      {.h4}
+  # - id: el-jardin-de-la-conciencia
+  #   url: '#el-jardin-de-la-conciencia'
+  #   title: El Jardín de la Conciencia
+  #   icon: self_improvement
+  #   md: |
+  #     "El privilegio de toda una vida es llegar a ser quien realmente eres."
+  #     {.h4}
 
-      — @@Carl G. Jung@@
+  #     — @@Carl G. Jung@@
 
-      Ningún jardín florece de una sola manera.
+  #     Ningún jardín florece de una sola manera.
 
-      El Jardín de la Conciencia es un espacio comunitario donde personas, terapeutas, profesionales y proyectos comparten sus dones para acompañar procesos de cuidado, bienestar y autoconocimiento.
+  #     El Jardín de la Conciencia es un espacio comunitario donde personas, terapeutas, profesionales y proyectos comparten sus dones para acompañar procesos de cuidado, bienestar y autoconocimiento.
 
-      Encontrarás:
-      - ::self_improvement:: **Masajes y terapias corporales.**
-      - ::medical_services:: **Profesionales de la salud.**
-      - ::auto_awesome:: **Astrología y otras herramientas de exploración simbólica.**
-      - ::style:: **Tarot.**
-      - ::spa:: **Terapias complementarias.**
-      - ::volunteer_activism:: **Acompañamiento personal.**
-      - ::self_improvement:: **Prácticas contemplativas y de desarrollo personal.**
-      - ::more_horiz:: **Y otras propuestas que seguirán floreciendo.**
+  #     Encontrarás:
+  #     - ::self_improvement:: **Masajes y terapias corporales.**
+  #     - ::medical_services:: **Profesionales de la salud.**
+  #     - ::auto_awesome:: **Astrología y otras herramientas de exploración simbólica.**
+  #     - ::style:: **Tarot.**
+  #     - ::spa:: **Terapias complementarias.**
+  #     - ::volunteer_activism:: **Acompañamiento personal.**
+  #     - ::self_improvement:: **Prácticas contemplativas y de desarrollo personal.**
+  #     - ::more_horiz:: **Y otras propuestas que seguirán floreciendo.**
   - id: cuidando-el-viaje
     url: '#cuidando-el-viaje'
     title: Cuidando el Viaje
@@ -821,7 +822,7 @@ formulario:
     label: 4\. Mercado Vivo
   - type: check
     name: Mercado Vivo Participar
-    label: Quiero participar en el Mercado Vivo con mi proyecto o artesanía
+    label: Quiero participar en el Mercado Vivo con mi Proyecto, Artesanía o Terapia
     full: true
   - type: text
     name: Mercado Vivo Nombre Proyecto
