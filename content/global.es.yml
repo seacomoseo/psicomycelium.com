@@ -16,6 +16,7 @@ menu:
   #   btn: cta
   - label: Contacto
     url: '/#contacto'
+    btn: cta
 callnows:
 - type: whatsapp
   label: +34 603 20 55 78
@@ -28,7 +29,7 @@ footer:
   box:
     cols: 4
     gap_vs: 1.5
-    align: left
+    align_vl: left
   boxes:
   - md: |
       ![](/u/base/logo-h-mono.svg)

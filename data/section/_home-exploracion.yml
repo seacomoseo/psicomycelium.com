@@ -12,7 +12,7 @@ boxes:
   order: 2
 - sub: Primer encuentro
   title: ¿No sabes por dónde empezar?
-  align: left
+  align_vl: left
   md: |
     No siempre es fácil saber qué tipo de acompañamiento necesitamos.
 
@@ -20,8 +20,8 @@ boxes:
 
     Será también un espacio para resolver tus dudas, conocer las diferentes opciones de acompañamiento y ayudarte a dar el primer paso con mayor claridad.
 
-    - Duración: 30 minutos
-    - Precio: 25 €
+    - ::schedule:: **Duración:** *30 minutos*
+    - ::credit_card:: **Precio:** *25 €*
 
     [[Reservar sesión de exploración]](https://calendly.com/psicomycelium/30min)
     [[::brand:whatsapp-o:: Resolver mis dudas]](https://wa.me/34603205578?text=Hola%20Amanda%2C%20he%20visitado%20la%20web%20de%20Psico%20Mycelium%20y%20me%20gustar%C3%ADa%20orientaci%C3%B3n%20para%20saber%20por%20d%C3%B3nde%20empezar. "[whatsapp nofollow ga4]")

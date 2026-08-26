@@ -425,7 +425,6 @@ artistas:
       Música en vivo para experimentar un viaje sonoro meditativo al interior de tu alma.
 
       [[::brand:instagram:: @tantriclovemusic]](https://www.instagram.com/tantriclovemusic)
-      [[::brand:instagram:: @sanarteconciencia]](https://www.instagram.com/sanarteconciencia)
   - id: artista-marina-gil
     url: '#artista-marina-gil'
     title: Marina Gil
@@ -518,7 +517,7 @@ invitados:
 
       Para él, la música es medicina. Independientemente del estilo, cree que la música y el baile sanan, y eso es lo que quiere ofrecer: música, baile y buena vibra para sanar juntxs.
 
-      [[::brand:instagram:: @pauvizcarro]](https://www.instagram.com/pauvizcarro)
+      [[::brand:instagram:: @pauvizcarro_]](https://www.instagram.com/pauvizcarro_)
   - id: invitado-paula
     url: '#invitado-paula'
     title: Paula
@@ -690,11 +689,11 @@ inscripcion:
       {.compare}
   - title: Entrada + Alojamiento
     icon: cottage
-    price: 100 €
+    price: 90 €
     md: |
       - ::check:: Acceso a todas las actividades durante los tres días.
       - ::check:: Dos noches de alojamiento en habitación compartida.
-      - ::close:: *No incluye alojamiento en habitación ni comidas.*
+      - ::close:: *No incluye comidas.*
       - ::warning:: Las plazas son limitadas y se asignan por orden de inscripción.
       {.compare}
   - title: Menú vegetariano
@@ -760,8 +759,10 @@ formulario:
       key: General 60 Acampada
     - label: Entrada General (60 €) — En furgoneta / camper propia
       key: General 60 Camper
-    - label: Entrada + Alojamiento (100 €) — En habitación · Plazas limitadas
-      key: Alojamiento 100
+    - label: Entrada General (60 €) — No voy a pernoctar en el espacio
+      key: General 60 No Pernocta
+    - label: Entrada + Alojamiento (90 €) — En habitación · Plazas limitadas
+      key: Alojamiento 90
   - type: check
     name: Menú Vegetariano
     label: Menú vegetariano (opcional) · 40 €
@@ -858,7 +859,7 @@ formulario:
     label: 5\. Necesidades
   - type: area
     name: Necesidades Observaciones
-    label: Alergias, intolerancias, necesidades de movilidad o accesibilidad y observaciones
+    label: Necesidades de movilidad o accesibilidad y otras observaciones
     icon: medical_services
     req: false
 

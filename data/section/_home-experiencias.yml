@@ -10,7 +10,6 @@ boxes:
     [[Talleres y encuentros]](/categoria/talleres-encuentros/ "[alt sm]")
     [[Retiros]](/categoria/retiros/ "[alt sm]")
     [[Webinars]](/categoria/webinars/ "[alt sm]")
-  align: left
   list:
     type: event
     max: 12

@@ -4,7 +4,7 @@ boxes:
 - sub: Contacto
   title: Escribe a Psico Mycelium
   hs: .015
-  align: left
+  align_vl: left
   box:
     cols: 2.01
     gap_vs: 0
