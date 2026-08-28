@@ -192,28 +192,26 @@ organizacion:
       Facilitador de experiencias que crean espacios de encuentro desde la autenticidad. A través de la música, la naturaleza y las experiencias compartidas, acompaña procesos que fomentan la presencia, la creatividad y la conexión humana.
 
       [[::brand:instagram:: @plumaroja_experience]](https://www.instagram.com/plumaroja_experience)
-  - id: organizacion-fran-rivero
-    url: '#organizacion-fran-rivero'
-    title: Fran Rivero
-    sub: Psicólogo transpersonal e investigador
-    img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/fran-rivero.jpg
-    md: |
-      Psicólogo transpersonal e investigador. Explora la conciencia desde el diálogo entre la ciencia, los estados ampliados de conciencia y las tradiciones contemplativas. Su camino está profundamente inspirado por la medicina ancestral y psicodélica, así como por la filosofía taoísta, que cultiva a través del Tai Chi, el Kung Fu, el Chi Kung y la meditación.
 
-      [[::brand:instagram:: @la.botica.de.la.paka]](https://www.instagram.com/la.botica.de.la.paka)
-
-  - id: organizacion-amaya
-    url: '#organizacion-amaya'
-    title: Amaya
-    sub: Educadora y mediadora intercultural
-    img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/amaya.jpg
-    md: |
-      Psiconauta y azafata de viajes hacia la consciencia, en su vida integra el autoconocimiento junto con una educación alternativa y una comunicación intercultural que permita tender puentes de entendimiento y cuidado entre todas las personas de cualquier edad y cultura.
 
 voces:
   title: Las Voces del Encuentro
   sub: Ponencias, talleres y mesas redondas
   boxes:
+
+  - id: voz-fran-rivero
+    url: '#voz-fran-rivero'
+    title: Fran Rivero
+    sub: "<span>Taller</span> <br> Chi Kung: El camino del Psiconauta y Coordinador de la Mesa Redonda"
+    img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/fran-rivero.jpg
+    md: |
+      Los psicodélicos están transformando la forma en que entendemos la salud mental, la espiritualidad y la conciencia en occidente. Pero, ¿estamos preparados para ello? En una cultura que persigue el bienestar inmediato, consumir experiencias y tiende a evitar el dolor y el encuentro con la propia sombra, esta mesa invita a reflexionar sobre la integración, la preparación, la comunidad y los desafíos psicológicos, culturales y éticos que acompañan el renacimiento psicodélico.
+
+      **Sobre el facilitador:**
+
+      Psicólogo transpersonal e investigador. Explora la conciencia desde el diálogo entre la ciencia, los estados ampliados de conciencia y las tradiciones contemplativas. Su camino está profundamente inspirado por la medicina ancestral y psicodélica, así como por la filosofía taoísta, que cultiva a través del Tai Chi, el Kung Fu, el Chi Kung y la meditación.
+
+      [[::brand:instagram:: @la.botica.de.la.paka]](https://www.instagram.com/la.botica.de.la.paka)
 
   - id: voz-arosa
     url: '#voz-arosa'
@@ -295,7 +293,7 @@ voces:
 
       Ha trabajado como actriz y profesora de teatro y danza, y actualmente forma parte del equipo de producción de La Mecànica. Es co-creadora del Col·lectiu Ca Nostra, con la pieza *Fiança*, y continúa desarrollando su práctica en danza contemporánea.
 
-      [[::brand:instagram:: @aina_____mor]](https://www.instagram.com/aina_____mor)
+      [[::brand:instagram:: @aina_____mor.munar]](https://www.instagram.com/aina_____mor.munar)
 
   - id: voz-marina-gil
     url: '#voz-marina-gil'
@@ -527,6 +525,13 @@ invitados:
       Pauli es Filmmaker. Su pasión es brindarle altavoz a los proyectos con alma. Utilizar la cámara como herramienta de transformación.
 
       [[::brand:instagram:: @tripitufa]](https://www.instagram.com/tripitufa)
+  - id: invitado-amaya
+    url: '#invitado-amaya'
+    title: Amaya
+    sub: Facilitadora de las jornadas
+    img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/amaya.jpg
+    md: |
+      Psiconauta y azafata de viajes hacia la consciencia, en su vida integra el autoconocimiento junto con una educación alternativa y una comunicación intercultural que permita tender puentes de entendimiento y cuidado entre todas las personas de cualquier edad y cultura.
 
 
 espacio:
