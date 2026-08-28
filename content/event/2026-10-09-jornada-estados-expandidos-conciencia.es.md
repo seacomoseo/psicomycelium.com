@@ -205,6 +205,12 @@ voces:
     sub: "<span>Taller</span> <br> Chi Kung: El camino del Psiconauta y Coordinador de la Mesa Redonda"
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/fran-rivero.jpg
     md: |
+      **Chi-kung: El camino del psiconauta**
+
+      El camino del Tao busca encontrar el centro, el equilibrio de cualquiera de las transmutaciones que puede experimentar la conciencia. En cambio, a veces el camino del psiconauta busca lo contrario, llevar la conciencia al extremo, al desequilibrio. 
+
+      Este taller propone performar ambos mundos: a través del Chi-kung prepararemos el cuerpo para que el alma pueda habitarlo en los diferentes estados de conciencia por el que camina el psiconauta. Por mucho que rompamos la psique hasta el extremo, esta práctica nos ayuda a encontrar siempre el camino de vuelta al centro.
+
       **Mesa Redonda: Renacimiento psicodélico: ¿qué cultura estamos construyendo?**
 
       Los psicodélicos están transformando la forma en que entendemos la salud mental, la espiritualidad y la conciencia en occidente. Pero, ¿estamos preparados para ello? En una cultura que persigue el bienestar inmediato, consumir experiencias y tiende a evitar el dolor y el encuentro con la propia sombra, esta mesa invita a reflexionar sobre la integración, la preparación, la comunidad y los desafíos psicológicos, culturales y éticos que acompañan el renacimiento psicodélico.
@@ -687,26 +693,30 @@ inscripcion:
     Por ello, te pedimos que, si finalmente no puedes asistir después de haber reservado tu plaza, nos lo comuniques con la mayor antelación posible. De esta forma podremos ofrecer tu lugar a otra persona que desee participar y facilitar una mejor organización del encuentro.
   label: Formulario de Inscripción
   boxes:
-  - title: Entrada General
+  - title: Entrada <br> General
     icon: local_activity
     price: 60 €
     md: |
       - ::check:: Acceso a todas las actividades durante los tres días.
-      - ::check:: Acceso y pernocta en la zona de camping y caravanas.
-      - ::close:: *No incluye alojamiento en habitación ni comidas.*
+      - ::check:: Pernocta en zona de camping y caravanas.
+      - ::check:: Uso de cocinas compartidas.
+      - ::check:: Baños y duchas.
       {.compare}
-  - title: Entrada + Alojamiento
+
+  - title: Alojamiento en habitación compartida
     icon: cottage
-    price: 90 €
+    price: \+ 30 €
     md: |
-      - ::check:: Acceso a todas las actividades durante los tres días.
       - ::check:: Dos noches de alojamiento en habitación compartida.
-      - ::close:: *No incluye comidas.*
-      - ::warning:: Las plazas son limitadas y se asignan por orden de inscripción.
+      - ::warning:: Plazas de habitación limitadas y asignadas por orden de inscripción.
       {.compare}
-  - title: Menú vegetariano
+
+      (opcional)
+      {.sub}
+
+  - title: Menú <br> Vegetariano
     icon: nutrition
-    price: 40 €
+    price: \+ 40 €
     md: |
       Si seleccionas esta opción en el formulario se te enviará el contacto para realizar la reserva al finalizar inscripción.
 
@@ -757,23 +767,25 @@ formulario:
 
   - type: h4
     label: 2\. Entrada, Pernocta y Comida
+  - type: md
+    md: '**Entrada General:** *60 €*'
   - type: select
-    name: Modalidad de Entrada
-    icon: confirmation_number
+    name: Pernocta
+    icon: camping
     req: true
     full: true
     items:
-    - label: Entrada General (60 €) — En zona de acampada (tienda propia)
-      key: General 60 Acampada
-    - label: Entrada General (60 €) — En furgoneta / camper propia
-      key: General 60 Camper
-    - label: Entrada General (60 €) — No voy a pernoctar en el espacio
-      key: General 60 No Pernocta
-    - label: Entrada + Alojamiento (90 €) — En habitación · Plazas limitadas
-      key: Alojamiento 90
+    - label: En zona de acampada (tienda propia)
+      key: Acampada
+    - label: En furgoneta / camper propia
+      key: Camper
+    - label: No voy a pernoctar en el espacio
+      key: No Pernocta
+    - label: Alojamiento en habitación compartida (+ 30 €)
+      key: Alojamiento
   - type: check
     name: Menú Vegetariano
-    label: Menú vegetariano (opcional) · 40 €
+    label: Menú vegetariano (+ 40 €)
     full: true
 
 

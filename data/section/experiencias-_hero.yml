@@ -35,5 +35,8 @@ boxes:
 #   # - type: address
 #   - type: tax
 #     tax: all
+- url: '#more'
+  label: Ver más información
 - url: '#inscripcion'
   label: Reservar plaza
+  btn: light
