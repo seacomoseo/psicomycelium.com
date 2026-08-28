@@ -205,6 +205,8 @@ voces:
     sub: "<span>Taller</span> <br> Chi Kung: El camino del Psiconauta y Coordinador de la Mesa Redonda"
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/fran-rivero.jpg
     md: |
+      **Mesa Redonda: Renacimiento psicodélico: ¿qué cultura estamos construyendo?**
+
       Los psicodélicos están transformando la forma en que entendemos la salud mental, la espiritualidad y la conciencia en occidente. Pero, ¿estamos preparados para ello? En una cultura que persigue el bienestar inmediato, consumir experiencias y tiende a evitar el dolor y el encuentro con la propia sombra, esta mesa invita a reflexionar sobre la integración, la preparación, la comunidad y los desafíos psicológicos, culturales y éticos que acompañan el renacimiento psicodélico.
 
       **Sobre el facilitador:**
