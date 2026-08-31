@@ -301,7 +301,7 @@ voces:
 
       Ha trabajado como actriz y profesora de teatro y danza, y actualmente forma parte del equipo de producción de La Mecànica. Es co-creadora del Col·lectiu Ca Nostra, con la pieza *Fiança*, y continúa desarrollando su práctica en danza contemporánea.
 
-      [[::brand:instagram:: @aina_____mor.munar]](https://www.instagram.com/aina_____mor.munar)
+      [[::brand:instagram:: @aina_______mor.munar]](https://www.instagram.com/aina_______mor.munar)
 
   - id: voz-marina-gil
     url: '#voz-marina-gil'
