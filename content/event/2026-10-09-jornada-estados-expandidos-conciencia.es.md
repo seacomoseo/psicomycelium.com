@@ -391,7 +391,7 @@ voces:
 
       Acompaña procesos desde la Terapia Gestalt, la Escritura Expresiva —en formato individual, grupal, presencial y online— y el acompañamiento en estados expandidos de conciencia, integrando estas herramientas como caminos de transformación personal.
 
-      Es terapeuta Gestalt titulado por la Escuela Madrileña de Terapia Gestalt (EMTG) y cuenta con formación en Trastorno por Estrés Postraumático (TEPT) por violencia y abuso (Centro Terapéutico Landa), Círculos de Escritura Expresiva para profesionales (Marisé Barreiro) y Bioenergética (Carácter en el cuerpo, Centro Raíz Terapia). Además, es licenciado en Periodismo.
+      Hace acompañamientos desde la perspectiva Gestalt y es titulado por la Escuela Madrileña de Terapia Gestalt (EMTG) y cuenta con formación en Trastorno por Estrés Postraumático (TEPT) por violencia y abuso (Centro Terapéutico Landa), Círculos de Escritura Expresiva para profesionales (Marisé Barreiro) y Bioenergética (Carácter en el cuerpo, Centro Raíz Terapia). Además, es licenciado en Periodismo.
 
       [[::brand:instagram:: @javieraymat]](https://www.instagram.com/javieraymat)
 
@@ -900,6 +900,11 @@ formulario:
   - type: check
     name: Aportación y Asistencia
     label: Entiendo que la aportación se abonará en efectivo a la llegada y me comprometo a avisar si no puedo asistir.
+    full: true
+    req: true
+  - type: check
+    name: Enlace Grupo WhatsApp
+    label: Una vez realizada la inscripción, os llegará un enlace para acceder al grupo de las jornadas. Si tenéis algún problema o no recibís el enlace, escribidnos por privado y lo solucionamos.
     full: true
     req: true
 
