@@ -33,6 +33,23 @@ boxes:
     subject: Nueva inscripción · {{ get title }} · {{ year }}
     confirm:
       enabled: true
+      fields: false
+      intro: |
+        Bienvenid@ [Nombre],
+
+        🌿 ¡Nos alegra mucho darte la bienvenida a PsicoMycelium!
+
+        Tu inscripción está confirmada para las Jornadas sobre Estados Expandidos de Conciencia, que celebraremos los días 9, 10 y 11 de Octubre.
+
+        Muy pronto estarás dentro del grupo de WhatsApp donde iremos compartiendo toda la información práctica necesaria para que puedas preparar tu llegada: ubicación, horarios, programación, qué traer y todos los detalles importantes para disfrutar plenamente de la experiencia.
+
+        ✨ Gracias por formar parte de esta primera edición y por contribuir con tu presencia a cocrear este espacio.
+
+        Nos alegra mucho contar contigo.
+
+        Equipo PsicoMycelium 🌿\
+        Jornadas sobre Estados Expandidos de Conciencia
+      notice: ''
     label: Confirmar Inscripción
     action: https://script.google.com/macros/s/AKfycbwdnwLr0ga7SuqUe1pyqVjNz25PseYxJt5bUJOTf8bBzdoCCyPGU42cvAXFVrJoCI9oPw/exec
 # - url: '#formulario'
