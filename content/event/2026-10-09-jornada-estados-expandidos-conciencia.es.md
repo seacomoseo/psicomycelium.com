@@ -904,7 +904,7 @@ formulario:
     req: true
   - type: check
     name: Enlace Grupo WhatsApp
-    label: Una vez realizada la inscripción, os llegará un enlace para acceder al grupo de las jornadas. Si tenéis algún problema o no recibís el enlace, escribidnos por privado y lo solucionamos.
+    label: Si una vez realizado el formulario de inscripcion no recibes el mail de confirmación o no eres añadido al grupo de WhatsApp de las Jornadas, ponte en contacto con nosotros para solucionarlo.
     full: true
     req: true
 

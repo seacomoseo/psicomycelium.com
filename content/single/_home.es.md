@@ -1,11 +1,11 @@
 ---
 slug: inicio
-title: "Psico Mycelium · Psicología, integración y cuidado"
+title: Psico Mycelium · Psicología, integración y cuidado
 img: /u/base/logo-h.svg
-sum: "Acompañamiento psicológico transpersonal, online en toda España y presencial en Levante y Murcia; cercano, ético y riguroso."
+sum: Acompañamiento psicológico transpersonal, online en toda España y presencial en Levante y Murcia; cercano, ético y riguroso.
 seo:
-  title: "Psico Mycelium · Psicología, integración y cuidado"
-  desc: "Psico Mycelium: acompañamiento psicológico transpersonal, preparación e integración psicodélica y acompañamiento psicológico en procesos con microdosis."
+  title: Psico Mycelium · Psicología, integración y cuidado
+  desc: Acompañamiento psicológico transpersonal, preparación e integración psicodélica y acompañamiento psicológico en procesos con microdosis.
 tpl:
   menu:
     logo: false
