@@ -33,9 +33,9 @@ boxes:
     subject: Nueva inscripción · {{ get title }} · {{ year }}
     confirm:
       enabled: true
-      fields: false
+      fields: true
       intro: |
-        Bienvenid@ [Nombre],
+        Bienvenid@ [[Nombre]],
 
         🌿 ¡Nos alegra mucho darte la bienvenida a PsicoMycelium!
 
@@ -46,10 +46,9 @@ boxes:
         ✨ Gracias por formar parte de esta primera edición y por contribuir con tu presencia a cocrear este espacio.
 
         Nos alegra mucho contar contigo.
-
+      notice: |
         Equipo PsicoMycelium 🌿\
         Jornadas sobre Estados Expandidos de Conciencia
-      notice: ''
     label: Confirmar Inscripción
     action: https://script.google.com/macros/s/AKfycbwdnwLr0ga7SuqUe1pyqVjNz25PseYxJt5bUJOTf8bBzdoCCyPGU42cvAXFVrJoCI9oPw/exec
 # - url: '#formulario'
