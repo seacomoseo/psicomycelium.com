@@ -182,27 +182,24 @@ $bg-alt: true;
   filter: none;
 }
 
-
-#inscripcion {
-  .offer {
-    overflow: hidden;
+.offer {
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  strong {
     position: absolute;
     top: 0;
-    left: 0;
+    right: 0;
+    display: block;
     width: 100%;
-    height: 100%;
-    strong {
-      position: absolute;
-      top: 0;
-      right: 0;
-      display: block;
-      width: 100%;
-      background-color: tomato;
-      color: white;
-      font-weight: 700;
-      padding: .5em 1.5em 0.15em;
-      transform: translate(36%, 80%) rotate(45deg);
-    }
+    background-color: tomato;
+    color: white;
+    font-weight: 700;
+    padding: .5em 1.5em 0.15em;
+    transform: translate(36%, 80%) rotate(45deg);
     svg {
       color: inherit;
     }
