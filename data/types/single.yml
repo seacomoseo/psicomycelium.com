@@ -1,11 +1,11 @@
 title: Páginas Únicas
-weight: 0
 base: single
+weight: 0
 tpl:
   callnow: custom
   section:
-  - size: lg
-    alpha: .7
+  - alpha: .7
     scroll: fix
     pt: 8
     pb: 8
+    size: lg

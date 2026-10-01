@@ -1,5 +1,5 @@
 ---
-slug: inicio
+slug: /
 title: Psico Mycelium · Psicología, integración y cuidado
 img: /u/base/logo-h.svg
 sum: Acompañamiento psicológico transpersonal, online en toda España y presencial en Levante y Murcia; cercano, ético y riguroso.
@@ -74,5 +74,4 @@ org:
   - title: Acompañamiento Psicológico en Procesos con Microdosis
   - title: Tarot Evolutivo
   - title: Formación, mentoría y supervisión para profesionales
-author: amanda
 ---

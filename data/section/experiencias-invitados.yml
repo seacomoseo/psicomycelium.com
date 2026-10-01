@@ -1,4 +1,5 @@
-name: Invitados Mágicos
+name: Experiencias ➡️ Invitados Mágicos
+id: invitados
 if: invitados
 
 boxes:

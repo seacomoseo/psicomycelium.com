@@ -1,4 +1,5 @@
-name: Mapa del viaje
+name: Experiencias ➡️ Mapa del viaje
+id: mapa-viaje
 if: mapa_viaje
 
 boxes:

@@ -37,7 +37,6 @@ price: 60
 category: jornadas
 
 toc: true
-draft: false
 seo:
   title: Jornadas Psico Mycelium · Estados Expandidos de Conciencia (Valencia 2026)
   desc: Encuentro inmersivo, social, cultural y educativo sobre psicodélicos y estados expandidos de conciencia del 9 al 11 de octubre de 2026 en Valencia.
@@ -714,6 +713,11 @@ inscripcion:
       (opcional)
       {.sub}
 
+      **Completo:** Disponibles otras  opciones, [escríbenos](#final) y te informamos.
+
+      **COMPLETO**
+      {.offer}
+
   - title: Menú <br> Vegetariano
     icon: nutrition
     price: \+ 40 €
@@ -768,7 +772,12 @@ formulario:
   - type: h4
     label: 2\. Entrada, Pernocta y Comida
   - type: md
-    md: '**Entrada General:** *60 €*'
+    md: |
+      **Entrada General:** *60 €*
+
+      **Alojamiento en habitación compartida:** *COMPLETO*
+
+      Disponibles otras  opciones, [escríbenos](#final) y te informamos.
   - type: select
     name: Pernocta
     icon: camping
@@ -781,8 +790,8 @@ formulario:
       key: Camper
     - label: No voy a pernoctar en el espacio
       key: No Pernocta
-    - label: Alojamiento en habitación compartida (+ 30 €)
-      key: Alojamiento
+    # - label: Alojamiento en habitación compartida (+ 30 €)
+    #   key: Alojamiento
   - type: check
     name: Menú Vegetariano
     label: Menú vegetariano (+ 40 €)

@@ -1,4 +1,5 @@
-name: Inscripción
+name: Experiencias ➡️ Inscripción
+id: inscripcion
 if: inscripcion
 
 boxes:
