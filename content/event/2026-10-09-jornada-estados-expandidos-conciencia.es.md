@@ -305,7 +305,7 @@ voces:
   - id: voz-marina-gil
     url: '#voz-marina-gil'
     title: Marina Gil
-    sub: "<span>Taller</span> <br> Viaje Somático Breathwork: SOMA Breath"
+    sub: '<span>Taller</span> <br> Viaje Somático Breathwork: SOMA Breath <strong class="fully">**COMPLETO**</strong>'
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/marina-gil.jpg
     md: |
       **Respiración consciente, movimiento somático y música**
@@ -323,6 +323,9 @@ voces:
       Su enfoque integra cuerpo, respiración y conciencia como herramientas para favorecer la regulación del sistema nervioso, el autoconocimiento y la reconexión con la sabiduría interna, desde una mirada cercana, accesible y libre de dogmas.
 
       [[::brand:instagram:: @marinasomatics]](https://www.instagram.com/marinasomatics)
+
+      **COMPLETO**
+      {.fully}
 
   - id: voz-oscar
     url: '#voz-oscar'
@@ -353,7 +356,7 @@ voces:
   - id: voz-chiara-eric
     url: '#voz-chiara-eric'
     title: Eric Haas y Chiara Vitali
-    sub: "<span>Taller</span> <br> Del Viaje a la Vida: Integración Somática de Estados Expandidos de Conciencia"
+    sub: '<span>Taller</span> <br> Del Viaje a la Vida: Integración Somática de Estados Expandidos de Conciencia <strong class="fully">**COMPLETO**</strong>'
     img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/chiara-vitali-eric-haas.jpg
     md: |
       **Transformar una experiencia extraordinaria en un cambio real y sostenible**
@@ -371,6 +374,9 @@ voces:
       Están especializados en terapia psicodélica, acompañando procesos individuales, de pareja y grupales.
 
       [[::link:: www.primalnature.eu]](https://www.primalnature.eu)
+
+      **COMPLETO**
+      {.fully}
 
   - id: voz-javier
     url: '#voz-javier'
@@ -716,7 +722,7 @@ inscripcion:
       **Completo:** Disponibles otras  opciones, [escríbenos](#final) y te informamos.
 
       **COMPLETO**
-      {.offer}
+      {.fully}
 
   - title: Menú <br> Vegetariano
     icon: nutrition
@@ -827,8 +833,9 @@ formulario:
     items:
     - label: En cuerpo y alma — Aina
       key: En cuerpo y alma
-    - label: "Viaje Somático Breathwork: SOMA Breath — Marina Gil"
+    - label: "🚫 COMPLETO 🚫 Viaje Somático Breathwork: SOMA Breath — Marina Gil"
       key: Soma Breath
+      disabled: true
     - label: "Jurema: preparación del extracto y reflexión sobre la medicina — Oscar"
       key: Jurema
 
@@ -839,8 +846,9 @@ formulario:
     req: true
     full: true
     items:
-    - label: "Del Viaje a la Vida: Integración Somática de Estados Expandidos de Conciencia — Eric Haas y Chiara Vitali"
+    - label: "🚫 COMPLETO 🚫 Del Viaje a la Vida: Integración Somática de Estados Expandidos de Conciencia — Eric Haas y Chiara Vitali"
       key: Del Viaje a la Vida
+      disabled: true
     - label: "Escribiendo desde el otro lado: La escritura como brújula y aterrizaje — Javier Aymat"
       key: Escritura Expresiva
     - label: "Bajar la montaña — la integración como parte del viaje — Mario Navarro"
