@@ -163,6 +163,7 @@ mapa_viaje:
         - ::radio_button_unchecked::  **Escribiendo desde el otro lado: La escritura como brújula y aterrizaje** (Javier Aymat)
         - ::radio_button_unchecked::  **Bajar la montaña — la integración como parte del viaje** (Mario Navarro)
       - ::radio_button_checked:: **14:30** · Comida
+      - ::radio_button_checked:: **16:30** · **CULTURA HUNI KUIN**
       - ::radio_button_checked:: **18:00** · **Celebración de cierre**
       <!-- - ::radio_button_checked:: **16:00** · **Jardín de la Conciencia:** Espacio libre de terapias, acompañamientos, masajes, prácticas corporales, tarot, astrología y otras propuestas ofrecidas por la comunidad -->
 
@@ -496,6 +497,44 @@ invitados:
   title: Invitados Mágicos
   sub: Personas y Proyectos que forman parte del Micelio
   boxes:
+  - id: invitado-huni-kuin
+    url: '#invitado-huni-kuin'
+    title: HUNI KUIN
+    sub: Un puente entre la Amazonía y Europa
+    img: /u/experiencias/jornadas/2026-10-09-estados-expandidos-conciencia/huni-kuin.jpg
+    ratio: 927/853
+    md: |
+      ### La Tradición Indígena Huni Kuin
+
+      Es el corazón y la raíz de este camino. Una cultura ancestral viva, transmitida a través de generaciones mediante la lengua, los cantos, las historias, las medicinas tradicionales y la convivencia dentro de la comunidad.
+
+      ### Txana Mãku Huni Kuin
+
+      Txana Mãku pertenece al pueblo indígena Huni Kuin, de la Amazonía brasileña, y vive en la Tierra Indígena Igarapé do Caucho, en el estado de Acre.
+
+      Forma parte del grupo Xinã Bena Keneya y de la familia Txana Huya.
+
+      Desde hace más de 12 años practica y transmite los cantos tradicionales Huni Kuin. Además, desde 2011 participa en la formación indígena PARFOR Equidade, con preparación en el área de las ciencias naturales.
+
+      Su propósito es fortalecer y preservar el conocimiento de sus ancestros, especialmente entre las nuevas generaciones, manteniendo vivas la lengua materna, las medicinas tradicionales y la memoria de su pueblo.
+
+      Hoy comparte parte de este conocimiento también en Europa, llevando la voz y la tradición Huni Kuin a los encuentros realizados entre Brasil, España e Italia.
+
+      Para Txana Mãku, la tradición no pertenece al pasado: es una sabiduría viva que continúa a través de los cantos, la comunidad y la transmisión de generación en generación.
+
+      ### Davide Di Donato · Txana Muti Mãku
+
+      Davide Didonato, quien en su camino junto al pueblo Huni Kuin recibió el nombre de Txana Muti Mãku, es fundador de Mundo Chamánico y creador de un puente entre Brasil, España e Italia, para acercar esta tradición a quienes sienten verdaderamente su llamada.
+
+      Su vínculo con los Huni Kuin nace también de la presencia directa: viaja regularmente a la Amazonía y pasa largos períodos en la selva, compartiendo el día a día con las familias, aprendiendo su lengua, sus cantos y su forma de vivir y comprender la espiritualidad.
+
+      Junto a Txana Mãku Huni Kuin, desarrolla encuentros y viajes que permiten conocer esta cultura desde sus propios representantes y, al mismo tiempo, generar un apoyo material para las familias y comunidades con las que caminan.
+
+      ### Un puente entre la Amazonía y Europa
+
+      Mundo Chamánico nace así como un puente: preservar, respetar y dar espacio a la voz Huni Kuin, creando un intercambio real entre la selva amazónica y Occidente.
+
+      [[::brand:instagram:: @mundo_chamanico]](https://www.instagram.com/mundo_chamanico)
   - id: invitado-espacio-psycare-colectivo-la-nave
     url: '#invitado-espacio-psycare-colectivo-la-nave'
     title: Espacio PsyCare · Colectivo La Nave
