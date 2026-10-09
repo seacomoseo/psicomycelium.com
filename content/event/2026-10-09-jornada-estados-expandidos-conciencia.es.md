@@ -774,6 +774,9 @@ inscripcion:
 
       [[Ver Menú]](#nutrir-la-red)
 
+      **COMPLETO**
+      {.fully}
+
 
 formulario:
   title: Formulario de Inscripción
@@ -835,12 +838,14 @@ formulario:
       key: Camper
     - label: No voy a pernoctar en el espacio
       key: No Pernocta
-    # - label: Alojamiento en habitación compartida (+ 30 €)
-    #   key: Alojamiento
+    - label: 🚫 COMPLETO 🚫 Alojamiento en habitación compartida (+ 30 €)
+      key: Alojamiento
+      disabled: true
   - type: check
     name: Menú Vegetariano
-    label: Menú vegetariano (+ 40 €)
+    label: Menú vegetariano (+ 40 €) 🚫 COMPLETO 🚫
     full: true
+    disabled: true
 
 
   - type: h4
