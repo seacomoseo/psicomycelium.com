@@ -953,21 +953,17 @@ formulario:
 
   - type: h4
     label: 7\. Aceptación de condiciones
-  - type: check
-    name: Aceptación de condiciones
-    label: Acepto las condiciones de participación y la información sobre cuidados, imágenes, accesibilidad y convivencia de las Jornadas.
-    full: true
-    req: true
-  - type: check
-    name: Aportación y Asistencia
-    label: Entiendo que la aportación se abonará en efectivo a la llegada y me comprometo a avisar si no puedo asistir.
-    full: true
-    req: true
-  - type: check
-    name: Enlace Grupo WhatsApp
-    label: Si una vez realizado el formulario de inscripcion no recibes el mail de confirmación o no eres añadido al grupo de WhatsApp de las Jornadas, ponte en contacto con nosotros para solucionarlo.
-    full: true
-    req: true
+  - type: checks
+    items:
+    - key: Aceptación de condiciones
+      label: Acepto las condiciones de participación y la información sobre cuidados, imágenes, accesibilidad y convivencia de las Jornadas.
+      req: true
+    - key: Aportación y Asistencia
+      label: Entiendo que la aportación se abonará en efectivo a la llegada y me comprometo a avisar si no puedo asistir.
+      req: true
+    - key: Enlace Grupo WhatsApp
+      label: Si una vez realizado el formulario de inscripcion no recibes el mail de confirmación o no eres añadido al grupo de WhatsApp de las Jornadas, ponte en contacto con nosotros para solucionarlo.
+      req: true
 
 final: |
   *Psico Mycelium · Ciencia · Psicología · Naturaleza · Comunidad*
