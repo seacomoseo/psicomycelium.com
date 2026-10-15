@@ -1,9 +1,16 @@
 name: Experiencias ➡️ Inscripción
 id: inscripcion
-if: inscripcion
-
 boxes:
-- get:
+- if: not inscripcion.active
+  get:
+  - from: inscripcion.title
+    to: title
+  - from: inscripcion.sub
+    to: sub
+  md: Las inscripciones ya se cerraron.
+  md_align: center
+- if: inscripcion.active
+  get:
   - from: inscripcion.title
     to: title
   - from: inscripcion.sub
@@ -26,7 +33,8 @@ boxes:
     icon_size: 2
     hs: 5
     label: Ver más
-- get:
+- if: inscripcion.active
+  get:
   - from: formulario.inputs
     to: inputs
   form:

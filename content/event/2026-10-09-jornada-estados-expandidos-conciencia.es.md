@@ -729,6 +729,7 @@ espacio:
 
 
 inscripcion:
+  active: false
   title: Inscripción a las Jornadas
   sub: Reserva tu plaza para las Jornadas Psico Mycelium 2026
   md: |
